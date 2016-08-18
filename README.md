@@ -48,6 +48,7 @@
 * [python-guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans.
 
 ## C
+* [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
 * [beeswax](https://github.com/iankronquist/beeswax) - A Next Generation Honeypot for a 2016 Oregon State Senior Project
 * [netdata](https://github.com/firehol/netdata) - Real-time performance monitoring, done right!
 * [micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
@@ -113,13 +114,15 @@
 * [actordb](https://github.com/biokoda/actordb) - ActorDB distributed SQL database
 
 ## Go
+* [ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) - A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.
+* [harbor](https://github.com/vmware/harbor) - An enterprise-class container registry server based on Docker Distribution
 * [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Change for MySQL
 * [vault](https://github.com/hashicorp/vault) - A tool for managing secrets.
 * [cfssl](https://github.com/cloudflare/cfssl) - CFSSL: CloudFlare's PKI and TLS toolkit
 * [certstrap](https://github.com/square/certstrap) - Tools to bootstrap CAs, certificate requests, and signed certificates.
 * [machine](https://github.com/docker/machine) - Machine management for a container-centric world
 * [wego](https://github.com/schachmat/wego) - weather app for the terminal
-* [goimports](https://github.com/bradfitz/goimports) - Tool to fix (add, remove) your Go imports automatically.
+* [goimports](https://github.com/bradfitz/goimports) - (old repo) Tool to fix (add, remove) your Go imports automatically.
 * [goqt](https://github.com/visualfc/goqt) - Golang bindings to the Qt cross-platform application framework.
 * [mysqldriver-go](https://github.com/pubnative/mysqldriver-go) - GC optimized MySQL driver
 * [hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
@@ -220,6 +223,7 @@
 * [1.x](https://github.com/markitup/1.x) - markItUp! Universal markup editor 1.x
 * [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
 * [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell!
+* [django-helpdesk](https://github.com/rossp/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 * [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 * [move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
 * [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps
@@ -289,6 +293,7 @@
 * [gitx](https://github.com/laullon/gitx) - GitX (L) - A gitk clone for OS X
 
 ## Others
+* [awesome-rest](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 * [gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 * [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - A list of the best resources to help you become a pro
@@ -345,6 +350,17 @@
 * [cupapp](https://github.com/zsol/cupapp) - A starcraft2 replay sharing site
 
 ## Python
+* [pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
+* [factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
+* [pytube](https://github.com/pytube/pytube) - A Python media index
+* [attrs](https://github.com/hynek/attrs) - Python Attributes Without Boilerplate
+* [pem](https://github.com/hynek/pem) - Easy PEM file parsing in Python.
+* [certvalidator](https://github.com/wbond/certvalidator) - Python library for validating X.509 certificates and paths
+* [ocspbuilder](https://github.com/wbond/ocspbuilder) - Python library for generating OCSP requests and responses
+* [crlbuilder](https://github.com/wbond/crlbuilder) - Python library for creating and signing certificate revocation lists (CRLs)
+* [csrbuilder](https://github.com/wbond/csrbuilder) - Python library for generating certificate signing requests (CSRs)
+* [asn1crypto](https://github.com/wbond/asn1crypto) - Python ASN.1 library with a focus on performance and a pythonic API
+* [mysqlclient-python](https://github.com/PyMySQL/mysqlclient-python) - MySQL database connector for Python (with Python 3 support)
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
 * [django-report-builder](https://github.com/burke-software/django-report-builder) - A GUI for Django ORM. Build custom queries and display results. Targets sys admins and capable end users who might not be able to program.
@@ -603,7 +619,6 @@
 * [mETL](https://github.com/ceumicrodata/mETL) - mito ETL tool
 * [huxley](https://github.com/facebookarchive/huxley) - A testing system for catching visual regressions in Web applications.
 * [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
-* [django-helpdesk](https://github.com/rossp/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 * [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
 * [django-hosts](https://github.com/jazzband/django-hosts) - Dynamic and static host resolving for Django. Maps hostnames to URLconfs.
 * [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions for Django
@@ -626,7 +641,7 @@
 * [django-wiki](https://github.com/django-wiki/django-wiki) - A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
 * [treeio](https://github.com/treeio/treeio) - Tree.io
 * [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform crash reporting built with love
-* [Misago](https://github.com/rafalp/Misago) - Misago is fully featured forum application written in Python and ES6
+* [Misago](https://github.com/rafalp/Misago) - Misago is fully featured forum application written in Python and ES6, powered by Django and React.js
 * [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
 * [django-google-charts](https://github.com/mvasilkov/django-google-charts) - Google Visualization API template tags and helpers for Django framework
 * [django-social-auth](https://github.com/omab/django-social-auth) - Django social authentication made simple
@@ -712,6 +727,7 @@
 * [gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & github API compatibility
 
 ## Shell
+* [go-fast](https://github.com/kovetskiy/go-fast) - Compile Go programs 7x faster
 * [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server
 * [docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
 * [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
