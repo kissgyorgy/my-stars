@@ -5,7 +5,6 @@
 
 ## Contents
 
-  - [ApacheConf](#apacheconf)
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
   - [Batchfile](#batchfile)
@@ -19,28 +18,28 @@
   - [Go](#go)
   - [HTML](#html)
   - [Hack](#hack)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter notebook)
+  - [Kotlin](#kotlin)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [Pascal](#pascal)
   - [Perl](#perl)
-  - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
   - [Vim script](#vim script)
   - [VimL](#viml)
   - [Vue](#vue)
-
-## ApacheConf 
-
-- [w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org
 
 ## AppleScript 
 
@@ -48,6 +47,7 @@
 
 ## Assembly 
 
+- [asmttpd](https://github.com/nemasu/asmttpd) - Web server for Linux written in amd64 assembly.
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 
@@ -57,14 +57,25 @@
 
 ## C 
 
+- [wallindle](https://github.com/cekage/wallindle) - Wallabag native client for e-ink kindle
+- [ltp](https://github.com/linux-test-project/ltp) - Linux Test Project
+- [mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
+- [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [OpenPHT](https://github.com/RasPlex/OpenPHT) - OpenPHT is a community driven fork of Plex Home Theater
+- [phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
+- [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
+- [python-systemd](https://github.com/systemd/python-systemd) - Python wrappers for systemd functionality
+- [snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
+- [mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+- [systemd](https://github.com/systemd/systemd) - ⚙️ 🐧 systemd System and Service Manager
 - [rxvt-unicode](https://github.com/exg/rxvt-unicode) - git mirror of rxvt-unicode cvs repository
 - [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
-- [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser.
+- [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
+- [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto
 - [phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
 - [uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
-- [scandir](https://github.com/benhoyt/scandir) - Better directory iterator and faster os.walk(), now in the Python 3.5 stdlib
 - [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
 - [beeswax](https://github.com/iankronquist/beeswax) - A Next Generation Honeypot for a 2016 Oregon State Senior Project
 - [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
@@ -92,6 +103,9 @@
 
 ## C++ 
 
+- [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [sedutil](https://github.com/Drive-Trust-Alliance/sedutil) - DTA sedutil  Self encrypting drive software
+- [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [node-x509](https://github.com/Southern/node-x509) - Simple X509 certificate parser.
@@ -107,14 +121,19 @@
 - [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [colobot](https://github.com/colobot/colobot) - Source code of open-source Colobot: Gold Edition project developed by Epsitec and TerranovaTeam
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi Main Repository - By using this code you agree with our policy and will follow the GPLv2 license as included
-- [hhvm](https://github.com/facebook/hhvm) - A virtual machine designed for executing programs written in Hack and PHP.
+- [hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 
 ## CSS 
 
+- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
+- [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [transmission-web-control](https://github.com/ronggang/transmission-web-control) - Transmission Web Control is a custom web UI. The project began in Google Code.
+- [boltdbweb](https://github.com/evnix/boltdbweb) - A web based GUI for BoltDB files
 - [coderegation](https://github.com/balabit/coderegation) - We congregate spontaneously to watch nerdy videos.
 - [jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
+- [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [amplify](https://github.com/ageitgey/amplify) - A Jekyll html theme in the vague style of Medium.com built using Google AMP
-- [django-material](https://github.com/viewflow/django-material) - Material Design for django forms and admin
+- [django-material](https://github.com/viewflow/django-material) - Material Design for Django
 - [resume](https://github.com/hanula/resume) - Python resume generator. From YAML to PDF and static HTML.
 - [picnic](https://github.com/franciscop/picnic) - :handbag: A beautiful CSS library to kickstart your projects
 - [node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) - Bootstrap a crossplatform Desktop Application using tools you probably never heard of.
@@ -124,6 +143,8 @@
 - [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme the precursor to Base16 Theme
 - [PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
 - [Balloons.IO](https://github.com/rickyrauch/Balloons.IO) - Balloons.IO is a web multi-room chat server and client ready to use. It’s built with the help of node.JS, Express, Socket.IO and Redis. Balloons uses PassportJS for authentication with Twitter and Facebook
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [humane-js](https://github.com/wavded/humane-js) - A simple, modern, browser notification system
 - [Helveticards](https://github.com/zachwaugh/Helveticards) - 100% CSS playing cards, originally created for the Pitboss poker server, you can see live demo at link below
 - [kettu](https://github.com/endor/kettu) - Rewrite of the Transmission Web Client with jQuery, Sammy and Mustache
@@ -137,6 +158,7 @@
 
 ## Emacs Lisp 
 
+- [magit](https://github.com/magit/magit) - It's Magit! A Git porcelain inside Emacs.
 - [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## Erlang 
@@ -145,13 +167,38 @@
 
 ## Go 
 
+- [go-prompt](https://github.com/c-bata/go-prompt) - Building a powerful interactive prompt in Go, inspired by python-prompt-toolkit.
+- [soundscape](https://github.com/soundscapecloud/soundscape) - Soundscape - a personal music streaming server
+- [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
+- [caire](https://github.com/esimov/caire) - Content aware image resize library
+- [go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
+- [gitea](https://github.com/go-gitea/gitea) - Gitea: Git with a cup of tea
+- [redoctober](https://github.com/cloudflare/redoctober) - Go server for two-man rule style file encryption and decryption.
+- [cfssl_trust](https://github.com/cloudflare/cfssl_trust) - CFSSL's CA trust store repository
+- [certmgr](https://github.com/cloudflare/certmgr) - Automated certificate management using a CFSSL CA.
+- [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
+- [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
+- [promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
+- [draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
+- [helm](https://github.com/kubernetes/helm) - The Kubernetes Package Manager
+- [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+- [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [slack](https://github.com/nlopes/slack) - Slack API in Go
+- [progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progressbar for Golang applications
+- [powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
+- [matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
+- [atmanos](https://github.com/atmanos/atmanos) - Build Go programs that run directly on the Xen hypervisor
+- [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
+- [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native SQL database.
 - [go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [dep](https://github.com/golang/dep) - Go dependency management tool
-- [filemanager](https://github.com/hacdias/filemanager) - :file_folder: Web File Manager which can be used as a middleware or standalone app.
+- [filebrowser](https://github.com/filebrowser/filebrowser) - :file_folder: Web File Manager which can be used as a middleware or standalone app.
 - [upspin](https://github.com/upspin/upspin) - Upspin: A framework for naming everyone's everything.
 - [gopass](https://github.com/justwatchcom/gopass) - The slightly more awesome standard unix password manager for teams
 - [pinhole](https://github.com/tidwall/pinhole) - 3D Wireframe Drawing Library for Go
@@ -166,19 +213,19 @@
 - [liner](https://github.com/peterh/liner) - Pure Go line editor with history, inspired by linenoise
 - [pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 - [ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go.
-- [hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang.
+- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [open-golang](https://github.com/skratchdot/open-golang) - Open a file, directory, or URI using the OS's default application for that object type. Optionally, you can specify an application to use.
 - [os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [reg](https://github.com/jessfraz/reg) - Docker registry v2 command line client.
+- [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client.
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [whalebrew](https://github.com/bfirsh/whalebrew) - Homebrew, but with Docker images
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
-- [autovpn](https://github.com/adtac/autovpn) - Easily connect to a VPN in a country of your choice.
+- [autovpn](https://github.com/adtac/autovpn) - Connect to a VPN in a country of your choice.
 - [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
 - [tls-observatory](https://github.com/mozilla/tls-observatory) - An observatory for TLS configurations, X509 certificates, and more.
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -188,7 +235,7 @@
 - [ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) - A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.
 - [harbor](https://github.com/vmware/harbor) - An enterprise-class container registry server based on Docker Distribution
 - [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
-- [vault](https://github.com/hashicorp/vault) - A tool for managing secrets.
+- [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [certstrap](https://github.com/square/certstrap) - Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [machine](https://github.com/docker/machine) - Machine management for a container-centric world
@@ -214,15 +261,15 @@
 
 ## HTML 
 
-- [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+- [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [html](https://github.com/w3c/html) - Working Draft of the HTML specification
 - [schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and (appengine) software
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 - [paws](https://github.com/xevrem/paws) - Python Async Web Server
+- [w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org
 - [jobs](https://github.com/pythonjobs/jobs) - A repository for our international job listings
 - [cloud-meetup-2015](https://github.com/gulyasm/cloud-meetup-2015) - Meetup presentation about Terraform at Cloud Meetup Budapest.
 - [code_py](https://github.com/chrisalbon/code_py) - A collection of well-commented code snippets for data science
-- [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python
 - [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
@@ -234,15 +281,18 @@
 - [floating-point-gui.de](https://github.com/brazzy/floating-point-gui.de) - Website that provides concise  answers to common questions about floating-point numbers.
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [animate](https://github.com/joshuapekera/animate) - A library of CSS3 keyframe animations authored using LESS
+- [colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 - [stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
-- [bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [chosen](https://github.com/harvesthq/chosen) - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [git-achievements](https://github.com/icefox/git-achievements) - Aquire achievements while using git.
 
 ## Hack 
 
 - [fbctf](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions
+
+## Haskell 
+
+- [Son](https://github.com/seagreen/Son) - A minimal subset of JSON for machine-to-machine communication
 
 ## Java 
 
@@ -253,28 +303,38 @@
 
 ## JavaScript 
 
+- [gallery](https://github.com/nextcloud/gallery) - :sunrise: Gallery app for Nextcloud, which includes previews for all supported media files
+- [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) - Meteor version of the original Plex Requests
+- [tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
+- [spreed](https://github.com/nextcloud/spreed) - 📞😀 Nextcloud Talk - Chat, Video & audio calls for Nextcloud
+- [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [polls](https://github.com/nextcloud/polls) - 📊 Polls app for Nextcloud
+- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [passman](https://github.com/nextcloud/passman) - 🔑 Passman is a password manager for Nextcloud. Demo: https://demo.passman.cc Twitter: @passmancc
+- [learn-anything](https://github.com/learn-anything/learn-anything) - 🗺 Search Interactive Maps to Learn Anything
+- [ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
+- [jquery.recurrenceinput.js](https://github.com/collective/jquery.recurrenceinput.js) - jQuery recurrence widget based on the icalendar RFC5545 standard
+- [gatsby](https://github.com/gatsbyjs/gatsby) - ⚛️📄🚀 Blazing fast static site generator for React
 - [skypad](https://github.com/skygear-demo/skypad) - Skypad
-- [Hugofy](https://github.com/akmittal/Hugofy) - Hugo plugin for Sublime Text 3
+- [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
 - [create-x509-certificate](https://github.com/infotechinc/create-x509-certificate) - Create a self-signed x-509 certificate with the Web Cryptography API and PKIjs
-- [vue-loader](https://github.com/vuejs/vue-loader) - Webpack loader for Vue.js components
+- [vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [react-google-maps](https://github.com/tomchentw/react-google-maps) - React.js Google Maps integration component
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component
 - [superagent](https://github.com/visionmedia/superagent) - Ajax with less suck - (and node.js HTTP client to match)
-- [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
-- [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+- [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [create-react-app](https://github.com/facebook/create-react-app) - Create React apps with no build configuration.
 - [django-react-redux-base](https://github.com/Seedstars/django-react-redux-base) - Seedstars Labs Base Django React Redux Project
 - [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
 - [phantomized](https://github.com/dustinblackman/phantomized) - All dynamic PhantomJS ELFs in one simple tar
 - [django-map-widgets](https://github.com/erdem/django-map-widgets) - Pluggable map widgets for Django Postgis fields
 - [cf-ui](https://github.com/cloudflare/cf-ui) - :gem: Cloudflare UI Framework
 - [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
-- [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework
 - [ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is deprecated, see:
-- [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [Jed](https://github.com/messageformat/Jed) - Gettext Style i18n for Modern JavaScript Apps
 - [gnome-shell-extension-sshsearch](https://github.com/brot/gnome-shell-extension-sshsearch) - Gnome Shell Extension: Provide SSH search results in overview
@@ -283,15 +343,16 @@
 - [mooeditable](https://github.com/cheeaun/mooeditable) - [DISCONTINUED] A simple web-based WYSIWYG editor, written in MooTools.
 - [emoji-translate](https://github.com/notwaldorf/emoji-translate) - :books: Translate text to ✨emoji ✨!
 - [MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
-- [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10
+- [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [deck-of-cards](https://github.com/pakastin/deck-of-cards) - HTML5 Deck of Cards
 - [poker-evaluator](https://github.com/chenosaurus/poker-evaluator) - poker hand evaluator
 - [slack-irc](https://github.com/ekmartin/slack-irc) - Connects Slack and IRC channels by sending messages back and forth.
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+- [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [bootstrap-zero](https://github.com/iatek/bootstrap-zero) - Bootstrap templates and themes project
-- [uBlock](https://github.com/chrisaljoudi/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
+- [uBlock](https://github.com/uBlockAdmin/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [c3](https://github.com/c3js/c3) - A D3-based reusable chart library
@@ -303,7 +364,7 @@
 - [summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [jzed](https://github.com/zedshaw/jzed) - Functional Javascript alternative to JQuery.
 - [image-occlusion-2](https://github.com/tmbb/image-occlusion-2) - Image Occlusion addon for Anki
-- [Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The second edition of Eloquent JavaScript
+- [Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The sources for the Eloquent JavaScript book
 - [flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
 - [django-inplaceedit-bootstrap](https://github.com/django-inplaceedit/django-inplaceedit-bootstrap) - Integration of django-inplaceedit with bootstrap 3
 - [select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
@@ -315,7 +376,6 @@
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
 - [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell!
-- [django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
 - [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
@@ -334,13 +394,13 @@
 - [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
 - [bootstrap-toggle](https://github.com/goodybag/bootstrap-toggle) - Bootstrap toggle switches - Fork it and make it better :D
-- [colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 - [fixie](https://github.com/ryhan/fixie) - Automatically add filler content to HTML documents based on semantic tags.
 - [mojito](https://github.com/YahooArchive/mojito) - [archiving soon] Yahoo! Mojito Framework
 - [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - Simple, beautiful wysiwyg editor
 - [mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
 - [pagedown-bootstrap](https://github.com/samwillis/pagedown-bootstrap) - Markdown to HTML converter and editor for Twitter Bootstrap based on http://code.google.com/p/pagedown/
 - [picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for &lt;picture&gt;, srcset, sizes, and more
+- [bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [Trello-Bookmarklet](https://github.com/danlec/Trello-Bookmarklet) - A bookmarklet that creates Trello cards from info on other webpages (e.g. FogBugz and github issues)
 - [tinycon](https://github.com/tommoor/tinycon) - A small library for manipulating the favicon, in particular adding alert bubbles and changing images.
 - [jQuery-Truncate](https://github.com/Poetro/jQuery-Truncate) - Truncate selected elements to a given length with a "Continue reading" button.
@@ -349,13 +409,12 @@
 - [URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
 - [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
 - [ResponsiveSlides.js](https://github.com/viljamis/ResponsiveSlides.js) - Simple & lightweight responsive slider plugin (in 1kb)
-- [dbox](https://github.com/sintaxi/dbox) - NodeJS SDK for Dropbox API
-- [google_analytics](https://github.com/pierlo-upitup/google_analytics) - FuelCMS - Google Analytics module
+- [dbox](https://github.com/sintaxi/dbox) - NodeJS SDK for Dropbox API (THIS LIBRARY IS OBSOLETE!!)
+- [google_analytics](https://github.com/pierluigi/google_analytics) - FuelCMS - Google Analytics module
 - [grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 - [hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [xdate](https://github.com/arshaw/xdate) - A Modern JavaScript Date Library
 - [Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [smoke.js](https://github.com/hxgf/smoke.js) - framework-agnostic styled alert system for javascript
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
@@ -376,17 +435,24 @@
 
 ## Jupyter Notebook 
 
+- [hchasestevens.github.io](https://github.com/hchasestevens/hchasestevens.github.io) - A collection of miscellaneous thoughts that aren't on my blog.
+- [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
+- [keras_playground](https://github.com/devill/keras_playground) - 
 - [python_reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
+
+## Kotlin 
+
+- [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
 ## OCaml 
 
-- [ocaml-certify](https://github.com/yomimono/ocaml-certify) - Small command-line tool for making certificates with OCaml x509/nocrypto toolstack.
+- [ocaml-certify](https://github.com/yomimono/ocaml-certify) - Small command-line tools for making certificates with OCaml x509/nocrypto toolstack.
 
 ## Objective-C 
 
-- [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
+- [notes-iOS-App](https://github.com/owncloud/notes-iOS-App) - :notebook:
 - [AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
-- [Platypus](https://github.com/sveinbjornt/Platypus) - OS X developer tool to create application bundles from scripts
+- [Platypus](https://github.com/sveinbjornt/Platypus) - Mac developer tool that creates application bundles from command line scripts
 - [gitx](https://github.com/rowanj/gitx) - Fork of Pieter's nice git GUI for OS X.  Includes branch/tag sidebar and various fixes. Current development focus is on removing legacy git command line usage in favour of libgit2 and objective-git.
 - [nui](https://github.com/tombenner/nui) - Style iOS apps with a stylesheet, similar to CSS
 - [heard](https://github.com/tmcw/heard) - a minimal, local listener for iTunes data.
@@ -394,7 +460,14 @@
 
 ## Others 
 
-- [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+- [i3wm](https://github.com/tobiaszwaszak/i3wm) - solarized dark i3 theme
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - :octocat: High Scalability, High Availability, and High Stability Back-end Design Patterns
+- [sslconfig](https://github.com/cloudflare/sslconfig) - Cloudflare's Internet facing SSL configuration
+- [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [issues](https://github.com/deadsnakes/issues) - Issues for https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+- [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+- [openvpn-docker-alpine](https://github.com/timm088/openvpn-docker-alpine) - 
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [xresources](https://github.com/solarized/xresources) - Solarized for X Windows
 - [microgrants](https://github.com/nayafia/microgrants) - A list of microgrant programs for your good ideas
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
@@ -413,18 +486,17 @@
 - [mqtt.github.io](https://github.com/mqtt/mqtt.github.io) - website
 - [awesome-rest](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
 - [gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
-- [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - A list of the best resources to help you become a pro
+- [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - A curated list of resources to help you start learning a new CS topic
 - [bang-bang-notes](https://github.com/lionelbarrow/bang-bang-notes) - Notes on BangBangCon 2016
-- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [conference-notes](https://github.com/underyx/conference-notes) - Notes I've scribbled down at tech conferences
 - [docker-birthday-3](https://github.com/docker/docker-birthday-3) - 
+- [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide
 - [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) - 🍭 A curated list of awesome twitter accounts, organised by community
 - [pywat](https://github.com/cosmologicon/pywat) - Python wats
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [contributing-tests](https://github.com/testdouble/contributing-tests) - 
-- [shuup](https://github.com/shuup/shuup) - E-Commerce Platform
-- [post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Pull requests welcome :-)
+- [post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk) - A step by step guide of how to start contracting in United Kingdom
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [ask-me-about-api-design](https://github.com/keleshev/ask-me-about-api-design) - Me giving you advice on API design in your open-source project: create an issue to start discussion
@@ -435,11 +507,12 @@
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [awesome-django](https://github.com/rosarior/awesome-django) - Repository mirror of GitLab: https://gitlab.com/rosarior/awesome-django
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [api-standards](https://github.com/18F/api-standards) - API Standards for 18F
-- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git - a work in progress!
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [Core](https://github.com/SublimeTextIssues/Core) - Bug tracking for Sublime Text's "Core"
 - [js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -462,11 +535,25 @@
 
 ## PHP 
 
+- [wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+- [monica](https://github.com/monicahq/monica) - Intuitive web application to remember everything about your friends and family.
+- [Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
+- [nextcloud-drawio](https://github.com/pawelrojek/nextcloud-drawio) - Draw.io intergration app
+- [files_snapshots](https://github.com/icewind1991/files_snapshots) - Access filesystem snapshots from Nextcloud
+- [gallery3](https://github.com/gallery/gallery3) - The simplest, most intuitive way to host your photos on your website.
+- [ocdownloader](https://github.com/e-alfred/ocdownloader) - ocDownloader - AGPL-licensed multi-protocol download manager for Nextcloud using ARIA2, youtube-dl and Curl (supports Youtube, BitTorrent, HTTP, FTP)
+- [groupfolders](https://github.com/nextcloud/groupfolders) - Admin configured folders shared by everyone in a group.
+- [server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [phpki](https://github.com/radicand/phpki) - Fork of PHPki (Sourceforge)
 - [emojione](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard.  #iwantemojione
 - [pwnazon](https://github.com/mflint/pwnazon) - Fake ad server for your "Amazon Kindle with Special Offers"
 - [Laravel-Alfred-Extension](https://github.com/clarkeash/Laravel-Alfred-Extension) - 
 - [cupapp](https://github.com/zsol/cupapp) - A starcraft2 replay sharing site
+
+## Pascal 
+
+- [transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
 
 ## Perl 
 
@@ -475,17 +562,55 @@
 - [ssl-admin](https://github.com/ecrist/ssl-admin) - Interactive x509 CA Manager
 - [rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
 
-## PowerShell 
-
-- [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-
 ## Python 
 
+- [typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
+- [setuptools_scm](https://github.com/pypa/setuptools_scm) - the blessed package to manage your versions by scm tags
+- [fbone](https://github.com/imwilsonxu/fbone) - Fbone (Flask bone) is a Flask (Python microframework) starter/template/bootstrap/boilerplate application.
+- [python](https://github.com/albertlauncher/python) - A repository for the official Python extensions
+- [typing_inspect](https://github.com/ilevkivskyi/typing_inspect) - Runtime inspection utilities for Python typing module
+- [django-constance](https://github.com/jazzband/django-constance) - Dynamic Django settings.
+- [cowdict](https://github.com/csernazs/cowdict) - Copy-on-write dictionary
+- [misc](https://github.com/csernazs/misc) - Random stuff
+- [flask-simpleldap](https://github.com/admiralobvious/flask-simpleldap) - LDAP authentication extension for the Flask web framework
+- [Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
+- [PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
+- [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
+- [nginx-ldap-auth](https://github.com/nginxinc/nginx-ldap-auth) - Example of LDAP authentication using ngx_http_auth_request_module
+- [ply](https://github.com/dabeaz/ply) - Python Lex-Yacc
+- [process-isolation](https://github.com/alexflint/process-isolation) - Elegant process isolation in pure python
+- [q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
+- [croniter](https://github.com/taichino/croniter) - croniter is a python module to provide iteration for datetime object.
+- [crontabs](https://github.com/robdmc/crontabs) - :alarm_clock: A cron-like utility for Python
+- [Eel](https://github.com/ChrisKnott/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
+- [whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
+- [MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types
+- [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command lines in Python
+- [elasticsearch-gmail](https://github.com/oliver006/elasticsearch-gmail) - Index your Gmail Inbox with Elasticsearch
+- [rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
+- [pyznap](https://github.com/yboetz/pyznap) - ZFS snapshot tool written in python
+- [peps](https://github.com/python/peps) - Python Enhancement Proposals
+- [bucket-stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
+- [cr-proxy](https://github.com/royale-proxy/cr-proxy) - A simple Clash Royale proxy, implementing the new encryption, built on top of Twisted in Python 3.5.
+- [cheroot](https://github.com/cherrypy/cheroot) - Cheroot is the high-performance, pure-Python HTTP server used by CherryPy.
+- [sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS server scanning library.
+- [hypothesis-python](https://github.com/HypothesisWorks/hypothesis-python) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+- [aiocron](https://github.com/gawel/aiocron) - Crontabs for asyncio
+- [python-crontab](https://github.com/doctormo/python-crontab) - Crontab module for reading and writing crontab files and accessing the system cron automatically and simply using a direct API.
+- [croniter](https://github.com/kiorky/croniter) - croniter is a python module to provide iteration for datetime object.
+- [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
+- [dash](https://github.com/plotly/dash) - Interactive, Reactive Web Apps for Python. Dash Is Productive™
+- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
+- [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
+- [graphene-django](https://github.com/graphql-python/graphene-django) - Graphene Django integration
+- [lemur-docker](https://github.com/Netflix/lemur-docker) - Docker files for the Lemur certificate orchestration tool
+- [i3ipc-python](https://github.com/acrisci/i3ipc-python) - An improved Python library to control i3wm.
 - [dataclasses](https://github.com/ericvsmith/dataclasses) - 
-- [pyldap](https://github.com/pyldap/pyldap) - Python 3 compatible ldap library
+- [pyldap](https://github.com/pyldap/pyldap) - THIS FORK IS DEPRECATED; development moved to python-ldap
 - [pyFldigi](https://github.com/KM4YRI/pyFldigi) - Python library to control FLDIGI via XML-RPC
 - [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
-- [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images or animate interesting algorithms in mathematics with Python.
+- [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images and animate interesting algorithms in mathematics with Python. Fractals, Penrose tilings, reaction-diffusion, Wilson's uniform spanning tree algorithm, domino shuffling algorithm, coupling from the past,  4D polytopes, Mobius transformations, hyperbolic tilings. www.pywonderland.com.
+- [Hugofy-sublime](https://github.com/akmittal/Hugofy-sublime) - Hugo plugin for Sublime Text 3
 - [dmenu-frecency](https://github.com/kspi/dmenu-frecency) - A dmenu-based desktop application launcher
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [lancer](https://github.com/glyph/lancer) - 
@@ -502,16 +627,16 @@
 - [cpython](https://github.com/python/cpython) - The Python programming language
 - [trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
-- [pipenv](https://github.com/kennethreitz/pipenv) - Sacred Marriage of Pipfile, Pip, & Virtualenv.
+- [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [pyup-django](https://github.com/pyupio/pyup-django) - Displays a red warning banner if you are running an insecure Django release.
-- [aiohttp](https://github.com/aio-libs/aiohttp) - Async http client/server framework (asyncio)
+- [aiohttp](https://github.com/aio-libs/aiohttp) - HTTP client/server framework for asyncio
 - [pkitool](https://github.com/clebergnu/pkitool) - Simple PKI tool
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [pyramid-cookiecutter-alchemy](https://github.com/Pylons/pyramid-cookiecutter-alchemy) - A Cookiecutter (project template) for creating a Pyramid project using SQLite for persistent storage, SQLAlchemy for an ORM, URL dispatch for routing, and Jinja2 for templating.
 - [pyramid-cookiecutter-starter](https://github.com/Pylons/pyramid-cookiecutter-starter) - A Cookiecutter (project template) for creating a Pyramid starter project using URL dispatch for routing and either Jinja2, Chameleon, or Mako for templating.
 - [django-x509](https://github.com/openwisp/django-x509) - Reusable django app implementing x509 PKI certificates management
 - [certcheck](https://github.com/zombofant/certcheck) - certcheck is a tool which keeps an eye on your x509/ssl certificates expiry date
-- [django-x509](https://github.com/novafloss/django-x509) - How to enable x509 authentication with your Django App
+- [django-x509](https://github.com/peopledoc/django-x509) - How to enable x509 authentication with your Django App
 - [x509test](https://github.com/yymax/x509test) - A Python3 software that validates a client's side SSL/TLS application's X509 verification process
 - [raven-python](https://github.com/getsentry/raven-python) - Raven is a Python client for Sentry (getsentry.com)
 - [python-engineio](https://github.com/miguelgrinberg/python-engineio) - Python Engine.IO server
@@ -546,6 +671,7 @@
 - [py-moneyed](https://github.com/limist/py-moneyed) - Provides Currency and Money classes for use in your Python code.
 - [flask_jsondash](https://github.com/christabor/flask_jsondash) - :snake: :bar_chart: :chart_with_upwards_trend: Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go.
 - [pyformat.info](https://github.com/ulope/pyformat.info) - Single page cheat-sheet about Python string formatting
+- [scandir](https://github.com/benhoyt/scandir) - Better directory iterator and faster os.walk(), now in the Python 3.5 stdlib
 - [django-friendship](https://github.com/revsys/django-friendship) - Django app to manage following and bi-directional friendships
 - [pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
 - [factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
@@ -563,7 +689,7 @@
 - [django-report-builder](https://github.com/burke-software/django-report-builder) - A GUI for Django ORM. Build custom queries and display results. Targets sys admins and capable end users who might not be able to program.
 - [schooldriver](https://github.com/burke-software/schooldriver) - A school information system made in django. Relies heavily on the django admin interface and includes many pluggable apps.
 - [django-uwsgi-cache](https://github.com/ionelmc/django-uwsgi-cache) - uWSGI Django cache backend.
-- [sshuttle](https://github.com/apenwarr/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
+- [sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [Instant-Movie-Streamer](https://github.com/yask123/Instant-Movie-Streamer) - 🎥  Streams the movie/ tv series instantly.
 - [snowflake](https://github.com/vishnubob/snowflake) - Snowflake Generator
@@ -607,7 +733,7 @@
 - [python-elevator-challenge](https://github.com/mshang/python-elevator-challenge) - So You Think You Can Program An Elevator
 - [django-solo](https://github.com/lazybird/django-solo) - Helps working with singletons - things like global settings that you want to edit from the admin site.
 - [PyOrgMode](https://github.com/bjonnh/PyOrgMode) - A python class for reading and writing orgmode files
-- [django-tables2](https://github.com/bradleyayers/django-tables2) - django-tables2 - An app for creating HTML tables
+- [django-tables2](https://github.com/jieter/django-tables2) - django-tables2 - An app for creating HTML tables
 - [joblib](https://github.com/joblib/joblib) - Python function as pipeline jobs.
 - [ispy](https://github.com/dellis23/ispy) - Monitor the output of terminals and processes.
 - [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python and CLI
@@ -630,12 +756,13 @@
 - [django-click](https://github.com/GaretJax/django-click) - Write Django management command using the click CLI library
 - [DashDoc](https://github.com/farcaller/DashDoc) - Dash integration for Sublime Text
 - [django-bulk-admin](https://github.com/purelabs/django-bulk-admin) - Django bulk admin enables you to bulk add, bulk edit, bulk upload and bulk select in django admin.
-- [certbot](https://github.com/certbot/certbot) - Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [pyramid-admin](https://github.com/ztane/pyramid-admin) - Pyramid-Admin, a fork of Flask-Admin for Pyramid integration
 - [Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions) - Dash repo of user contributed docsets
 - [fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [Pylsy](https://github.com/Leviathan1995/Pylsy) - Pylsy is a simple python library draw tables in the Terminal.Just two lines of code .
 - [intermediatePython](https://github.com/yasoob/intermediatePython) - 
+- [shuup](https://github.com/shuup/shuup) - E-Commerce Platform
 - [bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python
 - [python-future](https://github.com/PythonCharmers/python-future) - Easy, clean, reliable Python 2/3 compatibility
 - [ziggurat_foundations](https://github.com/ergo/ziggurat_foundations) - Framework agnostic set of sqlalchemy classes that make building applications that require permissions an easy task.
@@ -663,14 +790,13 @@
 - [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict) - Persistent dict, backed by sqlite3 and pickle, multithread-safe.
 - [spyne](https://github.com/arskom/spyne) - A transport and architecture agnostic RPC library that focuses on exposing services with a well-defined API using popular protocols.
 - [nameko](https://github.com/nameko/nameko) - Python framework for building microservices
-- [boltons](https://github.com/mahmoud/boltons) - Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton.
+- [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton.
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
 - [reverse-geocoder](https://github.com/thampiman/reverse-geocoder) - A fast, offline reverse geocoder in Python
 - [redislite](https://github.com/yahoo/redislite) - Redis in a python module
 - [pysimplesoap](https://github.com/pysimplesoap/pysimplesoap) - Python Simple SOAP Library
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon) - taking TDD to a new level with testmon and py.test for Python
 - [mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
-- [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB
 - [snakebite](https://github.com/spotify/snakebite) - A pure python HDFS client
 - [Hadoop](https://github.com/matteobertozzi/Hadoop) - Hadoop (Utilities, Patches and Examples)
@@ -681,10 +807,10 @@
 - [pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
 - [pygeoip](https://github.com/appliedsec/pygeoip) - Pure Python API for Maxmind's binary GeoIP databases
 - [pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
-- [wifiphisher](https://github.com/wifiphisher/wifiphisher) - Automated victim-customized phishing attacks against Wi-Fi clients
+- [wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [pythonpy](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line
 - [invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
-- [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3
+- [newspaper](https://github.com/codelucas/newspaper) - 💡 News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [Nuitka](https://github.com/kayhayen/Nuitka) - Official mirror of Nuitka as from http://nuitka.net
 - [django-tenancy](https://github.com/charettes/django-tenancy) - Handle multi-tenancy in Django with no additional global state using schemas.
 - [moto](https://github.com/spulec/moto) - Moto is a library that allows your python tests to easily mock out the boto library
@@ -721,7 +847,7 @@
 - [sqlalchemy-utils](https://github.com/kvesteri/sqlalchemy-utils) - Various utility functions and datatypes for SQLAlchemy.
 - [webtest](https://github.com/Pylons/webtest) - Wraps any WSGI application and makes it easy to send test requests to that application, without starting up an HTTP server.
 - [pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
-- [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
+- [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
 - [unstdlib.py](https://github.com/shazow/unstdlib.py) - Unstandard Python library of useful and highly-reusable functions.
 - [wifite](https://github.com/derv82/wifite) - 
 - [pluginbase](https://github.com/mitsuhiko/pluginbase) - A simple but flexible plugin system for Python.
@@ -764,7 +890,7 @@
 - [flask-restless](https://github.com/jfinkels/flask-restless) - A Flask extension for creating simple ReSTful JSON APIs from SQLAlchemy models.
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [flask-social](https://github.com/mattupstate/flask-social) - OAuth Provider Integration for Flask-Security
-- [oauthlib](https://github.com/idan/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
+- [oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
 - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 - [flask-kvsession](https://github.com/mbr/flask-kvsession) - A drop-in replacement for Flask's session handling using server-side sessions.
@@ -796,7 +922,7 @@
 - [pyjnius](https://github.com/kivy/pyjnius) - Access Java classes from Python
 - [django-annoying](https://github.com/skorokithakis/django-annoying) - A django application that tries to eliminate annoying things in the Django framework.
 - [storm](https://github.com/emre/storm) - Manage your SSH like a boss.
-- [readthedocs.org](https://github.com/rtfd/readthedocs.org) - source code to readthedocs.org
+- [readthedocs.org](https://github.com/rtfd/readthedocs.org) - The source code that powers readthedocs.org
 - [python-twitter](https://github.com/bear/python-twitter) - A Python wrapper around the Twitter API.
 - [fabric-bolt](https://github.com/fabric-bolt/fabric-bolt) - Fabric deployments via a web interface
 - [coveralls-python](https://github.com/coveralls-clients/coveralls-python) - Show coverage stats online via coveralls.io
@@ -812,16 +938,17 @@
 - [Splat](https://github.com/evandrix/Splat) - FYP
 - [sqlalchemy](https://github.com/mitsuhiko/sqlalchemy) - Mirror of SQLAlchemy
 - [cheat](https://github.com/chrisallenlane/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
-- [django-deployment-workshop](https://github.com/jacobian-archive/django-deployment-workshop) - Code and configuration used in my Django Deployment Workshop.
+- [django-deployment-workshop](https://github.com/jacobian/django-deployment-workshop) - Code and configuration used in my Django Deployment Workshop.
 - [django-rcal](https://github.com/apollo13/django-rcal) - **WIP** will be released end of February ;)
 - [mETL](https://github.com/ceumicrodata/mETL) - mito ETL tool
 - [huxley](https://github.com/facebookarchive/huxley) - A testing system for catching visual regressions in Web applications.
 - [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
+- [django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) - A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
 - [django-hosts](https://github.com/jazzband/django-hosts) - Dynamic and static host resolving for Django. Maps hostnames to URLconfs.
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions for Django
 - [jinja](https://github.com/pallets/jinja) - The Jinja2 template engine
-- [werkzeug](https://github.com/pallets/werkzeug) - A flexible WSGI implementation and toolkit
+- [werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
 - [flask-login](https://github.com/maxcountryman/flask-login) - Flask user session management.
 - [ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
 - [xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap.
@@ -875,7 +1002,7 @@
 - [pystache](https://github.com/defunkt/pystache) - Mustache in Python
 - [snakebasket](https://github.com/prezi/snakebasket) - A smarter, recursive pip.
 - [delorean](https://github.com/myusuf3/delorean) - Delorean: Time Travel Made Easy
-- [Examples](https://github.com/pyside/Examples) - Python script examples adapted for PySide.
+- [Examples](https://github.com/pyside/Examples) - ATTENTION: This project is deprecated, please refer to PySide2
 - [Qt-Python-Binding-Examples](https://github.com/shuge/Qt-Python-Binding-Examples) - Lots of simple and Pythonic PySide demos
 - [Minecraft](https://github.com/fogleman/Minecraft) - Simple Minecraft-inspired program using Python and Pyglet
 - [python_koans](https://github.com/gregmalcolm/python_koans) - Python Koans - Learn Python through TDD
@@ -888,7 +1015,7 @@
 - [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 - [tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
+- [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [tendo](https://github.com/pycontribs/tendo) - Official repository of python tendo library, always welcoming new contributions.
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [copydog](https://github.com/coagulant/copydog) - NOT MAINTAINED, feel free to take over
@@ -900,10 +1027,11 @@
 
 ## Ruby 
 
+- [explore](https://github.com/github/explore) - Community-curated topic pages on GitHub
 - [rails](https://github.com/rails/rails) - Ruby on Rails
 - [papertrail-cli](https://github.com/papertrail/papertrail-cli) - Command-line client for Papertrail hosted syslog & app log management service
 - [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-- [homebrew-cask](https://github.com/caskroom/homebrew-cask) - 🍻 A CLI workflow for the administration of Mac applications distributed as binaries
+- [homebrew-cask](https://github.com/caskroom/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [alfred2-top-workflow](https://github.com/zhaocai/alfred2-top-workflow) - Alfred 2 Workflow: 1) Top Processes Based Memory, CPU, and IO Usage; 2) Get a Glance of System Status
 - [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - A Vagrant plugin to keep your VirtualBox Guest Additions up to date
 - [devise](https://github.com/plataformatec/devise) - Flexible authentication solution for Rails with Warden.
@@ -921,8 +1049,12 @@
 - [redmine_git_hosting](https://github.com/ericpaulbishop/redmine_git_hosting) - A ChiliProject/Redmine plugin which makes configuring your own git hosting easy.
 - [redmine_time_tracker](https://github.com/fernandokosh/redmine_time_tracker) - A time tracker plugin for Redmine
 - [vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
-- [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - See 2nd edition at progit2
-- [legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - :skull: The former home of Homebrew
+- [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
+- [legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - :skull: The former home of Homebrew/homebrew (deprecated)
+
+## Rust 
+
+- [tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 
 ## Scala 
 
@@ -930,13 +1062,28 @@
 
 ## Shell 
 
+- [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre & Meltdown vulnerability/mitigation checker for Linux
+- [shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
+- [docker-gallery3](https://github.com/simonswine/docker-gallery3) - a docker for gallery3
+- [kd_gallery3](https://github.com/cloudlinux/kd_gallery3) - a docker for gallery3
+- [docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
+- [zfs-auto-snapshot](https://github.com/zfsonlinux/zfs-auto-snapshot) - ZFS Automatic Snapshot Service for Linux
+- [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [docker-systemd](https://github.com/solita/docker-systemd) - systemd-enabled versions of Docker base images
+- [external](https://github.com/albertlauncher/external) - A repository for external plugins
+- [alpine-transmission-openvpn](https://github.com/oskarirauta/alpine-transmission-openvpn) - 
+- [docker-openvpn](https://github.com/PHLAK/docker-openvpn) - Docker image for OpenVPN client/server.
+- [docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
+- [dockvpn](https://github.com/rlesouef/dockvpn) - Recipe to build an OpenVPN image for Docker
+- [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
+- [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [dotfiles](https://github.com/attilammagyar/dotfiles) - My dotfiles and helper scripts for vim, bash, screen, etc.
 - [i3-volume](https://github.com/hastinbe/i3-volume) - Volume control and volume notifications for i3wm
 - [easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
 - [welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
 - [DebianKindle](https://github.com/DylanHamer/DebianKindle) - Scripts to install Debian on your Kindle
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [streisand](https://github.com/jlund/streisand) - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Debian, Ubuntu and CentOS
 - [popup-openvpn](https://github.com/robbintt/popup-openvpn) - Make a self hosted OpenVPN server in 15 minutes
@@ -947,7 +1094,8 @@
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
 - [go-fast](https://github.com/kovetskiy/go-fast) - Compile Go programs 7x faster
-- [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server
+- [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid Server (Standalone, Hub, and Nodes).
+- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
@@ -970,6 +1118,10 @@
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
+## TeX 
+
+- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
+
 ## TypeScript 
 
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
@@ -989,11 +1141,14 @@
 
 ## VimL 
 
+- [dotfiles](https://github.com/rhinoceraptor/dotfiles) - Jack's dotfiles
 - [solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 - [PIV](https://github.com/spf13/PIV) - PHP Integration environment for Vim
 
 ## Vue 
 
+- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API
+- [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
 
