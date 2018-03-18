@@ -34,7 +34,6 @@
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
-  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
   - [Vim script](#vim script)
@@ -298,11 +297,12 @@
 
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
-- [SikuliX-2014](https://github.com/RaiMan/SikuliX-2014) - SikuliX version 1.1.2
+- [SikuliX-2014](https://github.com/RaiMan/SikuliX-2014) - SikuliX version 1.1.2 (until February 2018)
 - [AppCodeDashSearch](https://github.com/combinatorial/AppCodeDashSearch) - Integrates Dash search into AppCode (and other IntellijIDEA apps)
 
 ## JavaScript 
 
+- [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [gallery](https://github.com/nextcloud/gallery) - :sunrise: Gallery app for Nextcloud, which includes previews for all supported media files
 - [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) - Meteor version of the original Plex Requests
 - [tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
@@ -461,7 +461,7 @@
 ## Others 
 
 - [i3wm](https://github.com/tobiaszwaszak/i3wm) - solarized dark i3 theme
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - :octocat: High Scalability, High Availability, and High Stability Back-end Design Patterns
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - High Scalability, High Availability, and High Stability Back-end Design Patterns
 - [sslconfig](https://github.com/cloudflare/sslconfig) - Cloudflare's Internet facing SSL configuration
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [issues](https://github.com/deadsnakes/issues) - Issues for https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
@@ -603,6 +603,7 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [graphene-django](https://github.com/graphql-python/graphene-django) - Graphene Django integration
+- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
 - [lemur-docker](https://github.com/Netflix/lemur-docker) - Docker files for the Lemur certificate orchestration tool
 - [i3ipc-python](https://github.com/acrisci/i3ipc-python) - An improved Python library to control i3wm.
 - [dataclasses](https://github.com/ericvsmith/dataclasses) - 
@@ -702,6 +703,7 @@
 - [pip-update-requirements](https://github.com/alanhamlett/pip-update-requirements) - Update the packages in a requirements.txt file.
 - [deep-anpr](https://github.com/matthewearl/deep-anpr) - Using neural networks to build an automatic number plate recognition system
 - [django-downloadview](https://github.com/benoitbryon/django-downloadview) - Serve files with Django.
+- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [oscrypto](https://github.com/wbond/oscrypto) - Compiler-free Python crypto library backed by the OS, supporting CPython and PyPy
 - [certbuilder](https://github.com/wbond/certbuilder) - Python library for generating and signing X.509 certificates
@@ -810,7 +812,7 @@
 - [wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [pythonpy](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line
 - [invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
-- [newspaper](https://github.com/codelucas/newspaper) - 💡 News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [Nuitka](https://github.com/kayhayen/Nuitka) - Official mirror of Nuitka as from http://nuitka.net
 - [django-tenancy](https://github.com/charettes/django-tenancy) - Handle multi-tenancy in Django with no additional global state using schemas.
 - [moto](https://github.com/spulec/moto) - Moto is a library that allows your python tests to easily mock out the boto library
@@ -1095,7 +1097,6 @@
 - [docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
 - [go-fast](https://github.com/kovetskiy/go-fast) - Compile Go programs 7x faster
 - [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid Server (Standalone, Hub, and Nodes).
-- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
@@ -1117,10 +1118,6 @@
 - [todo.txt-cli](https://github.com/godlygeek/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-
-## TeX 
-
-- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
 
 ## TypeScript 
 
