@@ -23,6 +23,7 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter notebook)
   - [Kotlin](#kotlin)
+  - [Makefile](#makefile)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -56,6 +57,7 @@
 
 ## C 
 
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [wallindle](https://github.com/cekage/wallindle) - Wallabag native client for e-ink kindle
 - [ltp](https://github.com/linux-test-project/ltp) - Linux Test Project
 - [mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
@@ -85,7 +87,7 @@
 - [pokereval](https://github.com/pokermania/pokereval) - 
 - [mjolnir](https://github.com/sdegutis/mjolnir) - Lightweight automation and productivity app for OS X
 - [greatest](https://github.com/silentbicycle/greatest) - A C testing library in 1 file. No dependencies, no dynamic allocation. ISC licensed.
-- [libgit2](https://github.com/libgit2/libgit2) - The Library
+- [libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [mod_python](https://github.com/grisha/mod_python) - mod_python
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
@@ -102,6 +104,7 @@
 
 ## C++ 
 
+- [hello-dns](https://github.com/ahupowerdns/hello-dns) - Hello and welcome to DNS!
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [sedutil](https://github.com/Drive-Trust-Alliance/sedutil) - DTA sedutil  Self encrypting drive software
 - [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
@@ -220,7 +223,7 @@
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client.
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS
+- [qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [whalebrew](https://github.com/bfirsh/whalebrew) - Homebrew, but with Docker images
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
@@ -295,6 +298,7 @@
 
 ## Java 
 
+- [gitea-plugin](https://github.com/jenkinsci/gitea-plugin) - 
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
 - [SikuliX-2014](https://github.com/RaiMan/SikuliX-2014) - SikuliX version 1.1.2 (until February 2018)
@@ -302,6 +306,8 @@
 
 ## JavaScript 
 
+- [cloudfront-auth](https://github.com/Widen/cloudfront-auth) - An AWS CloudFront Lambda@Edge function to authenticate requests using Google Apps, Microsoft, and GitHub login
+- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [gallery](https://github.com/nextcloud/gallery) - :sunrise: Gallery app for Nextcloud, which includes previews for all supported media files
 - [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) - Meteor version of the original Plex Requests
@@ -333,6 +339,7 @@
 - [django-map-widgets](https://github.com/erdem/django-map-widgets) - Pluggable map widgets for Django Postgis fields
 - [cf-ui](https://github.com/cloudflare/cf-ui) - :gem: Cloudflare UI Framework
 - [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
+- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework
 - [ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is deprecated, see:
 - [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
@@ -355,8 +362,8 @@
 - [uBlock](https://github.com/uBlockAdmin/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 - [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [c3](https://github.com/c3js/c3) - A D3-based reusable chart library
-- [echarts](https://github.com/ecomfe/echarts) - A powerful, interactive charting and visualization library for browser
+- [c3](https://github.com/c3js/c3) - :bar_chart: A D3-based reusable chart library
+- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and visualization library for browser
 - [uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
 - [Sublime-HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) - HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js
 - [hand-history-converter](https://github.com/compact/hand-history-converter) - Converts raw poker hand histories into a readable format
@@ -444,6 +451,10 @@
 
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
+## Makefile 
+
+- [awesome-django](https://github.com/rosarior/awesome-django) - Repository mirror of GitLab: https://gitlab.com/rosarior/awesome-django
+
 ## OCaml 
 
 - [ocaml-certify](https://github.com/yomimono/ocaml-certify) - Small command-line tools for making certificates with OCaml x509/nocrypto toolstack.
@@ -460,8 +471,10 @@
 
 ## Others 
 
+- [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
+- [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [i3wm](https://github.com/tobiaszwaszak/i3wm) - solarized dark i3 theme
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - High Scalability, High Availability, and High Stability Back-end Design Patterns
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
 - [sslconfig](https://github.com/cloudflare/sslconfig) - Cloudflare's Internet facing SSL configuration
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [issues](https://github.com/deadsnakes/issues) - Issues for https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
@@ -505,7 +518,6 @@
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
-- [awesome-django](https://github.com/rosarior/awesome-django) - Repository mirror of GitLab: https://gitlab.com/rosarior/awesome-django
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
@@ -564,6 +576,12 @@
 
 ## Python 
 
+- [XFLTReaT](https://github.com/earthquake/XFLTReaT) - XFLTReaT tunnelling framework:
+- [python27-tricks-examples](https://github.com/kocsob/python27-tricks-examples) - Tricks and examples, that works fine in Python 2.7.
+- [rubber-docker](https://github.com/Fewbytes/rubber-docker) - A workshop on Linux containers: Rebuild Docker from Scratch
+- [modernpython](https://github.com/rhettinger/modernpython) - Sample code for the video course: Modern Python: Big Ideas, Little Code
+- [taiga-back](https://github.com/taigaio/taiga-back) - Project management web application with scrum in mind! Built on top of Django and AngularJS (Backend Code)
+- [redmine-gitlab-migrator](https://github.com/redmine-gitlab-migrator/redmine-gitlab-migrator) - Migrate code projects from Redmine to Gitlab, keeping issues/milestones/metadata
 - [typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
 - [setuptools_scm](https://github.com/pypa/setuptools_scm) - the blessed package to manage your versions by scm tags
 - [fbone](https://github.com/imwilsonxu/fbone) - Fbone (Flask bone) is a Flask (Python microframework) starter/template/bootstrap/boilerplate application.
@@ -594,7 +612,7 @@
 - [cr-proxy](https://github.com/royale-proxy/cr-proxy) - A simple Clash Royale proxy, implementing the new encryption, built on top of Twisted in Python 3.5.
 - [cheroot](https://github.com/cherrypy/cheroot) - Cheroot is the high-performance, pure-Python HTTP server used by CherryPy.
 - [sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS server scanning library.
-- [hypothesis-python](https://github.com/HypothesisWorks/hypothesis-python) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+- [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [aiocron](https://github.com/gawel/aiocron) - Crontabs for asyncio
 - [python-crontab](https://github.com/doctormo/python-crontab) - Crontab module for reading and writing crontab files and accessing the system cron automatically and simply using a direct API.
 - [croniter](https://github.com/kiorky/croniter) - croniter is a python module to provide iteration for datetime object.
@@ -712,7 +730,6 @@
 - [rest_condition](https://github.com/caxap/rest_condition) - Complex permissions flow for django-rest-framework (http://django-rest-framework.org).
 - [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [cornice](https://github.com/Cornices/cornice) - Build Web Services with Pyramid.
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [wtforms](https://github.com/wtforms/wtforms) - A flexible forms validation and rendering library for Python.
 - [Kotti](https://github.com/Kotti/Kotti) - Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS.
 - [badtls.io](https://github.com/wbond/badtls.io) - Keys, certificates, scripts and configuration for badtls.io
@@ -807,7 +824,7 @@
 - [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [ptpython](https://github.com/jonathanslenders/ptpython) - A better Python REPL
 - [pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
-- [pygeoip](https://github.com/appliedsec/pygeoip) - Pure Python API for Maxmind's binary GeoIP databases
+- [pygeoip](https://github.com/appliedsec/pygeoip) - DEPRECATED: Pure Python API for Maxmind's binary GeoIP databases
 - [pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
 - [wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [pythonpy](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line
@@ -822,7 +839,7 @@
 - [pygubu](https://github.com/alejandroautalan/pygubu) - A simple GUI designer for the python tkinter module
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 - [flask-xxl](https://github.com/jstacoder/flask-xxl) - A best practices approach to creating large web apps, with the goal of making flask feel more like django
-- [prospector](https://github.com/landscapeio/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
+- [prospector](https://github.com/PyCQA/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [Origami](https://github.com/SublimeText/Origami) - Split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
 - [ZenTabs](https://github.com/travmik/ZenTabs) - The ultimate plugin for Sublime Text 2/3 to keep your tabs in Zen
 - [localdev](https://github.com/braceio/localdev) - A turn-key DNS server and proxy for multi-domain local development.
@@ -969,7 +986,7 @@
 - [treeio](https://github.com/treeio/treeio) - Tree.io
 - [sentry](https://github.com/getsentry/sentry) - Sentry is a cross-platform crash reporting and aggregation platform.
 - [Misago](https://github.com/rafalp/Misago) - Misago is fully featured forum application written in Python and ES6, powered by Django and React.js
-- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [django-google-charts](https://github.com/mvasilkov/django-google-charts) - Google Visualization API template tags and helpers for Django framework
 - [django-social-auth](https://github.com/omab/django-social-auth) - Django social authentication made simple
 - [django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver.
@@ -1029,6 +1046,9 @@
 
 ## Ruby 
 
+- [gitlab-shell](https://github.com/gitlabhq/gitlab-shell) - Replacement for gitolite. This repo is a mirror of https://gitlab.com/gitlab-org/gitlab-shell/
+- [gitlab-recipes](https://github.com/gitlabhq/gitlab-recipes) - Mostly unofficial GitLab recipes for setup on different platforms, update etc...
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE | Please open new issues in our issue tracker on GitLab.com
 - [explore](https://github.com/github/explore) - Community-curated topic pages on GitHub
 - [rails](https://github.com/rails/rails) - Ruby on Rails
 - [papertrail-cli](https://github.com/papertrail/papertrail-cli) - Command-line client for Papertrail hosted syslog & app log management service
@@ -1064,6 +1084,7 @@
 
 ## Shell 
 
+- [herokuish](https://github.com/gliderlabs/herokuish) - Utility for emulating Heroku build and runtime tasks in containers
 - [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre & Meltdown vulnerability/mitigation checker for Linux
 - [shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [docker-gallery3](https://github.com/simonswine/docker-gallery3) - a docker for gallery3
@@ -1072,7 +1093,7 @@
 - [zfs-auto-snapshot](https://github.com/zfsonlinux/zfs-auto-snapshot) - ZFS Automatic Snapshot Service for Linux
 - [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [docker-systemd](https://github.com/solita/docker-systemd) - systemd-enabled versions of Docker base images
-- [external](https://github.com/albertlauncher/external) - A repository for external plugins
+- [external](https://github.com/albertlauncher/external) - [deprecated] A repository for external plugins
 - [alpine-transmission-openvpn](https://github.com/oskarirauta/alpine-transmission-openvpn) - 
 - [docker-openvpn](https://github.com/PHLAK/docker-openvpn) - Docker image for OpenVPN client/server.
 - [docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
@@ -1134,12 +1155,12 @@
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
 - [vim-config](https://github.com/derekwyatt/vim-config) - My Vim configuration
+- [solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 - [janus](https://github.com/carlhuda/janus) - Vim distribution
 
 ## VimL 
 
 - [dotfiles](https://github.com/rhinoceraptor/dotfiles) - Jack's dotfiles
-- [solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 - [PIV](https://github.com/spf13/PIV) - PHP Integration environment for Vim
 
 ## Vue 
