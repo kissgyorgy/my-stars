@@ -57,6 +57,8 @@
 
 ## C 
 
+- [shairplay](https://github.com/juhovh/shairplay) - Apple airplay and raop protocol server
+- [zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [wallindle](https://github.com/cekage/wallindle) - Wallabag native client for e-ink kindle
 - [ltp](https://github.com/linux-test-project/ltp) - Linux Test Project
@@ -92,7 +94,7 @@
 - [mod_python](https://github.com/grisha/mod_python) - mod_python
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [pylzma](https://github.com/fancycode/pylzma) - Python bindings for the LZMA library
-- [autopy](https://github.com/msanders/autopy) - A simple, cross-platform GUI automation toolkit for Python.
+- [autopy](https://github.com/msanders/autopy) - DEPRECATED: Replaced by https://github.com/autopilot-rs/autopy
 - [emscripten](https://github.com/kripken/emscripten) - Emscripten: An LLVM-to-JavaScript Compiler
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [macvim](https://github.com/b4winckler/macvim) - Vim - the text editor - for Mac OS X
@@ -100,10 +102,13 @@
 
 ## C# # 
 
+- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
+- [Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [PokerHandHistoryParser](https://github.com/HHSmithy/PokerHandHistoryParser) - Used to parse hand-histories poker hand-histories to extract information such as limits, game-types, players, stack-sizes, hand actions etc.
 
 ## C++ 
 
+- [polybar](https://github.com/jaagr/polybar) - A fast and easy-to-use status bar
 - [hello-dns](https://github.com/ahupowerdns/hello-dns) - Hello and welcome to DNS!
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [sedutil](https://github.com/Drive-Trust-Alliance/sedutil) - DTA sedutil  Self encrypting drive software
@@ -127,13 +132,12 @@
 
 ## CSS 
 
-- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 A list of applications, alfred workflows and various tools that make my macOS experience even more amazing
+- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - 💻 List of applications, alfred workflows and various tools that make my macOS experience even more amazing
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [transmission-web-control](https://github.com/ronggang/transmission-web-control) - Transmission Web Control is a custom web UI. The project began in Google Code.
 - [boltdbweb](https://github.com/evnix/boltdbweb) - A web based GUI for BoltDB files
 - [coderegation](https://github.com/balabit/coderegation) - We congregate spontaneously to watch nerdy videos.
 - [jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
-- [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [amplify](https://github.com/ageitgey/amplify) - A Jekyll html theme in the vague style of Medium.com built using Google AMP
 - [django-material](https://github.com/viewflow/django-material) - Material Design for Django
 - [resume](https://github.com/hanula/resume) - Python resume generator. From YAML to PDF and static HTML.
@@ -268,6 +272,7 @@
 - [schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and (appengine) software
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 - [paws](https://github.com/xevrem/paws) - Python Async Web Server
+- [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org
 - [jobs](https://github.com/pythonjobs/jobs) - A repository for our international job listings
 - [cloud-meetup-2015](https://github.com/gulyasm/cloud-meetup-2015) - Meetup presentation about Terraform at Cloud Meetup Budapest.
@@ -298,6 +303,7 @@
 
 ## Java 
 
+- [open-airplay](https://github.com/jamesdlow/open-airplay) - A collection of libraries for Apple's AirPlay protocol
 - [gitea-plugin](https://github.com/jenkinsci/gitea-plugin) - 
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
@@ -306,6 +312,7 @@
 
 ## JavaScript 
 
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
 - [cloudfront-auth](https://github.com/Widen/cloudfront-auth) - An AWS CloudFront Lambda@Edge function to authenticate requests using Google Apps, Microsoft, and GitHub login
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -576,6 +583,14 @@
 
 ## Python 
 
+- [pytest-plugins](https://github.com/manahl/pytest-plugins) - A grab-bag of nifty pytest plugins
+- [falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+- [CredKing](https://github.com/ustayready/CredKing) - Password spraying using AWS Lambda for IP rotation
+- [black](https://github.com/ambv/black) - The uncompromising Python code formatter
+- [desktop-mirror](https://github.com/fcwu/desktop-mirror) - A utility to stream screen and audio between Windows, Ubuntu or XBMC
+- [Chromecast-Server](https://github.com/geraldnilles/Chromecast-Server) - 
+- [devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
+- [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [XFLTReaT](https://github.com/earthquake/XFLTReaT) - XFLTReaT tunnelling framework:
 - [python27-tricks-examples](https://github.com/kocsob/python27-tricks-examples) - Tricks and examples, that works fine in Python 2.7.
 - [rubber-docker](https://github.com/Fewbytes/rubber-docker) - A workshop on Linux containers: Rebuild Docker from Scratch
@@ -610,7 +625,7 @@
 - [peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [bucket-stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
 - [cr-proxy](https://github.com/royale-proxy/cr-proxy) - A simple Clash Royale proxy, implementing the new encryption, built on top of Twisted in Python 3.5.
-- [cheroot](https://github.com/cherrypy/cheroot) - Cheroot is the high-performance, pure-Python HTTP server used by CherryPy.
+- [cheroot](https://github.com/cherrypy/cheroot) - Cheroot is the high-performance, pure-Python HTTP server used by CherryPy. Docs --&gt;
 - [sslyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS server scanning library.
 - [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [aiocron](https://github.com/gawel/aiocron) - Crontabs for asyncio
@@ -637,7 +652,7 @@
 - [signal-slot](https://github.com/balabit/signal-slot) - Connecting mixin and superclass methods
 - [certidude](https://github.com/laurivosandi/certidude) - Easy to use Certificate Authority web service for OpenVPN, StrongSwan and HTTPS
 - [lemur](https://github.com/Netflix/lemur) - Repository for the Lemur Certificate Manager
-- [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3. 🌟
+- [apistar](https://github.com/encode/apistar) - A smart Web API framework, for Python 3. 🌟
 - [vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [kim](https://github.com/mikeywaites/kim) - Kim: A JSON Serialization and Marshaling framework
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
@@ -894,7 +909,7 @@
 - [flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation) - A solid foundation for your flask app
 - [django-squatter](https://github.com/DjangoAdminHackers/django-squatter) - Django multi-tenancy, without any core patches required!
-- [flaskbb](https://github.com/sh4nks/flaskbb) - A classic Forum Software in Python using Flask.
+- [flaskbb](https://github.com/flaskbb/flaskbb) - A classic Forum Software in Python using Flask.
 - [twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [tqdm](https://github.com/noamraph/tqdm) - Add a progress meter to your loops in a second
@@ -952,7 +967,7 @@
 - [envoy](https://github.com/kennethreitz/envoy) - Python Subprocesses for Humans™.
 - [django-taggit](https://github.com/alex/django-taggit) - Simple tagging for django
 - [django-socketio](https://github.com/stephenmcd/django-socketio) - WebSockets for Django
-- [flask-sockets](https://github.com/kennethreitz/flask-sockets) - Elegant WebSockets for your Flask apps.
+- [flask-sockets](https://github.com/heroku-python/flask-sockets) - Elegant WebSockets for your Flask apps.
 - [treelib](https://github.com/caesar0301/treelib) - An efficient implementation of tree data structure in python 2/3.
 - [Splat](https://github.com/evandrix/Splat) - FYP
 - [sqlalchemy](https://github.com/mitsuhiko/sqlalchemy) - Mirror of SQLAlchemy
@@ -984,13 +999,13 @@
 - [django-tenant-schemas](https://github.com/bernardopires/django-tenant-schemas) - Tenant support for Django using PostgreSQL schemas.
 - [django-wiki](https://github.com/django-wiki/django-wiki) - A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
 - [treeio](https://github.com/treeio/treeio) - Tree.io
-- [sentry](https://github.com/getsentry/sentry) - Sentry is a cross-platform crash reporting and aggregation platform.
+- [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [Misago](https://github.com/rafalp/Misago) - Misago is fully featured forum application written in Python and ES6, powered by Django and React.js
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [django-google-charts](https://github.com/mvasilkov/django-google-charts) - Google Visualization API template tags and helpers for Django framework
 - [django-social-auth](https://github.com/omab/django-social-auth) - Django social authentication made simple
 - [django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver.
-- [flask-sslify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app.
+- [flask-sslify](https://github.com/heroku-python/flask-sslify) - Force SSL on your Flask app.
 - [django-admin2](https://github.com/jazzband/django-admin2) - Extendable, adaptable rewrite of django.contrib.admin
 - [django-mailer](https://github.com/pinax/django-mailer) - mail queuing and management for the Django web framework
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -1007,7 +1022,7 @@
 - [pylib7zip](https://github.com/harvimt/pylib7zip) - Python bindings for lib7zip
 - [django-multisite](https://github.com/shestera/django-multisite) - multisite in django
 - [django-schedule](https://github.com/thauber/django-schedule) - A calendaring app for Django.  It is now stable, Please feel free to use it now. Active development has been taken over by bartekgorny.
-- [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django.
+- [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. ⚡️
 - [pybbm](https://github.com/hovel/pybbm) - Django forum solution. Tested, documented, shipped with example project.
 - [django-fluent-comments](https://github.com/django-fluent/django-fluent-comments) - A modern, ajax-based appearance for django.contrib.comments
 - [django-threadedcomments](https://github.com/HonzaKral/django-threadedcomments) - django-threadedcomments is a simple yet flexible threaded commenting system for Django.
@@ -1106,7 +1121,7 @@
 - [welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
 - [DebianKindle](https://github.com/DylanHamer/DebianKindle) - Scripts to install Debian on your Kindle
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, and a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Debian, Ubuntu and CentOS
 - [popup-openvpn](https://github.com/robbintt/popup-openvpn) - Make a self hosted OpenVPN server in 15 minutes
@@ -1165,7 +1180,7 @@
 
 ## Vue 
 
-- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI panel written with VueJS and Vault native Go API
+- [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
