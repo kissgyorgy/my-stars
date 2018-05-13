@@ -57,6 +57,7 @@
 
 ## C 
 
+- [yubico-piv-tool](https://github.com/Yubico/yubico-piv-tool) - Command line tool for the YubiKey PIV application
 - [shairplay](https://github.com/juhovh/shairplay) - Apple airplay and raop protocol server
 - [zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
@@ -94,7 +95,7 @@
 - [mod_python](https://github.com/grisha/mod_python) - mod_python
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [pylzma](https://github.com/fancycode/pylzma) - Python bindings for the LZMA library
-- [autopy](https://github.com/msanders/autopy) - DEPRECATED: Replaced by https://github.com/autopilot-rs/autopy
+- [autopy-legacy](https://github.com/autopilot-rs/autopy-legacy) - DEPRECATED: Replaced by https://github.com/autopilot-rs/autopy
 - [emscripten](https://github.com/kripken/emscripten) - Emscripten: An LLVM-to-JavaScript Compiler
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [macvim](https://github.com/b4winckler/macvim) - Vim - the text editor - for Mac OS X
@@ -102,12 +103,14 @@
 
 ## C# # 
 
+- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
 - [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [PokerHandHistoryParser](https://github.com/HHSmithy/PokerHandHistoryParser) - Used to parse hand-histories poker hand-histories to extract information such as limits, game-types, players, stack-sizes, hand actions etc.
 
 ## C++ 
 
+- [xca](https://github.com/chris2511/xca) - X Certificate and Key management
 - [polybar](https://github.com/jaagr/polybar) - A fast and easy-to-use status bar
 - [hello-dns](https://github.com/ahupowerdns/hello-dns) - Hello and welcome to DNS!
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -173,6 +176,11 @@
 
 ## Go 
 
+- [kube-cert-manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
+- [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
+- [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
+- [yubiTLS](https://github.com/benjojo/yubiTLS) - A Go TLS/HTTPS server demo that uses a Yubikey as the backend for it's private key
+- [figurine](https://github.com/arsham/figurine) - Print your name in style
 - [go-prompt](https://github.com/c-bata/go-prompt) - Building a powerful interactive prompt in Go, inspired by python-prompt-toolkit.
 - [soundscape](https://github.com/soundscapecloud/soundscape) - Soundscape - a personal music streaming server
 - [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
@@ -267,6 +275,7 @@
 
 ## HTML 
 
+- [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [html](https://github.com/w3c/html) - Working Draft of the HTML specification
 - [schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and (appengine) software
@@ -347,8 +356,7 @@
 - [cf-ui](https://github.com/cloudflare/cf-ui) - :gem: Cloudflare UI Framework
 - [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
-- [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework
-- [ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is deprecated, see:
+- [ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is not maintained
 - [keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [Jed](https://github.com/messageformat/Jed) - Gettext Style i18n for Modern JavaScript Apps
 - [gnome-shell-extension-sshsearch](https://github.com/brot/gnome-shell-extension-sshsearch) - Gnome Shell Extension: Provide SSH search results in overview
@@ -481,7 +489,7 @@
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [i3wm](https://github.com/tobiaszwaszak/i3wm) - solarized dark i3 theme
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-End Design Patterns
 - [sslconfig](https://github.com/cloudflare/sslconfig) - Cloudflare's Internet facing SSL configuration
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [issues](https://github.com/deadsnakes/issues) - Issues for https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
@@ -554,9 +562,10 @@
 
 ## PHP 
 
+- [graby](https://github.com/j0k3r/graby) - Graby extract article content from web pages. This is a fork of Full-Text RSS v3.3
 - [wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
-- [monica](https://github.com/monicahq/monica) - Intuitive web application to remember everything about your friends and family.
+- [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
 - [Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [nextcloud-drawio](https://github.com/pawelrojek/nextcloud-drawio) - Draw.io intergration app
 - [files_snapshots](https://github.com/icewind1991/files_snapshots) - Access filesystem snapshots from Nextcloud
@@ -583,6 +592,10 @@
 
 ## Python 
 
+- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [pychromecast](https://github.com/balloob/pychromecast) - Library for Python 3 to communicate with the Google Chromecast.
+- [catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
+- [wallabag-kindle-consumer](https://github.com/janLo/wallabag-kindle-consumer) - Send all articles with a certain tag to your kindle.
 - [pytest-plugins](https://github.com/manahl/pytest-plugins) - A grab-bag of nifty pytest plugins
 - [falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 - [CredKing](https://github.com/ustayready/CredKing) - Password spraying using AWS Lambda for IP rotation
@@ -749,6 +762,7 @@
 - [Kotti](https://github.com/Kotti/Kotti) - Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS.
 - [badtls.io](https://github.com/wbond/badtls.io) - Keys, certificates, scripts and configuration for badtls.io
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - Swagger Documentation Generator for Django REST Framework
 - [orgmode](https://github.com/danielmagnussons/orgmode) - orgmode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
 - [django-onetomany](https://github.com/adsworth/django-onetomany) - A django relation field
 - [500lines](https://github.com/gvanrossum/500lines) - 500 Lines or Less
@@ -820,7 +834,7 @@
 - [edx-platform](https://github.com/edx/edx-platform) - The Open edX platform, the software that powers edX!
 - [bikes](https://github.com/mcdonc/bikes) - Authentication Is Hard, Let's Ride Bikes PyCon 2013 presentation
 - [pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project
-- [clastic](https://github.com/mahmoud/clastic) - A functional web framework that streamlines explicit development practices while eliminating global state.
+- [clastic](https://github.com/mahmoud/clastic) - 🏔️ A functional web framework that streamlines explicit development practices while eliminating global state.
 - [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict) - Persistent dict, backed by sqlite3 and pickle, multithread-safe.
 - [spyne](https://github.com/arskom/spyne) - A transport and architecture agnostic RPC library that focuses on exposing services with a well-defined API using popular protocols.
 - [nameko](https://github.com/nameko/nameko) - Python framework for building microservices
@@ -949,7 +963,7 @@
 - [python-social-auth](https://github.com/omab/python-social-auth) - Social auth made simple
 - [Django-facebook](https://github.com/tschellenbach/Django-facebook) - Facebook open graph api implementation using the Django web framework in python
 - [sqlalchemy](https://github.com/zzzeek/sqlalchemy) - See the development link for contribution guidelines
-- [flaskr-tdd](https://github.com/mjhea0/flaskr-tdd) - Flaskr: Intro to Flask, Test Driven Development (TDD), and jQuery
+- [flaskr-tdd](https://github.com/mjhea0/flaskr-tdd) - Flaskr: Intro to Flask, Test Driven Development (TDD), and JavaScript
 - [reviewboard](https://github.com/reviewboard/reviewboard) - An extensible and friendly code review tool for projects and companies of all sizes.
 - [flanker](https://github.com/mailgun/flanker) - Python email address and Mime parsing library
 - [django-db-multitenant](https://github.com/mik3y/django-db-multitenant) - A simple multi-tenancy solution for Django apps.
@@ -1005,7 +1019,7 @@
 - [django-google-charts](https://github.com/mvasilkov/django-google-charts) - Google Visualization API template tags and helpers for Django framework
 - [django-social-auth](https://github.com/omab/django-social-auth) - Django social authentication made simple
 - [django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver.
-- [flask-sslify](https://github.com/heroku-python/flask-sslify) - Force SSL on your Flask app.
+- [flask-sslify](https://github.com/kennethreitz/flask-sslify) - Force SSL on your Flask app.
 - [django-admin2](https://github.com/jazzband/django-admin2) - Extendable, adaptable rewrite of django.contrib.admin
 - [django-mailer](https://github.com/pinax/django-mailer) - mail queuing and management for the Django web framework
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -1061,6 +1075,7 @@
 
 ## Ruby 
 
+- [asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
 - [gitlab-shell](https://github.com/gitlabhq/gitlab-shell) - Replacement for gitolite. This repo is a mirror of https://gitlab.com/gitlab-org/gitlab-shell/
 - [gitlab-recipes](https://github.com/gitlabhq/gitlab-recipes) - Mostly unofficial GitLab recipes for setup on different platforms, update etc...
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE | Please open new issues in our issue tracker on GitLab.com
