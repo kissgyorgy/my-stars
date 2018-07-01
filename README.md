@@ -627,6 +627,7 @@
 
 ## Python 
 
+- [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
 - [ldappool](https://github.com/openstack/ldappool) - A simple connector pool for python-ldap and related LDAP libraries.
 - [python-ldap](https://github.com/python-ldap/python-ldap) - LDAP client API for Python
@@ -1156,6 +1157,7 @@
 
 ## Rust 
 
+- [nebulet](https://github.com/nebulet/nebulet) - (Going to be) A microkernel that implements a WebAssembly "usermode" that runs in Ring 0.
 - [systemfd](https://github.com/mitsuhiko/systemfd) - Development helper utility for helping with auto reloading for projects supporting systemd socket activation
 - [cannoli](https://github.com/joncatanio/cannoli) - Cannoli Programming Language
 - [shellharden](https://github.com/anordal/shellharden) - A bash syntax highlighter that encourages (and can fix) proper quoting of variables
