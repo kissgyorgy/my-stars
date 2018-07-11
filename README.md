@@ -55,10 +55,12 @@
 
 ## Batchfile 
 
-- [python-guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans.
+- [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for Humans.
 
 ## C 
 
+- [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
+- [bind-dyndb-ldap](https://github.com/freeipa/bind-dyndb-ldap) - Mirror of bind-dyndb-ldap LDAP driver for ​BIND9
 - [tiny-shell](https://github.com/skywalker212/tiny-shell) - A bash-like shell that performs basic functions of a shell. Made as a project for my course of System Software.
 - [sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [scrypt](https://github.com/Tarsnap/scrypt) - The scrypt key derivation function was originally developed for use in the Tarsnap online backup system and is designed to be far more secure against hardware brute-force attacks than alternative functions such as PBKDF2 or bcrypt.
@@ -85,7 +87,7 @@
 - [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto
+- [mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
 - [uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 - [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
@@ -163,6 +165,7 @@
 - [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme the precursor to Base16 Theme
 - [PythonBooks](https://github.com/revolunet/PythonBooks) - Directory of free Python ebooks
 - [Balloons.IO](https://github.com/rickyrauch/Balloons.IO) - Balloons.IO is a web multi-room chat server and client ready to use. It’s built with the help of node.JS, Express, Socket.IO and Redis. Balloons uses PassportJS for authentication with Twitter and Facebook
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [humane-js](https://github.com/wavded/humane-js) - A simple, modern, browser notification system
 - [Helveticards](https://github.com/zachwaugh/Helveticards) - 100% CSS playing cards, originally created for the Pitboss poker server, you can see live demo at link below
 - [kettu](https://github.com/endor/kettu) - Rewrite of the Transmission Web Client with jQuery, Sammy and Mustache
@@ -189,7 +192,8 @@
 
 ## Go 
 
-- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally-trusted development certificates with any names you'd like.
+- [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy (IAP) which authenticates and authorizes incoming HTTP requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
+- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [lego](https://github.com/xenolf/lego) - Let's Encrypt client and ACME library written in Go
 - [wtf](https://github.com/senorprogrammer/wtf) - The personal information dashboard for your terminal.
@@ -295,12 +299,13 @@
 
 ## HTML 
 
+- [portier.github.io](https://github.com/portier/portier.github.io) - Website for Portier, an email-based, passwordless authentication that you can host yourself.
 - [python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
 - [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [html](https://github.com/w3c/html) - Working Draft of the HTML specification
 - [schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and (appengine) software
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [paws](https://github.com/xevrem/paws) - Python Async Web Server
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org
@@ -462,7 +467,6 @@
 - [hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [xdate](https://github.com/arshaw/xdate) - A Modern JavaScript Date Library
 - [Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [smoke.js](https://github.com/hxgf/smoke.js) - framework-agnostic styled alert system for javascript
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
@@ -627,6 +631,8 @@
 
 ## Python 
 
+- [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
 - [ldappool](https://github.com/openstack/ldappool) - A simple connector pool for python-ldap and related LDAP libraries.
@@ -708,7 +714,7 @@
 - [pyldap](https://github.com/pyldap/pyldap) - THIS FORK IS DEPRECATED; development moved to python-ldap
 - [pyFldigi](https://github.com/KM4YRI/pyFldigi) - Python library to control FLDIGI via XML-RPC
 - [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
-- [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images and animate interesting algorithms in mathematics with Python. Fractals, Penrose tilings, reaction-diffusion, Wilson's uniform spanning tree algorithm, domino shuffling algorithm, coupling from the past,  4D polytopes, Mobius transformations, hyperbolic tilings. www.pywonderland.com.
+- [pywonderland](https://github.com/neozhaoliang/pywonderland) - Render beautiful images and animate interesting algorithms in math with Python. Fractals, Penrose tilings, reaction-diffusion, Wilson's uniform spanning tree algorithm, domino shuffling algorithm, coupling from the past,  3D and 4D polytopes, Mobius transformations, hyperbolic tilings. www.pywonderland.com.
 - [Hugofy-sublime](https://github.com/akmittal/Hugofy-sublime) - Hugo plugin for Sublime Text 3
 - [dmenu-frecency](https://github.com/kspi/dmenu-frecency) - A dmenu-based desktop application launcher
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
@@ -826,7 +832,7 @@
 - [Packages](https://github.com/sublimehq/Packages) - 
 - [django-zappa](https://github.com/Miserlou/django-zappa) - THIS PROJECT IS DEPRECATED, GO HERE INSTEAD:
 - [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
-- [warehouse](https://github.com/pypa/warehouse) - Next Generation Python Package Repository
+- [warehouse](https://github.com/pypa/warehouse) - The Python Package Repository
 - [django-floppyforms](https://github.com/gregmuellegger/django-floppyforms) - Full control of form rendering in the templates.
 - [json-sempai](https://github.com/kragniz/json-sempai) - Use JSON files as if they are python modules
 - [python-streamexpect](https://github.com/digidotcom/python-streamexpect) - Python library providing cross-platform text matching for generic streams and sockets
