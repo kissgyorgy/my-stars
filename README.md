@@ -60,6 +60,7 @@
 
 ## C 
 
+- [nginx-http-shibboleth](https://github.com/nginx-shib/nginx-http-shibboleth) - Shibboleth auth request module for nginx
 - [go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [go-sqlite-lite](https://github.com/bvinc/go-sqlite-lite) - SQLite driver for the Go programming language
 - [spl](https://github.com/zfsonlinux/spl) - A shim layer which adds the core interfaces required for OpenZFS.
@@ -85,7 +86,7 @@
 - [python-systemd](https://github.com/systemd/python-systemd) - Python wrappers for systemd functionality
 - [snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 - [mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
-- [systemd](https://github.com/systemd/systemd) - ⚙️ 🐧 systemd System and Service Manager
+- [systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [rxvt-unicode](https://github.com/exg/rxvt-unicode) - git mirror of rxvt-unicode cvs repository
 - [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
@@ -166,7 +167,6 @@
 - [resume](https://github.com/hanula/resume) - Python resume generator. From YAML to PDF and static HTML.
 - [picnic](https://github.com/franciscop/picnic) - :handbag: A beautiful CSS library to kickstart your projects
 - [node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) - Bootstrap a crossplatform Desktop Application using tools you probably never heard of.
-- [namebench](https://github.com/google/namebench) - namebench
 - [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects
 - [icheck](https://github.com/fronteed/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme the precursor to Base16 Theme
@@ -217,7 +217,7 @@
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [go-cloud](https://github.com/google/go-cloud) - A library and tools for open cloud development in Go.
-- [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy (IAP) which authenticates and authorizes incoming HTTP requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
+- [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy (IAP) which authenticates and authorizes incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [lego](https://github.com/xenolf/lego) - Let's Encrypt client and ACME library written in Go
@@ -320,6 +320,7 @@
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [web](https://github.com/hoisie/web) - The easiest way to create web applications with Go
+- [namebench](https://github.com/google/namebench) - namebench
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 ## HTML 
@@ -361,7 +362,7 @@
 
 ## Haskell 
 
-- [Son](https://github.com/seagreen/Son) - A minimal subset of JSON for machine-to-machine communication
+- [Son](https://github.com/seagreen/Son) - Experiment only. Consider https://matrix.org/docs/spec/appendices.html#canonical-json instead.
 
 ## Java 
 
@@ -416,7 +417,7 @@
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component
 - [superagent](https://github.com/visionmedia/superagent) - Ajax with less suck - (and node.js HTTP client to match)
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [create-react-app](https://github.com/facebook/create-react-app) - Create React apps with no build configuration.
+- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [django-react-redux-base](https://github.com/Seedstars/django-react-redux-base) - Seedstars Labs Base Django React Redux Project
 - [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
 - [phantomized](https://github.com/dustinblackman/phantomized) - All dynamic PhantomJS ELFs in one simple tar
@@ -682,16 +683,18 @@
 
 ## Python 
 
+- [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
+- [cleo](https://github.com/sdispater/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
 - [git-buildpackage](https://github.com/agx/git-buildpackage) - Suite to help with Debian (and RPM) packages in Git repositories
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
 - [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell
-- [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - pi-hole in a docker container
+- [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [plash](https://github.com/ihucos/plash) - Build and run Containers
 - [furnace](https://github.com/balabit/furnace) - A lightweight pure-python container implementation.
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [cozmo-python-sdk](https://github.com/anki/cozmo-python-sdk) - Anki Cozmo Python SDK
 - [vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
-- [uplink](https://github.com/prkumar/uplink) - Build useful Python API clients using Requests, aiohttp, or Twisted
+- [uplink](https://github.com/prkumar/uplink) - A Declarative HTTP Client for Python
 - [pyvideo](https://github.com/pyvideo/pyvideo) - A Python media index
 - [pwned-passwords-django](https://github.com/ubernostrum/pwned-passwords-django) - Utilities for working with the Pwned Passwords database from Django
 - [apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
@@ -771,7 +774,7 @@
 - [Eel](https://github.com/ChrisKnott/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
 - [MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types
-- [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+- [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [elasticsearch-gmail](https://github.com/oliver006/elasticsearch-gmail) - Index your Gmail Inbox with Elasticsearch
 - [rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
 - [pyznap](https://github.com/yboetz/pyznap) - ZFS snapshot tool written in python
@@ -827,7 +830,7 @@
 - [python-engineio](https://github.com/miguelgrinberg/python-engineio) - Python Engine.IO server
 - [tls13-spec](https://github.com/tlswg/tls13-spec) - TLS 1.3 Specification
 - [pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
-- [django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality
+- [django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality. We are proud to announce completely new Jet. Please check out Live Demo
 - [aiopyramid](https://github.com/housleyjk/aiopyramid) - Run pyramid using asyncio.
 - [django-uwsgi](https://github.com/unbit/django-uwsgi) - Django related examples/trick/modules for uWSGI
 - [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
@@ -976,7 +979,7 @@
 - [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict) - Persistent dict, backed by sqlite3 and pickle, multithread-safe.
 - [spyne](https://github.com/arskom/spyne) - A transport and architecture agnostic RPC library that focuses on exposing services with a well-defined API using popular protocols.
 - [nameko](https://github.com/nameko/nameko) - Python framework for building microservices
-- [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton.
+- [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 220+ constructs, recipes, and snippets extending (and relying on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
 - [reverse-geocoder](https://github.com/thampiman/reverse-geocoder) - A fast, offline reverse geocoder in Python
 - [redislite](https://github.com/yahoo/redislite) - Redis in a python module
@@ -990,7 +993,7 @@
 - [awesome-slugify](https://github.com/voronind/awesome-slugify) - Python flexible slugify function
 - [minimongo](https://github.com/slacy/minimongo) - A lightweight, Pythonic, Object Oriented Interface to MongoDB.
 - [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
-- [ptpython](https://github.com/jonathanslenders/ptpython) - A better Python REPL
+- [ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
 - [pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
 - [pygeoip](https://github.com/appliedsec/pygeoip) - DEPRECATED: Pure Python API for Maxmind's binary GeoIP databases
 - [pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
@@ -1260,7 +1263,7 @@
 ## Shell 
 
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [vm](https://github.com/nextcloud/vm) - :computer: Nextcloud Official VM (virtual machine)
+- [vm](https://github.com/nextcloud/vm) - :computer: The Official Nextcloud VM (virtual machine)
 - [archzfs](https://github.com/archzfs/archzfs) - Package and repository sources for ZFS on Arch Linux
 - [warpdrive](https://github.com/GrahamDumpleton/warpdrive) - Build and deployment system for Python web applications.
 - [standard-readme](https://github.com/RichardLitt/standard-readme) - Standard Readme Style
