@@ -18,6 +18,7 @@
   - [Emacs Lisp](#emacs lisp)
   - [Erlang](#erlang)
   - [Go](#go)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Hack](#hack)
   - [Haskell](#haskell)
@@ -25,7 +26,6 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter notebook)
   - [Kotlin](#kotlin)
-  - [Lua](#lua)
   - [Nix](#nix)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
@@ -33,6 +33,7 @@
   - [PHP](#php)
   - [Pascal](#pascal)
   - [Perl](#perl)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -131,6 +132,7 @@
 
 ## C++ 
 
+- [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
@@ -159,6 +161,7 @@
 
 ## CSS 
 
+- [material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [cryptsend](https://github.com/countable-web/cryptsend) - Send files anywhere-&gt;anywhere securely
 - [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
@@ -215,6 +218,8 @@
 
 ## Go 
 
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing System
 - [dex](https://github.com/dexidp/dex) - OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors
 - [ascii-tv](https://github.com/martinraison/ascii-tv) - Stream ASCII movies over HTTP
@@ -351,6 +356,11 @@
 - [namebench](https://github.com/google/namebench) - namebench
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
+## HCL 
+
+- [kubeadm-aws](https://github.com/cablespaghetti/kubeadm-aws) - Really cheap Kubernetes cluster on AWS with kubeadm
+- [Pythonista-Tools](https://github.com/Pythonista-Tools/Pythonista-Tools) - Gathering code and links to projects specially developed for Pythonista for iOS.
+
 ## HTML 
 
 - [nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
@@ -368,6 +378,7 @@
 - [paws](https://github.com/xevrem/paws) - Python Async Web Server
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [jobs](https://github.com/pythonjobs/jobs) - A repository for our international job listings
 - [cloud-meetup-2015](https://github.com/gulyasm/cloud-meetup-2015) - Meetup presentation about Terraform at Cloud Meetup Budapest.
 - [code_py](https://github.com/chrisalbon/code_py) - A collection of well-commented code snippets for data science
@@ -412,6 +423,8 @@
 
 ## JavaScript 
 
+- [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
+- [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [ImmortalDB](https://github.com/gruns/ImmortalDB) - :nut_and_bolt: A relentless key-value store for the browser.
 - [unleash](https://github.com/Unleash/unleash) - Unleash is an enterprise ready feature toggles service. It provides different strategies for controlling roll-out of feature toggles.
@@ -422,7 +435,7 @@
 - [bdfl](https://github.com/derrickstolee/bdfl) - BFDL: A 100% accurate simulation of OSS maintenance
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [PKI.js](https://github.com/PeculiarVentures/PKI.js) - PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins.
-- [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin
+- [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
 - [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [pokersolver](https://github.com/goldfire/pokersolver) - Javascript poker hand solver.
@@ -433,7 +446,6 @@
 - [rockstar](https://github.com/RockstarLang/rockstar) - The Rockstar programming language specification
 - [CastVideos-chrome](https://github.com/googlecast/CastVideos-chrome) - Reference Chrome Sender w/ Framework API: CastVideos-chrome application shows how to cast videos from Chrome browser that is fully compliant with the Cast Design Checklist.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
-- [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn. Great for wireframes.
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
 - [cloudfront-auth](https://github.com/Widen/cloudfront-auth) - An AWS CloudFront Lambda@Edge function to authenticate requests using Google Apps, Microsoft, Auth0, OKTA, and GitHub login
@@ -583,13 +595,10 @@
 
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
-## Lua 
-
-- [blox](https://github.com/vlaci/blox) - Common parts of my NixOS and home-manager configuration
-
 ## Nix 
 
 - [home-manager](https://github.com/rycee/home-manager) - Manage a user environment using Nix
+- [blox](https://github.com/vlaci/blox) - Common parts of my NixOS and home-manager configuration
 
 ## OCaml 
 
@@ -609,8 +618,12 @@
 
 ## Others 
 
+- [distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
+- [guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
+- [selinux-coloring-book](https://github.com/mairin/selinux-coloring-book) - A coloring book to help folks understand how SELinux works.
+- [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-- [nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) - :zap: This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%.
+- [nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) - These notes describes how to improve Nginx performance, security and other important things; @ssllabs A+ 100%.
 - [authors-certificate](https://github.com/berneout/authors-certificate) - practical provenance for the GitHub-and-npm set
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [Introspected-REST](https://github.com/vasilakisfil/Introspected-REST) - An alternative to REST and GraphQL
@@ -626,7 +639,7 @@
 - [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [i3wm](https://github.com/tobiaszwaszak/i3wm) - solarized dark i3 theme
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems :wave: http://topsde.com
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
 - [sslconfig](https://github.com/cloudflare/sslconfig) - Cloudflare's Internet facing SSL configuration
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -641,7 +654,6 @@
 - [github-drama](https://github.com/OptimusCrime/github-drama) - 
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
-- [Pythonista-Tools](https://github.com/Pythonista-Tools/Pythonista-Tools) - Gathering code and links to projects specially developed for Pythonista for iOS.
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
 - [docker-wine](https://github.com/BSolut/docker-wine) - Docker with wine setup, .Net 4.6.1 installed
@@ -668,8 +680,7 @@
 - [ask-me-about-api-design](https://github.com/keleshev/ask-me-about-api-design) - Me giving you advice on API design in your open-source project: create an issue to start discussion
 - [awesome-pyramid](https://github.com/uralbash/awesome-pyramid) - A curated list of awesome Pyramid apps, projects and resources.
 - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
-- [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -734,8 +745,16 @@
 - [ssl-admin](https://github.com/ecrist/ssl-admin) - Interactive x509 CA Manager
 - [rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
 
+## PowerShell 
+
+- [wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox. Also includes Webdriver configurations to test an app running in Docker with Safari Desktop, Safari Mobile and Chrome Mobile via Appium and Internet Explorer and Microsoft Edge on Windows 10.
+
 ## Python 
 
+- [migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
+- [sentry-kubernetes](https://github.com/getsentry/sentry-kubernetes) - Kubernetes event reporter for Sentry
+- [bullet](https://github.com/Mckinsey666/bullet) - 🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks.
+- [anki-sync-server](https://github.com/dsnopek/anki-sync-server) - A personal Anki sync server (so you can sync against your own server rather than AnkiWeb)
 - [apcaccess](https://github.com/flyte/apcaccess) - 
 - [geoalchemy2](https://github.com/geoalchemy/geoalchemy2) - Geospatial extension to SQLAlchemy
 - [responder](https://github.com/kennethreitz/responder) - a familiar HTTP Service Framework for Python
@@ -828,7 +847,7 @@
 - [djangobb](https://github.com/slav0nic/djangobb) - DjangoBB mirror. DjangoBB is a quick and simple forum which uses the Django Framework (written in Python language). Abbreviation DjangoBB stands for Django Bulletin Board. DjangoBB is distributed under the BSD license.
 - [stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages
 - [dh-virtualenv](https://github.com/spotify/dh-virtualenv) - Python virtualenvs in Debian packages
-- [python-packaging-user-guide](https://github.com/pypa/python-packaging-user-guide) - Python Packaging User Guide
+- [packaging.python.org](https://github.com/pypa/packaging.python.org) - Python Packaging User Guide
 - [oil](https://github.com/oilshell/oil) - Oil shell
 - [check-manifest](https://github.com/mgedmin/check-manifest) - Tool to check the completeness of MANIFEST.in for Python packages
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -1358,6 +1377,7 @@
 
 ## Shell 
 
+- [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [microk8s](https://github.com/ubuntu/microk8s) - A kubernetes cluster in a snap
 - [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [vm](https://github.com/nextcloud/vm) - :computer: The Nextcloud VM (virtual machine)
@@ -1384,7 +1404,7 @@
 - [i3-volume](https://github.com/hastinbe/i3-volume) - Volume control and volume notifications for i3wm
 - [easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
 - [welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
-- [DebianKindle](https://github.com/DylanHamer/DebianKindle) - Scripts to install Debian on your Kindle
+- [DebianKindle](https://github.com/kathamer/DebianKindle) - Scripts to install Debian on your Kindle
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Debian, Ubuntu and CentOS
@@ -1424,6 +1444,7 @@
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
+- [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn. Great for wireframes.
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 - [NyaoVim](https://github.com/rhysd/NyaoVim) - Web-enhanced Extensible Neovim Frontend
 
