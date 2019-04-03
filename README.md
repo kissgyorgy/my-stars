@@ -61,6 +61,9 @@
 
 ## C 
 
+- [wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
+- [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+- [mod_zip](https://github.com/evanmiller/mod_zip) - Streaming ZIP archiver for nginx
 - [wlroots](https://github.com/swaywm/wlroots) - A modular Wayland compositor library
 - [bubblewrap](https://github.com/projectatomic/bubblewrap) - Unprivileged sandboxing tool
 - [weasel-pageant](https://github.com/vuori/weasel-pageant) - An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.
@@ -83,7 +86,7 @@
 - [zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [wallindle](https://github.com/cekage/wallindle) - Wallabag native client for e-ink kindle
-- [ltp](https://github.com/linux-test-project/ltp) - Linux Test Project
+- [ltp](https://github.com/linux-test-project/ltp) - Linux Test Project http://linux-test-project.github.io/
 - [mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [OpenPHT](https://github.com/RasPlex/OpenPHT) - OpenPHT is a community driven fork of Plex Home Theater
@@ -132,6 +135,7 @@
 
 ## C++ 
 
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1500FPS.
 - [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
@@ -218,6 +222,15 @@
 
 ## Go 
 
+- [cli](https://github.com/docker/cli) - The Docker CLI
+- [goav](https://github.com/giorgisio/goav) - Golang bindings for FFmpeg
+- [scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+- [certmagic](https://github.com/mholt/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
+- [intercert](https://github.com/evenh/intercert) - Use Let's Encrypt on private (LAN) servers using DNS validation
+- [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [go-micro](https://github.com/micro/go-micro) - A microservice framework
+- [go-cast](https://github.com/barnybug/go-cast) - A command line tool to control Google Chromecast devices.
+- [gravity](https://github.com/gravitational/gravity) - Opinionated snapshot-based Kubernetes packaging and management tools.
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing System
@@ -238,7 +251,7 @@
 - [sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [stellar](https://github.com/ehazlett/stellar) - Simplified Container System
 - [goblocks](https://github.com/davidscholberg/goblocks) - Fast, lightweight i3status replacement written in Go
-- [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for https://notion.so
+- [notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so
 - [genesis](https://github.com/benbjohnson/genesis) - A simple tool for embedding assets in a Go binary.
 - [zfs-exporter](https://github.com/ncabatoff/zfs-exporter) - Prometheus metrics exporter for ZFS
 - [rkt](https://github.com/rkt/rkt) - rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
@@ -253,7 +266,7 @@
 - [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy (IAP) which authenticates and authorizes incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
-- [lego](https://github.com/xenolf/lego) - Let's Encrypt client and ACME library written in Go
+- [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building/building artifacts from source and injecting into docker images
 - [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
@@ -319,7 +332,7 @@
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
-- [whalebrew](https://github.com/bfirsh/whalebrew) - Homebrew, but with Docker images
+- [whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [autovpn](https://github.com/adtac/autovpn) - Connect to a VPN in a country of your choice.
 - [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
@@ -383,7 +396,6 @@
 - [cloud-meetup-2015](https://github.com/gulyasm/cloud-meetup-2015) - Meetup presentation about Terraform at Cloud Meetup Budapest.
 - [code_py](https://github.com/chrisalbon/code_py) - A collection of well-commented code snippets for data science
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python
 - [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [shower](https://github.com/shower/shower) - Shower HTML presentation engine
@@ -410,7 +422,7 @@
 
 ## Java 
 
-- [gravitee-gateway](https://github.com/gravitee-io/gravitee-gateway) - Gravitee.io - API Management - Gateway
+- [gravitee-gateway](https://github.com/gravitee-io/gravitee-gateway) - Gravitee.io - API Management - OpenSource API Gateway
 - [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [cas](https://github.com/apereo/cas) - Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
@@ -419,10 +431,13 @@
 - [graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 - [HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
 - [SikuliX-2014](https://github.com/RaiMan/SikuliX-2014) - SikuliX version 1.1.2 (until February 2018)
+- [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [AppCodeDashSearch](https://github.com/combinatorial/AppCodeDashSearch) - Integrates Dash search into AppCode (and other IntellijIDEA apps)
 
 ## JavaScript 
 
+- [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
+- [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extracting content from the chaos of the web.
 - [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
@@ -433,8 +448,8 @@
 - [fpki-guides](https://github.com/GSA/fpki-guides) - Information on the Federal Public Key Infrastructure for program managers and agency engineers
 - [inside_python_dict](https://github.com/eleweek/inside_python_dict) - An explorable explanation of python dictionaries
 - [bdfl](https://github.com/derrickstolee/bdfl) - BFDL: A 100% accurate simulation of OSS maintenance
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
-- [PKI.js](https://github.com/PeculiarVentures/PKI.js) - PKIjs is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins.
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+- [PKI.js](https://github.com/PeculiarVentures/PKI.js) - PKI.js is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins.
 - [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
 - [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
@@ -522,7 +537,6 @@
 - [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs
 - [1.x](https://github.com/markitup/1.x) - markItUp! Universal markup editor 1.x
-- [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
 - [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell!
 - [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
@@ -618,6 +632,8 @@
 
 ## Others 
 
+- [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
+- [proba](https://github.com/syslog-ng/proba) - Proba
 - [distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
 - [guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
 - [selinux-coloring-book](https://github.com/mairin/selinux-coloring-book) - A coloring book to help folks understand how SELinux works.
@@ -639,7 +655,7 @@
 - [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [i3wm](https://github.com/tobiaszwaszak/i3wm) - solarized dark i3 theme
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems :wave: http://topsde.com
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
 - [sslconfig](https://github.com/cloudflare/sslconfig) - Cloudflare's Internet facing SSL configuration
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -712,10 +728,11 @@
 
 ## PHP 
 
+- [matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 - [grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
 - [huge](https://github.com/panique/huge) - Simple user-authentication solution, embedded into a small framework.
 - [Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
-- [graby](https://github.com/j0k3r/graby) - Graby extract article content from web pages. This is a fork of Full-Text RSS v3.3
+- [graby](https://github.com/j0k3r/graby) - Graby helps you extract article content from web pages
 - [wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends and family.
@@ -727,7 +744,7 @@
 - [groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [phpki](https://github.com/radicand/phpki) - Fork of PHPki (Sourceforge)
-- [emojione](https://github.com/emojione/emojione) - The world's largest independent emoji font.
+- [emojione](https://github.com/joypixels/emojione) - The world's largest independent emoji font.
 - [pwnazon](https://github.com/mflint/pwnazon) - Fake ad server for your "Amazon Kindle with Special Offers"
 - [Laravel-Alfred-Extension](https://github.com/clarkeash/Laravel-Alfred-Extension) - 
 - [cupapp](https://github.com/zsol/cupapp) - A starcraft2 replay sharing site
@@ -747,13 +764,22 @@
 
 ## PowerShell 
 
-- [wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox. Also includes Webdriver configurations to test an app running in Docker with Safari Desktop, Safari Mobile and Chrome Mobile via Appium and Internet Explorer and Microsoft Edge on Windows 10.
+- [wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox, Safari Mobile and Chrome Mobile via Appium and Safari on MacOS as well as Internet Explorer and Microsoft Edge on Windows 10.
 
 ## Python 
 
+- [orm](https://github.com/encode/orm) - An async ORM. 🗃
+- [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+- [pyright](https://github.com/Microsoft/pyright) - Static type checker for Python
+- [pytest-sentry](https://github.com/untitaker/pytest-sentry) - Track flaky tests in Sentry
+- [tartiflette](https://github.com/dailymotion/tartiflette) - GraphQL Engine built with Python 3.6+ / asyncio
+- [pyopenssl](https://github.com/pyca/pyopenssl) - A Python wrapper around the OpenSSL library
+- [pytype](https://github.com/google/pytype) - A static type analyzer for Python code
+- [syncipy](https://github.com/kocsob/syncipy) - Python package to synchronize IP address with dynamic DNS services
+- [stone](https://github.com/dropbox/stone) - Write your APIs in stone.
 - [migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas
 - [sentry-kubernetes](https://github.com/getsentry/sentry-kubernetes) - Kubernetes event reporter for Sentry
-- [bullet](https://github.com/Mckinsey666/bullet) - 🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks.
+- [bullet](https://github.com/Mckinsey666/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [anki-sync-server](https://github.com/dsnopek/anki-sync-server) - A personal Anki sync server (so you can sync against your own server rather than AnkiWeb)
 - [apcaccess](https://github.com/flyte/apcaccess) - 
 - [geoalchemy2](https://github.com/geoalchemy/geoalchemy2) - Geospatial extension to SQLAlchemy
@@ -766,10 +792,10 @@
 - [python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
 - [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [zimports](https://github.com/sqlalchemyorg/zimports) - Python import rewriter
-- [starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. ✨
+- [starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [doh-proxy](https://github.com/facebookexperimental/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
-- [sherlock](https://github.com/TheYahya/sherlock) - 🔎 Find usernames across social networks
+- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Find usernames across social networks
 - [Alexa-Chromecast-Skill-2.0](https://github.com/Pizzaface/Alexa-Chromecast-Skill-2.0) - Allows Amazon Alexa to control Google Chromecast - Designed for Raspberry Pi
 - [opsmop](https://github.com/opsmop/opsmop) - DISCONTINUED: permanent copy of fork lives at github.com/mpdehaan/opsmop
 - [ezgmail](https://github.com/asweigart/ezgmail) - A Pythonic interface to the Gmail API that actually works as of Dec 2018.
@@ -804,7 +830,7 @@
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
 - [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell
 - [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
-- [plash](https://github.com/ihucos/plash) - Build and run Containers
+- [plash](https://github.com/ihucos/plash) - Run, build and manage containers
 - [furnace](https://github.com/balabit/furnace) - A lightweight pure-python container implementation.
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [cozmo-python-sdk](https://github.com/anki/cozmo-python-sdk) - Anki Cozmo Python SDK
@@ -1098,7 +1124,7 @@
 - [reverse-geocoder](https://github.com/thampiman/reverse-geocoder) - A fast, offline reverse geocoder in Python
 - [redislite](https://github.com/yahoo/redislite) - Redis in a python module.
 - [pysimplesoap](https://github.com/pysimplesoap/pysimplesoap) - Python Simple SOAP Library
-- [pytest-testmon](https://github.com/tarpas/pytest-testmon) - taking TDD to a new level with testmon and py.test for Python
+- [pytest-testmon](https://github.com/tarpas/pytest-testmon) - find bugs 10x faster
 - [mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB
@@ -1117,7 +1143,7 @@
 - [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, and 3.7.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [django-tenancy](https://github.com/charettes/django-tenancy) - Handle multi-tenancy in Django with no additional global state using schemas.
-- [moto](https://github.com/spulec/moto) - Moto is a library that allows your python tests to easily mock out the boto library
+- [moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [apache-log-parser](https://github.com/rory/apache-log-parser) - Parses log lines from an apache log
 - [parsible](https://github.com/Yipit/parsible) - Log Tailing and Parsing Framework
 - [django-mptt](https://github.com/django-mptt/django-mptt) - Utilities for implementing a modified pre-order traversal tree in django.
@@ -1144,7 +1170,7 @@
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [pyrasite](https://github.com/lmacken/pyrasite) - Inject code into running Python processes
 - [parsedatetime](https://github.com/bear/parsedatetime) - Parse human-readable date/time strings
-- [django-photologue](https://github.com/jdriscoll/django-photologue) - A customizable plug-in photo management application for the Django web framework.
+- [django-photologue](https://github.com/richardbarran/django-photologue) - A customizable plug-in photo management application for the Django web framework.
 - [NatI](https://github.com/rcorcs/NatI) - NatI (Natural Language Interface) is a multi-language voice control system.
 - [zope.sqlalchemy](https://github.com/zopefoundation/zope.sqlalchemy) - Integration of SQLAlchemy with transaction management
 - [pyramid_sqlalchemy](https://github.com/wichert/pyramid_sqlalchemy) - SQLAlchemy integration for pyramid
@@ -1173,7 +1199,7 @@
 - [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 - [Flask-PageDown](https://github.com/miguelgrinberg/Flask-PageDown) - Implementation of StackOverflow's "PageDown" markdown editor for Flask and Flask-WTF.
 - [entityfk](https://github.com/infoscout/entityfk) - Django app that allows you to easily add a generic foreign key to a django model.
-- [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
 - [flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [Flask-Foundation](https://github.com/JackStouffer/Flask-Foundation) - A solid foundation for your flask app
@@ -1277,7 +1303,6 @@
 - [django-admin2](https://github.com/jazzband/django-admin2) - Extendable, adaptable rewrite of django.contrib.admin
 - [django-mailer](https://github.com/pinax/django-mailer) - mail queuing and management for the Django web framework
 - [celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-- [gists](https://github.com/devvesa/gists) - Python CLI interface for managing gists
 - [gistapi.py](https://github.com/kennethreitz-archive/gistapi.py) - Python wrapper for GitHub's Gist API
 - [pygist](https://github.com/mattikus/pygist) - python command line client for gist
 - [py-trello](https://github.com/sarumont/py-trello) - Python API wrapper around Trello's API
@@ -1334,7 +1359,7 @@
 - [gitlab-shell](https://github.com/gitlabhq/gitlab-shell) - Replacement for gitolite. This repo is a mirror of https://gitlab.com/gitlab-org/gitlab-shell/
 - [gitlab-recipes](https://github.com/gitlabhq/gitlab-recipes) - Mostly unofficial GitLab recipes for setup on different platforms, update etc...
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-- [explore](https://github.com/github/explore) - Community-curated topic pages on GitHub
+- [explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [rails](https://github.com/rails/rails) - Ruby on Rails
 - [papertrail-cli](https://github.com/papertrail/papertrail-cli) - Command-line client for Papertrail hosted syslog & app log management service
 - [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
@@ -1436,10 +1461,11 @@
 - [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) - Solarized Colorscheme for IntelliJ IDEA
 - [todo.txt-cli](https://github.com/godlygeek/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
 - [gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## TypeScript 
 
+- [traduora](https://github.com/traduora/traduora) - Translation management platform for teams
 - [notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
@@ -1447,6 +1473,7 @@
 - [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn. Great for wireframes.
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 - [NyaoVim](https://github.com/rhysd/NyaoVim) - Web-enhanced Extensible Neovim Frontend
+- [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 
 ## Vala 
 
