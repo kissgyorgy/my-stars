@@ -260,7 +260,7 @@
 
 ## Emacs Lisp 
 
-- [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs configuration for the stubborn martian vimmer
+- [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [magit](https://github.com/magit/magit) - It's Magit! A Git porcelain inside Emacs.
 - [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
@@ -271,6 +271,8 @@
 
 ## Go 
 
+- [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
+- [go-qrcode](https://github.com/skip2/go-qrcode) - :sparkles: QR Code encoder (Go)
 - [log](https://github.com/apex/log) - Structured logging package for Go.
 - [consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
 - [ovpm](https://github.com/cad/ovpm) - OpenVPN Management Server - Effortless and free OpenVPN server administration
@@ -373,9 +375,9 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel written in Go
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide, with heavily documented code and programs analysis, all in 1 place
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go study guide
 - [pam-ussh](https://github.com/uber/pam-ussh) - uber's ssh certificate pam module
 - [octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -408,7 +410,7 @@
 - [certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [intercert](https://github.com/evenh/intercert) - Use Let's Encrypt on private (LAN) servers using DNS validation
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems development framework
+- [go-micro](https://github.com/micro/go-micro) - A distributed systems development framework
 - [go-cast](https://github.com/barnybug/go-cast) - A command line tool to control Google Chromecast devices.
 - [gravity](https://github.com/gravitational/gravity) - Opinionated image-based Kubernetes packaging and management tools.
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -482,7 +484,7 @@
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
-- [cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native SQL database.
+- [cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -557,7 +559,6 @@
 
 ## HTML 
 
-- [Metronic](https://github.com/KeenthemesHub/Metronic) - Metronic - Bootstrap Angular 8 & Vue Admin Dashboard Theme For Next Generation Applications
 - [rhasspy](https://github.com/synesthesiam/rhasspy) - Rhasspy voice assistant for offline home automation
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
 - [calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
@@ -568,7 +569,7 @@
 - [watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
-- [change-password-url](https://github.com/WICG/change-password-url) - 
+- [change-password-url](https://github.com/WICG/change-password-url) - A Well-Known URL for Changing Passwords
 - [wedding-website](https://github.com/rampatra/wedding-website) - Our Wedding Website 👫
 - [webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
@@ -628,12 +629,15 @@
 
 ## JavaScript 
 
+- [connect4](https://github.com/thecsw/connect4) - ✊ ✋ Some quick and dirty connect4 I did in JS 🔴 🟡
+- [carbon](https://github.com/carbon-app/carbon) - 🎨 Create and share beautiful images of your source code
 - [gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and saves clipboard history.
 - [lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
 - [mattermost-plugin-webrtc-video](https://github.com/niklabh/mattermost-plugin-webrtc-video) - A webrtc video call plugin for mattermost
 - [handoff-visualizer](https://github.com/chonyy/handoff-visualizer) - :signal_strength::iphone::car: Wireless Network Handoff Visualizer built with React!
 - [permission-manager](https://github.com/sighupio/permission-manager) - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
+- [Metronic](https://github.com/KeenthemesHub/Metronic) - Metronic - Bootstrap HTML, Angular 9, React, VueJS & Laravel Admin Dashboard Theme For Next Generation Applications
 - [react-day-picker](https://github.com/gpbl/react-day-picker) - Lightweight date picker component for React
 - [pgsh](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
 - [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
@@ -647,7 +651,7 @@
 - [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
-- [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
+- [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [google-sign-in](https://github.com/GoogleChromeLabs/google-sign-in) - Google Sign-In for Websites sample code.
 - [passport-local](https://github.com/jaredhanson/passport-local) - Username and password authentication strategy for Passport and Node.js.
@@ -663,6 +667,7 @@
 - [WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS web client for the ProtonMail secure email service.
 - [tutanota](https://github.com/tutao/tutanota) - Tutanota is an email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.
 - [medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
+- [mail-addons](https://github.com/itpp-labs/mail-addons) - Odoo mail addons
 - [tiptap](https://github.com/scrumpy/tiptap) - A rich-text editor for Vue.js
 - [coinbase-pro-node](https://github.com/coinbase/coinbase-pro-node) - DEPRECATED — The official Node.js library for Coinbase Pro
 - [mockit](https://github.com/boyney123/mockit) - A tool to quickly mock out end points, setup delays and more...
@@ -833,13 +838,13 @@
 - [bamboolib](https://github.com/tkrabel/bamboolib) - bamboolib - the Fastest and Easiest Way to Work with pandas DataFrames
 - [portfolinfo](https://github.com/vtisza/portfolinfo) - 
 - [hchasestevens.github.io](https://github.com/hchasestevens/hchasestevens.github.io) - A collection of miscellaneous thoughts that aren't on my blog.
-- [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
+- [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [keras_playground](https://github.com/devill/keras_playground) - 
 - [python_reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
 
 ## Kotlin 
 
-- [pycharm-security](https://github.com/tonybaloney/pycharm-security) - A PyCharm plugin to find security holes in your Python projects
+- [pycharm-security](https://github.com/tonybaloney/pycharm-security) - Finds security holes in your Python projects from PyCharm and GitHub
 
 ## Lua 
 
@@ -847,6 +852,7 @@
 
 ## Makefile 
 
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## Nix 
@@ -1029,6 +1035,10 @@
 
 ## Python 
 
+- [cluegen](https://github.com/dabeaz/cluegen) - Get a clue, get some code
+- [scanyourpdf](https://github.com/baicunko/scanyourpdf) - Repository for the Scan Your Pdf community
+- [HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
+- [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [environ-config](https://github.com/hynek/environ-config) - Python Application Configuration With Environment Variables
 - [vidgear](https://github.com/abhiTronix/vidgear) - High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :sparkles:
 - [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) - Extends the Django Admin to include a extensible dashboard and navigation menu
@@ -1073,7 +1083,7 @@
 - [trip-planner](https://github.com/adl1995/trip-planner) - A CLI tool for planning trip itinerary.
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [pex](https://github.com/pantsbuild/pex) - A library and tool for generating .pex (Python EXecutable) files
-- [shhh](https://github.com/smallwat3r/shhh) - Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates.
+- [shhh](https://github.com/smallwat3r/shhh) - Keep secrets out of emails and chat logs, share them using secure links with passphrase and expiration dates.
 - [monotonic](https://github.com/atdt/monotonic) - An implementation of time.monotonic() for Python 2 & Python 3
 - [molten](https://github.com/Bogdanp/molten) - A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
 - [zope.interface](https://github.com/zopefoundation/zope.interface) - Interfaces for Python
@@ -1117,7 +1127,6 @@
 - [sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
 - [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Python SDK https://slack.dev/python-slackclient/
-- [mail-addons](https://github.com/itpp-labs/mail-addons) - Odoo mail addons
 - [modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [cloudflare-ddns](https://github.com/ailionx/cloudflare-ddns) - DDNS script to sync public IP address to CloudFlare dns records.
@@ -1170,7 +1179,7 @@
 - [responder](https://github.com/taoufik07/responder) - A familiar HTTP Service Framework for Python.
 - [setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system
 - [pykka](https://github.com/jodal/pykka) - Pykka is a Python implementation of the actor model, which makes it easier to build concurrent applications
-- [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat plugin for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
+- [wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [mangum](https://github.com/erm/mangum) - AWS Lambda & API Gateway support for ASGI
 - [fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
 - [python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
@@ -1264,7 +1273,7 @@
 - [catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [wallabag-kindle-consumer](https://github.com/janLo/wallabag-kindle-consumer) - Send all articles with a certain tag to your kindle.
 - [pytest-plugins](https://github.com/man-group/pytest-plugins) - A grab-bag of nifty pytest plugins
-- [falcon](https://github.com/falconry/falcon) - Minimalist web services and app backend framework for Python developers.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale.
 - [CredKing](https://github.com/ustayready/CredKing) - Password spraying using AWS Lambda for IP rotation
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [desktop-mirror](https://github.com/fcwu/desktop-mirror) - A utility to stream screen and audio between Windows, Ubuntu or XBMC
@@ -1726,7 +1735,7 @@
 - [tendo](https://github.com/pycontribs/tendo) - Official repository of python tendo library, always welcoming new contributions.
 - [copydog](https://github.com/coagulant/copydog) - NOT MAINTAINED, feel free to take over
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [Airplayer](https://github.com/pascalw/Airplayer) - Python script to make media playing software Apple Airplay compatbible. Currently supports XBMC, Plex and Boxee.
 - [ghar](https://github.com/philips/ghar) - ghar: home as repositories
@@ -1885,6 +1894,7 @@
 
 ## TypeScript 
 
+- [vscode-drawio](https://github.com/hediet/vscode-drawio) - This extension integrates Draw.io into VS Code.
 - [opentrace-cloud-functions](https://github.com/opentrace-community/opentrace-cloud-functions) - OpenTrace Cloud Functions. Reference implementation of the BlueTrace protocol.
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [vscode-dash](https://github.com/deerawan/vscode-dash) - Dash, Zeal and Velocity documentation integration in Visual Studio Code 🔎📖
@@ -1898,7 +1908,7 @@
 - [vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [rxdb](https://github.com/pubkey/rxdb) - :computer: 🔄 :iphone: A realtime Database for JavaScript Applications
-- [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
+- [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [traduora](https://github.com/traduora/traduora) - Translation management platform for teams
