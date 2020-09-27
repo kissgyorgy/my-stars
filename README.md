@@ -296,6 +296,7 @@
 
 ## Go 
 
+- [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [lofimusic](https://github.com/maxence-charriere/lofimusic) - Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
 - [cortex](https://github.com/cortexlabs/cortex) - Model serving for developers
@@ -483,7 +484,7 @@
 - [mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud services development
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [morningpaper2remarkable](https://github.com/jessfraz/morningpaper2remarkable) - A bot to sync the morning paper to a remarkable tablet.
@@ -692,6 +693,8 @@
 
 ## JavaScript 
 
+- [checkmate](https://github.com/Aperyon/checkmate) - 
+- [docable-notebooks](https://github.com/ottomatica/docable-notebooks) - 
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [coderetreat](https://github.com/chaarlee/coderetreat) - Game Of Life Code Retreat
 - [pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
@@ -711,6 +714,7 @@
 - [forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
 - [mail-for-good](https://github.com/freeCodeCamp/mail-for-good) - An open source email campaign management tool for nonprofits
 - [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favorite messaging services into one application
+- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [node-read](https://github.com/bndr/node-read) - Get Readable Content from any page. Based on Arc90's readability project using cheerio engine.
 - [readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [node-readability](https://github.com/olragon/node-readability) - Turn any web page into a clean view
@@ -1124,7 +1128,7 @@
 
 ## PLpgSQL 
 
-- [sql-battleships](https://github.com/Firemoon777/sql-battleships) - I never asked for this
+- [sql-battleships](https://github.com/selectel/sql-battleships) - Play Battleships on PostgreSQL
 
 ## Pascal 
 
@@ -2069,7 +2073,6 @@
 - [apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
 - [swr](https://github.com/vercel/swr) - React Hooks library for remote data fetching
 - [kowl](https://github.com/cloudhut/kowl) - Kafka WebUI for exploring messages, consumers. configurations and more with a focus on a good UI & UX.
-- [react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [screenr](https://github.com/cfe84/screenr) - Screens emails
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
