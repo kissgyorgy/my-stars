@@ -11,17 +11,20 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: actions/setup-python@v2
+      - uses: actions/cache@v2
         with:
-          python-version: '3.6'
-
-      -  name: Install starred
-         run: pip install starred
+          path: ~/.local/pipx
+          key: pipx-cache
 
       - name: Re-generate README
-        run: starred --username kissgyorgy --sort > README.md
+        run: pipx run starred --username kissgyorgy --sort > README.md
+
+      - name: Check for modified files
+        id: git-check
+        run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
 
       - name: Push changes
+        if: steps.git-check.outputs.modified == 'true'
         run: |
           git config --global user.name 'Kiss György'
           git config --global user.email 'kissgyorgy@me.com'
