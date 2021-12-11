@@ -11,6 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - uses: actions/cache@v2
+        with:
+          path: ~/.local/pipx
+          key: pipx-cache
+
       - name: Re-generate README
         run: pipx run starred --username kissgyorgy --sort > README.md
 
