@@ -11,15 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: actions/setup-python@v2
-        with:
-          python-version: '3.6'
-
-      -  name: Install starred
-         run: pip install starred
-
       - name: Re-generate README
-        run: starred --username kissgyorgy --sort > README.md
+        run: pipx run starred --username kissgyorgy --sort > README.md
 
       - name: Push changes
         run: |
