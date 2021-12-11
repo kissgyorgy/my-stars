@@ -1,0 +1,27 @@
+name: Update my stars
+on: [ workflow_dispatch ]
+
+jobs:
+  Update-my-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.6'
+
+      -  name: Install starred
+         run: pip install starred
+
+      - name: Re-generate README
+        run: starred --username kissgyorgy --sort > README.md
+
+      - name: Push changes
+        run: |
+          git config --global user.name 'Kiss György'
+          git config --global user.email 'kissgyorgy@me.com'
+          git add README.md
+          git commit -m "Automatic update"
+          git push
