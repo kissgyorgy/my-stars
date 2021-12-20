@@ -157,7 +157,6 @@
 - [mutecomm/go-sqlcipher](https://github.com/mutecomm/go-sqlcipher) - Self-contained Go sqlite3 driver with an AES-256 encrypted sqlite3 database
 - [xeodou/go-sqlcipher](https://github.com/xeodou/go-sqlcipher) - Golang SQLCipher driver conforming to the built-in database/sql interface and using the latest sqlite3 code.
 - [jonashaag/bjoern](https://github.com/jonashaag/bjoern) - A screamingly fast Python 2/3 WSGI server written in C.
-- [projectcalico/felix](https://github.com/projectcalico/felix) - Project Calico's per-host agent Felix, responsible for programming routes and security policy.
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard.
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -399,6 +398,9 @@
 
 ## Go 
 
+- [tailscale/sqlite](https://github.com/tailscale/sqlite) - work in progress
+- [carlmjohnson/requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [kevinburke/nacl](https://github.com/kevinburke/nacl) - Pure Go implementation of the NaCL set of API's
 - [kevinburke/hostsfile](https://github.com/kevinburke/hostsfile) - go tool for working with /etc/hosts files
 - [kevinburke/ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
@@ -482,7 +484,7 @@
 - [elithrar/simple-scrypt](https://github.com/elithrar/simple-scrypt) - A convenience library for generating, comparing and inspecting password hashes using the scrypt KDF in Go 🔑
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
-- [kubeless/kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
+- [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [benbjohnson/hashfs](https://github.com/benbjohnson/hashfs) - Implementation of io/fs.FS that appends SHA256 hashes to filenames to allow for aggressive HTTP caching.
 - [openfaas/cron-connector](https://github.com/openfaas/cron-connector) - A Cron Connector for OpenFaaS
 - [openfaas/of-watchdog](https://github.com/openfaas/of-watchdog) - Reverse proxy for STDIO and HTTP microservices
@@ -645,6 +647,7 @@
 - [kubernetes-retired/external-storage](https://github.com/kubernetes-retired/external-storage) - [EOL] External storage plugins, provisioners, and helper libraries
 - [kubernetes-csi/external-resizer](https://github.com/kubernetes-csi/external-resizer) - Sidecar container that watches Kubernetes PersistentVolumeClaims objects and triggers controller side expansion operation against a CSI endpoint
 - [lilic/kube-start-stop](https://github.com/lilic/kube-start-stop) - Schedule Scaling of Kubernetes Resources
+- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
 - [kubernetes-sigs/kubefed](https://github.com/kubernetes-sigs/kubefed) - Kubernetes Cluster Federation
@@ -834,6 +837,7 @@
 
 ## HTML 
 
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js
 - [spdx/license-list-data](https://github.com/spdx/license-list-data) - Various data formats for the SPDX License List including RDFa, HTML, Text, and JSON
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is an open-source application vulnerability correlation and security orchestration tool.
@@ -852,7 +856,6 @@
 - [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [synesthesiam/rhasspy](https://github.com/synesthesiam/rhasspy) - Rhasspy voice assistant for offline home automation
 - [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
-- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -932,6 +935,7 @@
 
 ## JavaScript 
 
+- [timeoff-management/timeoff-management-application](https://github.com/timeoff-management/timeoff-management-application) - Simple yet powerful absence management software for small and medium size business (community edition)
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Accessible360/accessible-slick](https://github.com/Accessible360/accessible-slick) - the last (accessible) carousel you'll ever need.
@@ -945,7 +949,7 @@
 - [visualpython/visualpython](https://github.com/visualpython/visualpython) - GUI-based Python code generator.
 - [tannerlinsley/react-table](https://github.com/tannerlinsley/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [tonybaloney/try-pyjion](https://github.com/tonybaloney/try-pyjion) - 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is an open-source low-code platform for building and deploying internal tools with minimal engineering efforts 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source low-code framework for building React-based web applications and internal tools 🚀
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [schibsted/jsx-pdf](https://github.com/schibsted/jsx-pdf) - Generate PDFs using JSX! 🎯
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
@@ -1336,6 +1340,7 @@
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
+- [projectcalico/felix](https://github.com/projectcalico/felix) - Project Calico's per-host agent Felix, responsible for programming routes and security policy.
 - [inlets/inlets-archived](https://github.com/inlets/inlets-archived) - Cloud Native Tunnel, now inlets PRO
 - [facg3/Stateless-vs-stateful-authentication](https://github.com/facg3/Stateless-vs-stateful-authentication) - 
 - [zaki/mac-hun-keyboard](https://github.com/zaki/mac-hun-keyboard) - A standard Hungarian keyboard layout for Mac OSX 10.6
@@ -1494,6 +1499,7 @@
 
 ## Python 
 
+- [obendidi/httpx-cache](https://github.com/obendidi/httpx-cache) - Simple caching transport for httpx
 - [IoT-Inspector/unblob](https://github.com/IoT-Inspector/unblob) - Extract files from any kind of container formats
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
 - [JordanMilne/romfsck2](https://github.com/JordanMilne/romfsck2) - Analysis tools for RomFS
@@ -1576,7 +1582,7 @@
 - [skontar/cvss](https://github.com/skontar/cvss) - CVSS2/3 library with interactive calculator for Python 2 and Python 3
 - [nyu-mlab/iot-inspector-client](https://github.com/nyu-mlab/iot-inspector-client) - IoT Inspector Client
 - [tlocke/pg8000](https://github.com/tlocke/pg8000) - A Pure-Python PostgreSQL Driver
-- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [vinissimus/async-asgi-testclient](https://github.com/vinissimus/async-asgi-testclient) - A framework-agnostic library for testing ASGI web applications
 - [hpyproject/hpy](https://github.com/hpyproject/hpy) - HPy: a better API for Python
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
@@ -1717,7 +1723,7 @@
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [Yubico/u2fval](https://github.com/Yubico/u2fval) - Python based U2F Validation Server
 - [rollethu/noe](https://github.com/rollethu/noe) - Booking and patient management system for drive-through virology testing. For a commercially supported solution, visit the CovidTMS website.
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [2020PB/police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
 - [glutanimate/review-heatmap](https://github.com/glutanimate/review-heatmap) - Anki add-on to help you keep track of your review activity
 - [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python
@@ -2467,9 +2473,10 @@
 
 ## Rust 
 
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [insanitybit/shannon-entropy](https://github.com/insanitybit/shannon-entropy) - A rust library to calculate the shannon entropy of a string.
 - [xnuter/http-tunnel](https://github.com/xnuter/http-tunnel) - HTTP(S) Tunnel and TCP Proxy
 - [mitsuhiko/when](https://github.com/mitsuhiko/when) - Timezones from the command line
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [tailscale/pam](https://github.com/tailscale/pam) - An experimental, work-in-progress PAM module for Tailscale
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
@@ -2748,7 +2755,7 @@
 - [microsoft/vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
-- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
