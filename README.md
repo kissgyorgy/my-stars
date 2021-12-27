@@ -50,6 +50,7 @@
   - [Pug](#pug)
   - [Python](#python)
   - [QML](#qml)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -87,6 +88,7 @@
 
 ## C 
 
+- [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
 - [planetbeing/libdmg-hfsplus](https://github.com/planetbeing/libdmg-hfsplus) - Portable libraries and utilities that manipulate HFS+ volumes and Apple's DMG images
 - [SumrakDZN/Namalsk-Server](https://github.com/SumrakDZN/Namalsk-Server) - All necessary information and files for any Namalsk server hoster.
@@ -398,6 +400,7 @@
 
 ## Go 
 
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats
 - [tailscale/sqlite](https://github.com/tailscale/sqlite) - work in progress
 - [carlmjohnson/requests](https://github.com/carlmjohnson/requests) - HTTP requests for Gophers
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
@@ -689,7 +692,7 @@
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [evenh/intercert](https://github.com/evenh/intercert) - Use Let's Encrypt on private (LAN) servers using DNS validation
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
 - [barnybug/go-cast](https://github.com/barnybug/go-cast) - A command line tool to control Google Chromecast devices.
 - [gravitational/gravity](https://github.com/gravitational/gravity) - Kubernetes application deployments for restricted, regulated or remote environments.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -704,7 +707,7 @@
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
-- [micro/micro](https://github.com/micro/micro) - Micro is a distributed cloud operating system
+- [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [jessfraz/morningpaper2remarkable](https://github.com/jessfraz/morningpaper2remarkable) - A bot to sync the morning paper to a remarkable tablet.
@@ -873,7 +876,6 @@
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [w3c/html](https://github.com/w3c/html) - Deliverables of the HTML Working Group until October 2018
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
-- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [xevrem/paws](https://github.com/xevrem/paws) - Python Async Web Server
 - [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1292,6 +1294,8 @@
 
 ## Others 
 
+- [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
 - [crev-dev/crev](https://github.com/crev-dev/crev) - Socially scalable Code REView and recommendation system that we desperately need
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
@@ -1393,6 +1397,7 @@
 - [petergerner/alaptorveny](https://github.com/petergerner/alaptorveny) - Magyarország Alaptörvénye
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
+- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [vicoyeh/pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) - A curated list of topics to start learning software engineering
 - [lionelbarrow/bang-bang-notes](https://github.com/lionelbarrow/bang-bang-notes) - Notes on BangBangCon 2016
 - [underyx/conference-notes](https://github.com/underyx/conference-notes) - Notes I've scribbled down at tech conferences
@@ -1499,6 +1504,8 @@
 
 ## Python 
 
+- [mikeckennedy/pythons-gc-and-orms](https://github.com/mikeckennedy/pythons-gc-and-orms) - A simple project to explore the number of GCs when doing basic ORM work.
+- [tylerhou/fiber](https://github.com/tylerhou/fiber) - 
 - [obendidi/httpx-cache](https://github.com/obendidi/httpx-cache) - Simple caching transport for httpx
 - [IoT-Inspector/unblob](https://github.com/IoT-Inspector/unblob) - Extract files from any kind of container formats
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities
@@ -1633,7 +1640,7 @@
 - [django-notifications/django-notifications](https://github.com/django-notifications/django-notifications) - GitHub notifications alike app for Django
 - [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
 - [aliles/filemagic](https://github.com/aliles/filemagic) - File type identification using libmagic
-- [arrow-py/arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python
+- [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [chaudum/pytest-crate](https://github.com/chaudum/pytest-crate) - A pytest plugin for CrateDB
 - [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone.
@@ -1906,7 +1913,7 @@
 - [omnilib/aiosqlite](https://github.com/omnilib/aiosqlite) - asyncio bridge to the standard sqlite3 module
 - [lincolnloop/django-webserver](https://github.com/lincolnloop/django-webserver) - Production webservers as a Django management command
 - [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library.
-- [ronf/asyncssh](https://github.com/ronf/asyncssh) - AsyncSSH is a Python package which provides an asynchronous client and server implementation of the SSHv2 protocol on top of the Python asyncio framework. It requires Python 3.4 or later and the Python cryptography library for some cryptographic functions.
+- [ronf/asyncssh](https://github.com/ronf/asyncssh) - AsyncSSH is a Python package which provides an asynchronous client and server implementation of the SSHv2 protocol on top of the Python asyncio framework.
 - [chardet/chardet](https://github.com/chardet/chardet) - Python character encoding detector
 - [sdispater/cleo](https://github.com/sdispater/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
 - [agx/git-buildpackage](https://github.com/agx/git-buildpackage) - Suite to help with Debian (and RPM) packages in Git repositories
@@ -1933,7 +1940,7 @@
 - [michael-christen/dh-pipenv](https://github.com/michael-christen/dh-pipenv) - Shim between dh-virtualenv and pipenv
 - [svinota/pyroute2](https://github.com/svinota/pyroute2) - Python Netlink and PF_ROUTE library — network setup and monitoring
 - [pypa/pipfile](https://github.com/pypa/pipfile) - 
-- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Async Python 3.7+ web server/framework | Build fast. Run fast.
+- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
 - [facebookincubator/xar](https://github.com/facebookincubator/xar) - executable archive format
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [dulwich/dulwich](https://github.com/dulwich/dulwich) - Pure-Python Git implementation
@@ -1996,7 +2003,7 @@
 - [robdmc/crontabs](https://github.com/robdmc/crontabs) - :alarm_clock: A cron-like utility for Python
 - [ChrisKnott/Eel](https://github.com/ChrisKnott/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
-- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types
+- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [oliver006/elasticsearch-gmail](https://github.com/oliver006/elasticsearch-gmail) - Index your Gmail Inbox with Elasticsearch
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
@@ -2219,7 +2226,7 @@
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [charettes/django-tenancy](https://github.com/charettes/django-tenancy) - Handle multi-tenancy in Django with no additional global state using schemas.
 - [spulec/moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [amandasaurus/apache-log-parser](https://github.com/amandasaurus/apache-log-parser) - Parses log lines from an apache log
@@ -2431,6 +2438,10 @@
 - [dps/remarkable-keywriter](https://github.com/dps/remarkable-keywriter) - 
 - [khanhas/zshelf](https://github.com/khanhas/zshelf) - reMarkable app: Browse and download books from Z-Library
 
+## Roff 
+
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+
 ## Ruby 
 
 - [licensee/licensee](https://github.com/licensee/licensee) - A Ruby Gem to detect under what license a project is distributed.
@@ -2634,7 +2645,6 @@
 - [ZZROTDesign/docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
 - [phusion/passenger-docker](https://github.com/phusion/passenger-docker) - Docker base images for Ruby, Python, Node.js and Meteor web apps
 - [linusyang/python-for-ios](https://github.com/linusyang/python-for-ios) - Script for building Python with iOS SDK
@@ -2690,7 +2700,6 @@
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
-- [garnet-labs/env-manager](https://github.com/garnet-labs/env-manager) - Garnet is a developer-friendly, open-source tool for managing environment variables and secrets.
 - [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts
 - [lgarron/clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - :clipboard: Simple copying on the web, with maximum browser compatibility.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
