@@ -363,6 +363,7 @@
 
 - [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+- [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) - ﻿﻿Pythonic bindings for FFmpeg's libraries.
 
 ## Dart 
 
@@ -607,7 +608,7 @@
 - [fishi0x01/vsh](https://github.com/fishi0x01/vsh) - vsh - HashiCorp Vault interactive shell and cli tool
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [xordataexchange/crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
-- [caarlos0/env](https://github.com/caarlos0/env) - Simple lib to parse environment variables to structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [antifuchs/htpasswd-login](https://github.com/antifuchs/htpasswd-login) - A RESTful authentication service combining .htpasswd and nginx's auth_request
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
@@ -626,7 +627,7 @@
 - [go-ldap/ldap](https://github.com/go-ldap/ldap) - Basic LDAP v3 functionality for the GO programming language.
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [xeipuuv/gojsonschema](https://github.com/xeipuuv/gojsonschema) - An implementation of JSON Schema, draft v4 v6 & v7 - Go language
-- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless on Kubernetes with OpenFaaS
+- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 - [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus
 - [nats-io/nats-streaming-server](https://github.com/nats-io/nats-streaming-server) - NATS Streaming System Server
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
@@ -937,6 +938,7 @@
 
 ## JavaScript 
 
+- [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [timeoff-management/timeoff-management-application](https://github.com/timeoff-management/timeoff-management-application) - Simple yet powerful absence management software for small and medium size business (community edition)
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -974,6 +976,7 @@
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [fly-apps/edge-apollo-cache](https://github.com/fly-apps/edge-apollo-cache) - Run and cache results from your Apollo GraphQL server on the edge with Fly
 - [werneerm/IoThomework](https://github.com/werneerm/IoThomework) - 
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
 - [publicdomaincompany/jtree](https://github.com/publicdomaincompany/jtree) - Build your own language using Tree Notation.
 - [jaydenseric/apollo-upload-client](https://github.com/jaydenseric/apollo-upload-client) - A terminating Apollo Link for Apollo Client that fetches a GraphQL multipart request if the GraphQL variables contain files (by default FileList, File, Blob, or ReactNativeFile instances), or else fetches a regular GraphQL POST or GET request (depending on the config and GraphQL operation).
@@ -1504,6 +1507,7 @@
 
 ## Python 
 
+- [rogerbinns/apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
 - [mikeckennedy/pythons-gc-and-orms](https://github.com/mikeckennedy/pythons-gc-and-orms) - A simple project to explore the number of GCs when doing basic ORM work.
 - [tylerhou/fiber](https://github.com/tylerhou/fiber) - 
 - [obendidi/httpx-cache](https://github.com/obendidi/httpx-cache) - Simple caching transport for httpx
@@ -1771,7 +1775,6 @@
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [python-attrs/cattrs](https://github.com/python-attrs/cattrs) - Complex custom class converters for attrs.
 - [seandstewart/typical](https://github.com/seandstewart/typical) - Typical: Fast, simple, & correct data-validation using Python 3 typing.
-- [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) - ﻿﻿Pythonic bindings for FFmpeg's libraries.
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [coinbase/coinbase-python](https://github.com/coinbase/coinbase-python) - DEPRECATED — Coinbase Python API
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
@@ -1813,7 +1816,6 @@
 - [plasticityai/supersqlite](https://github.com/plasticityai/supersqlite) - A supercharged SQLite library for Python
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
-- [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [snoack/python-goto](https://github.com/snoack/python-goto) - A function decorator, that rewrites the bytecode, to enable goto in Python
 - [odoomates/odooapps](https://github.com/odoomates/odooapps) - 
 - [OCA/account-financial-tools](https://github.com/OCA/account-financial-tools) - Odoo Accountant Financial Tools and Utils
@@ -2484,6 +2486,7 @@
 
 ## Rust 
 
+- [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [insanitybit/shannon-entropy](https://github.com/insanitybit/shannon-entropy) - A rust library to calculate the shannon entropy of a string.
 - [xnuter/http-tunnel](https://github.com/xnuter/http-tunnel) - HTTP(S) Tunnel and TCP Proxy
@@ -2659,7 +2662,7 @@
 - [h5bp/ant-build-script](https://github.com/h5bp/ant-build-script) - Ant build script intended for use with HTML5 Boilerplate. You may find something useful here, but this project is archived.
 - [jkaving/intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) - Solarized Colorscheme for IntelliJ IDEA
 - [godlygeek/todo.txt-cli](https://github.com/godlygeek/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 
 ## Starlark 
@@ -2714,7 +2717,6 @@
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [adazzle/react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
@@ -2755,7 +2757,7 @@
 - [deerawan/vscode-dash](https://github.com/deerawan/vscode-dash) - Dash, Zeal and Velocity documentation integration in Visual Studio Code 🔎📖
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
-- [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - Date picker component for React
+- [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - Date picker component for React.
 - [lovasoa/react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents
 - [jayphelps/nofux](https://github.com/jayphelps/nofux) - Unpredictable state container for JavaScript apps.
 - [trevorblades/gatsby-remark-check-links](https://github.com/trevorblades/gatsby-remark-check-links) - 🕵️‍♀️ Detects broken links and heading hashes in markdown
