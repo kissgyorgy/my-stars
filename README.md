@@ -408,6 +408,7 @@
 
 ## Go 
 
+- [jstarks/npiperelay](https://github.com/jstarks/npiperelay) - npiperelay allows you to access Windows named pipes from WSL
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -531,7 +532,7 @@
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [bojanz/currency](https://github.com/bojanz/currency) - Currency handling for Go.
-- [denverquane/automuteus](https://github.com/denverquane/automuteus) - Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/denverquane/amonguscapture
+- [automuteus/automuteus](https://github.com/automuteus/automuteus) - Discord Bot to automute Among Us players at round transitions, in conjunction with https://github.com/automuteus/amonguscapture
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [maxence-charriere/lofimusic](https://github.com/maxence-charriere/lofimusic) - Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
@@ -744,7 +745,7 @@
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
-- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
+- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [openshift/source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into container images
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
@@ -862,6 +863,7 @@
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat 🐐  is a "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security 🔐
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [badicsalex/torvenyek](https://github.com/badicsalex/torvenyek) - Magyar törvények git repo
+- [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - "The Grand Unified Theory of Documentation" (David Laing) - a popular and transformative documentation authoring framework
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -965,7 +967,7 @@
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [visualpython/visualpython](https://github.com/visualpython/visualpython) - GUI-based Python code generator.
 - [tonybaloney/try-pyjion](https://github.com/tonybaloney/try-pyjion) - 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and application builder. Built using JavaScript/TypeScript. 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [schibsted/jsx-pdf](https://github.com/schibsted/jsx-pdf) - Generate PDFs using JSX! 🎯
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
@@ -1257,6 +1259,7 @@
 
 ## Lua 
 
+- [pkulchenko/fullmoon](https://github.com/pkulchenko/fullmoon) - Fast and minimalistic Redbean-based Lua web framework in one file.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 
@@ -1581,7 +1584,7 @@
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [MrMino/wheelfile](https://github.com/MrMino/wheelfile) - 🔪🧀  API for creating and inspecting Python .whl files (wheels).
-- [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The new Python SDK for Sentry.io
+- [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
 - [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically with Machine Learning
 - [mgale/ldapfs](https://github.com/mgale/ldapfs) - LDAP browsing via FUSE filesystem mount
 - [tiangolo/pydantic-sqlalchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - Tools to convert SQLAlchemy models to Pydantic models
@@ -1721,7 +1724,6 @@
 - [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py) - Checksec tool in Python, Rich output. Based on LIEF
 - [google-research/football](https://github.com/google-research/football) - Check out the new game server:
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - "The Grand Unified Theory of Documentation" (David Laing) - a popular and transformative documentation authoring framework
 - [BlackStar255/real-estate-bot](https://github.com/BlackStar255/real-estate-bot) - My real estate bot for Budapest.py
 - [saxix/django-adminactions](https://github.com/saxix/django-adminactions) - collection of useful  django actions to use with  ModelAdmin or AdminSite.
 - [billpmurphy/hask](https://github.com/billpmurphy/hask) - Haskell language features and standard libraries in pure Python.
@@ -2070,7 +2072,7 @@
 - [pyupio/pyup-django](https://github.com/pyupio/pyup-django) - Displays a red warning banner if you are running an insecure Django release.
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [clebergnu/pkitool](https://github.com/clebergnu/pkitool) - Simple PKI tool
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [Pylons/pyramid-cookiecutter-alchemy](https://github.com/Pylons/pyramid-cookiecutter-alchemy) - [DEPRECATED - Please use https://github.com/pylons/pyramid-cookiecutter-starter instead] A Cookiecutter (project template) for creating a Pyramid project using SQLite for persistent storage, SQLAlchemy for an ORM, Alembic for database migrations, URL dispatch for routing, and Jinja2 for templating.
 - [Pylons/pyramid-cookiecutter-starter](https://github.com/Pylons/pyramid-cookiecutter-starter) - A Cookiecutter (project template) for creating a Pyramid starter project with choices for template language (Jinja2, Chameleon, or Mako), persistent backend (none, SQLAlchemy with SQLite, or ZODB), and mapping of URLs to routes (URL dispatch or traversal)
 - [openwisp/django-x509](https://github.com/openwisp/django-x509) - Reusable django app implementing x509 PKI certificates management
@@ -2692,6 +2694,7 @@
 ## Svelte 
 
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 
 ## Swift 
 
@@ -2724,7 +2727,7 @@
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
-- [lgarron/clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - :clipboard: Simple copying on the web, with maximum browser compatibility.
+- [lgarron/clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - :clipboard: Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
@@ -2828,7 +2831,6 @@
 
 ## Vue 
 
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [falcon78/Vusic](https://github.com/falcon78/Vusic) - Vusic - Apple Music Web Player made with VueJS
