@@ -178,7 +178,7 @@
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [ParallelSSH/ssh2-python](https://github.com/ParallelSSH/ssh2-python) - Bindings for libssh2 C library.
 - [nginx-shib/nginx-http-shibboleth](https://github.com/nginx-shib/nginx-http-shibboleth) - Shibboleth auth request module for nginx
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [bvinc/go-sqlite-lite](https://github.com/bvinc/go-sqlite-lite) - SQLite driver for the Go programming language
 - [openzfs/spl](https://github.com/openzfs/spl) - A shim layer which adds the core interfaces required for OpenZFS.
@@ -965,7 +965,7 @@
 - [attilammagyar/wysimd](https://github.com/attilammagyar/wysimd) - Turn the WYSIWYG editor in MS Teams into a Slack-inspired Markdown editor
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
-- [visualpython/visualpython](https://github.com/visualpython/visualpython) - GUI-based Python code generator.
+- [visualpython/visualpython](https://github.com/visualpython/visualpython) - GUI-based Python code generator for data science.
 - [tonybaloney/try-pyjion](https://github.com/tonybaloney/try-pyjion) - 
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -1310,6 +1310,7 @@
 
 ## Others 
 
+- [portabletext/portabletext](https://github.com/portabletext/portabletext) - Portable Text is a JSON based rich text specification for modern content editing platforms.
 - [Neo23x0/YARA-Performance-Guidelines](https://github.com/Neo23x0/YARA-Performance-Guidelines) - A guide on how to write fast and memory friendly YARA rules
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -1319,7 +1320,7 @@
 - [binance-exchange/binance-official-api-docs](https://github.com/binance-exchange/binance-official-api-docs) - Official Documentation for the Binance APIs and Streams
 - [burggraf/awesome-cosmo](https://github.com/burggraf/awesome-cosmo) - 
 - [Vinnl/feeds](https://github.com/Vinnl/feeds) - Example repository for creating your own RSS feeds using Feed me up, Scotty!
-- [pypa/advisory-db](https://github.com/pypa/advisory-db) - Security advisory database for Python packages published on pypi.org
+- [pypa/advisory-database](https://github.com/pypa/advisory-database) - Advisory database for Python packages published on pypi.org
 - [cirla/tulipy](https://github.com/cirla/tulipy) - [NOT ACTIVELY MAINTAINED] Tulipy - Financial Technical Analysis Indicator Library (Python bindings for Tulip Charts)
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [JustAUserAcc/cloudflare-dyndns](https://github.com/JustAUserAcc/cloudflare-dyndns) - CloudFlare Dynamic DNS client
@@ -1518,6 +1519,7 @@
 
 ## Python 
 
+- [aaugustin/notion2pg](https://github.com/aaugustin/notion2pg) - Import Notion databases to PostgreSQL tables
 - [tvst/plost](https://github.com/tvst/plost) - A deceptively simple plotting library for Streamlit
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
 - [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
@@ -1892,14 +1894,14 @@
 - [getsentry/sentry-kubernetes](https://github.com/getsentry/sentry-kubernetes) - Kubernetes event reporter for Sentry
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [dsnopek/anki-sync-server](https://github.com/dsnopek/anki-sync-server) - A personal Anki sync server (so you can sync against your own server rather than AnkiWeb)
-- [ubuntu/microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+- [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [flyte/apcaccess](https://github.com/flyte/apcaccess) - 
 - [geoalchemy/geoalchemy2](https://github.com/geoalchemy/geoalchemy2) - Geospatial extension to SQLAlchemy
 - [taoufik07/responder](https://github.com/taoufik07/responder) - A familiar HTTP Service Framework for Python.
 - [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system
 - [jodal/pykka](https://github.com/jodal/pykka) - 🌀 Pykka makes it easier to build concurrent applications.
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
-- [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda & API Gateway support for ASGI
+- [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications
 - [mherrmann/fbs-tutorial](https://github.com/mherrmann/fbs-tutorial) - Tutorial for creating Python/Qt GUIs with fbs
 - [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) - Produce redistributable builds of Python
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
@@ -2704,6 +2706,7 @@
 
 ## TypeScript 
 
+- [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [pmndrs/suspend-react](https://github.com/pmndrs/suspend-react) - 🚥 Async/await for React components
