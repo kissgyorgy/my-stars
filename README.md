@@ -176,7 +176,7 @@
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [vuori/weasel-pageant](https://github.com/vuori/weasel-pageant) - Deprecated: An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [ParallelSSH/ssh2-python](https://github.com/ParallelSSH/ssh2-python) - Bindings for libssh2 C library.
+- [ParallelSSH/ssh2-python](https://github.com/ParallelSSH/ssh2-python) - Python bindings for libssh2 C library.
 - [nginx-shib/nginx-http-shibboleth](https://github.com/nginx-shib/nginx-http-shibboleth) - Shibboleth auth request module for nginx
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
@@ -236,7 +236,6 @@
 - [RatScanner/RatScanner](https://github.com/RatScanner/RatScanner) - Rat Scanner is a open source tool for Escape from Tarkov.
 - [pfusik/cito](https://github.com/pfusik/cito) - Ć programming language. Translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C.
 - [parzivail/ReMarkable.NET](https://github.com/parzivail/ReMarkable.NET) - A .NET library for developing applications for the reMarkable tablets
-- [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [digital-dream-labs/api](https://github.com/digital-dream-labs/api) - 
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [automuteus/amonguscapture](https://github.com/automuteus/amonguscapture) - Capture of the local Among Us executable state
@@ -408,6 +407,8 @@
 
 ## Go 
 
+- [bradenaw/juniper](https://github.com/bradenaw/juniper) - Juniper is an extension to the Go standard library using generics, including containers, iterators, and streams.
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [jstarks/npiperelay](https://github.com/jstarks/npiperelay) - npiperelay allows you to access Windows named pipes from WSL
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm
@@ -538,7 +539,7 @@
 - [maxence-charriere/lofimusic](https://github.com/maxence-charriere/lofimusic) - Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
-- [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST API Framework for Golang with OpenAPI 3
+- [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/GraphQL API Framework for Golang with OpenAPI 3
 - [Kagami/go-face](https://github.com/Kagami/go-face) - :mag: Face recognition with Go
 - [mgit-at/restic](https://github.com/mgit-at/restic) - Fast, secure, efficient backup program (with support for WORM backups, write once/read many)
 - [willscott/go-nfs](https://github.com/willscott/go-nfs) - golang NFSv3 server
@@ -707,7 +708,7 @@
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [evenh/intercert](https://github.com/evenh/intercert) - Use Let's Encrypt on private (LAN) servers using DNS validation
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [asim/go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework
 - [barnybug/go-cast](https://github.com/barnybug/go-cast) - A command line tool to control Google Chromecast devices.
 - [gravitational/gravity](https://github.com/gravitational/gravity) - Kubernetes application deployments for restricted, regulated or remote environments.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -722,7 +723,7 @@
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
-- [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
+- [micro/micro](https://github.com/micro/micro) - API first development platform
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [jessfraz/morningpaper2remarkable](https://github.com/jessfraz/morningpaper2remarkable) - A bot to sync the morning paper to a remarkable tablet.
@@ -976,6 +977,7 @@
 - [netlify/netlify-identity-widget](https://github.com/netlify/netlify-identity-widget) - A zero config, framework free Netlify Identity widget
 - [papnkukn/qrcode-svg](https://github.com/papnkukn/qrcode-svg) - A simple QR Code generator in pure JavaScript / node.js library
 - [passatgt/vakcinapass](https://github.com/passatgt/vakcinapass) - Védettségi igazolvány Apple Wallet-ben
+- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
@@ -1401,6 +1403,7 @@
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [solarized/xresources](https://github.com/solarized/xresources) - Solarized for X Windows
 - [nayafia/microgrants](https://github.com/nayafia/microgrants) - A list of microgrant programs for your good ideas
+- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [OptimusCrime/github-drama](https://github.com/OptimusCrime/github-drama) - 
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
@@ -1460,7 +1463,6 @@
 
 ## PHP 
 
-- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API
 - [matiasdelellis/facerecognition](https://github.com/matiasdelellis/facerecognition) - Nextcloud app that implement a basic facial recognition system.
@@ -1647,6 +1649,7 @@
 - [jruere/multiprocessing-logging](https://github.com/jruere/multiprocessing-logging) - Handler for logging from multiple processes
 - [firmadyne/scraper](https://github.com/firmadyne/scraper) - Firmware scraper
 - [angr/cle](https://github.com/angr/cle) - CLE Loads Everything (at least, many binary formats!)
+- [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [microsoft/msticpy](https://github.com/microsoft/msticpy) - Microsoft Threat Intelligence Security Tools
 - [stacked-git/stgit](https://github.com/stacked-git/stgit) - Stacked Git
 - [Snawoot/rsp](https://github.com/Snawoot/rsp) - Rapid SSH Proxy
@@ -1680,7 +1683,7 @@
 - [mathiasertl/django-ca](https://github.com/mathiasertl/django-ca) - Django app providing a Certificate Authority
 - [andrewleech/aioeasywebdav](https://github.com/andrewleech/aioeasywebdav) - An asyncio WebDAV Client in Python
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
-- [john-kurkowski/tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.
+- [john-kurkowski/tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separates a URL’s subdomain, domain, and public suffix, using the Public Suffix List (PSL).
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [aogier/starlette-authlib](https://github.com/aogier/starlette-authlib) - A drop-in replacement for Starlette session middleware, using Authlib's jwt
 - [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
@@ -1791,7 +1794,7 @@
 - [tremc/tremc](https://github.com/tremc/tremc) - Curses interface for transmission
 - [liquidctl/liquidctl](https://github.com/liquidctl/liquidctl) - Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
 - [upekkha/enpass6-encryption-details](https://github.com/upekkha/enpass6-encryption-details) - 
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [python-attrs/cattrs](https://github.com/python-attrs/cattrs) - Complex custom class converters for attrs.
@@ -2061,7 +2064,6 @@
 - [laurivosandi/certidude](https://github.com/laurivosandi/certidude) - Easy to use Certificate Authority web service for OpenVPN, StrongSwan and HTTPS
 - [Netflix/lemur](https://github.com/Netflix/lemur) - Repository for the Lemur Certificate Manager
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
-- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [mikeywaites/kim](https://github.com/mikeywaites/kim) - Kim: A JSON Serialization and Marshaling framework
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
@@ -2507,6 +2509,7 @@
 
 ## Rust 
 
+- [Revertron/Alfis](https://github.com/Revertron/Alfis) - Alternative Free Identity System
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [vlaci/git-agecrypt](https://github.com/vlaci/git-agecrypt) - 
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
@@ -2566,6 +2569,7 @@
 
 ## SCSS 
 
+- [alvaromontoro/almond.css](https://github.com/alvaromontoro/almond.css) - Collection of CSS styles to make simple websites look nicer
 - [tonybaloney/cognitive-kitchen-sink](https://github.com/tonybaloney/cognitive-kitchen-sink) - 
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [cruip/open-react-template](https://github.com/cruip/open-react-template) - A free React landing page template designed to showcase open source projects, SaaS products, online services, and more. Made by
