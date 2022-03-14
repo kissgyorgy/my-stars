@@ -89,6 +89,7 @@
 
 ## C 
 
+- [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
 - [planetbeing/libdmg-hfsplus](https://github.com/planetbeing/libdmg-hfsplus) - Portable libraries and utilities that manipulate HFS+ volumes and Apple's DMG images
@@ -313,6 +314,7 @@
 
 ## CSS 
 
+- [mahmoud/calver](https://github.com/mahmoud/calver) - 📅 The web's go-to resource for Calendar Versioning info.
 - [tonybaloney/pyjion-home](https://github.com/tonybaloney/pyjion-home) - The website for www.trypyjion.com
 - [Braweria/Spectrum](https://github.com/Braweria/Spectrum) - Spectrum is an Obsidian theme.
 - [insanum/obsidian_gruvbox](https://github.com/insanum/obsidian_gruvbox) - A gruvbox theme for Obsidian
@@ -977,7 +979,6 @@
 - [netlify/netlify-identity-widget](https://github.com/netlify/netlify-identity-widget) - A zero config, framework free Netlify Identity widget
 - [papnkukn/qrcode-svg](https://github.com/papnkukn/qrcode-svg) - A simple QR Code generator in pure JavaScript / node.js library
 - [passatgt/vakcinapass](https://github.com/passatgt/vakcinapass) - Védettségi igazolvány Apple Wallet-ben
-- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [jvalen/pixel-art-react](https://github.com/jvalen/pixel-art-react) - Pixel art animation and drawing web app powered by React
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
@@ -1463,6 +1464,7 @@
 
 ## PHP 
 
+- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [splitbrain/ReMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API
 - [matiasdelellis/facerecognition](https://github.com/matiasdelellis/facerecognition) - Nextcloud app that implement a basic facial recognition system.
@@ -1521,6 +1523,8 @@
 
 ## Python 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A supercharged version of paperless: scan, index and archive all your physical documents
+- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [aaugustin/notion2pg](https://github.com/aaugustin/notion2pg) - Import Notion databases to PostgreSQL tables
 - [tvst/plost](https://github.com/tvst/plost) - A deceptively simple plotting library for Streamlit
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
@@ -1636,7 +1640,7 @@
 - [modlinltd/django-advanced-filters](https://github.com/modlinltd/django-advanced-filters) - Add advanced filtering abilities to Django admin
 - [fastmap-io/fastmap](https://github.com/fastmap-io/fastmap) - 
 - [00sapo/Python-Complementary-Languages](https://github.com/00sapo/Python-Complementary-Languages) - Just a small test to see which language is better for extending python when using lists of lists
-- [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - Code coverage measurement for Python
+- [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - The code coverage tool for Python
 - [IoT-Inspector/python-client](https://github.com/IoT-Inspector/python-client) - Official Python API client for IoT Inspector
 - [1Password/connect-sdk-python](https://github.com/1Password/connect-sdk-python) - Python SDK for 1Password Connect
 - [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
@@ -1887,6 +1891,7 @@
 - [allanlei/python-zipstream](https://github.com/allanlei/python-zipstream) - Like Python's ZipFile module, except it works as a generator that provides the file in many small chunks.
 - [sslh/sslh](https://github.com/sslh/sslh) - 
 - [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [getsentry/pytest-sentry](https://github.com/getsentry/pytest-sentry) - Track flaky tests in Sentry
 - [tartiflette/tartiflette](https://github.com/tartiflette/tartiflette) - GraphQL Engine built with Python 3.6+ / asyncio
 - [pyca/pyopenssl](https://github.com/pyca/pyopenssl) - A Python wrapper around the OpenSSL library
@@ -2586,6 +2591,7 @@
 
 ## Shell 
 
+- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
 - [wbond/pi-github-runner](https://github.com/wbond/pi-github-runner) - Docker config to easily enable arm and arm64 GitHub Actions via the self-hosted runner mechanism
 - [fly-apps/redis-geo-cache](https://github.com/fly-apps/redis-geo-cache) - A global Redis cache
@@ -2612,7 +2618,7 @@
 - [geerlingguy/raspberry-pi-dramble](https://github.com/geerlingguy/raspberry-pi-dramble) - Raspberry Pi Kubernetes cluster that runs HA/HP Drupal 8
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
@@ -2801,7 +2807,6 @@
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
