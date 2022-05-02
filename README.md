@@ -190,7 +190,6 @@
 - [skywalker212/tiny-shell](https://github.com/skywalker212/tiny-shell) - A bash-like shell that performs basic functions of a shell. Made as a project for my course of System Software.
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [Tarsnap/scrypt](https://github.com/Tarsnap/scrypt) - The scrypt key derivation function was originally developed for use in the Tarsnap online backup system and is designed to be far more secure against hardware brute-force attacks than alternative functions such as PBKDF2 or bcrypt.
-- [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [perusio/nginx-auth-request-module](https://github.com/perusio/nginx-auth-request-module) - A Nginx module that enables authorizations on sub-requests
 - [Yubico/yubico-piv-tool](https://github.com/Yubico/yubico-piv-tool) - Command line tool for the YubiKey PIV application
@@ -256,7 +255,7 @@
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [jloughry/BANCStar](https://github.com/jloughry/BANCStar) - BANCStar source code
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Project currently on an indefinite hiatus.
 - [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion) - Pyjion - A JIT for Python based upon CoreCLR
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Your donations and positive reviews motivate and inspire our small team!
 - [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
@@ -332,7 +331,6 @@
 - [zmxv/everydaycalendar](https://github.com/zmxv/everydaycalendar) - An HTML5 rendition of Simone Giertz's Every Day Calendar gadget
 - [elky/django-flat-theme](https://github.com/elky/django-flat-theme) - A flat theme for Django admin interface. Modern, fresh, simple.
 - [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :mage::zap: django's default admin interface made customizable. popup windows replaced by modals.
-- [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 - [google/google-api-javascript-client](https://github.com/google/google-api-javascript-client) - Google APIs Client Library for browser JavaScript, aka gapi.
 - [countable-web/cryptsend](https://github.com/countable-web/cryptsend) - Send files anywhere-&gt;anywhere securely
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
@@ -471,7 +469,7 @@
 - [minio/operator](https://github.com/minio/operator) - MinIO Operator creates/configures/manages MinIO clusters on Kubernetes
 - [brunocalza/sharedcounter](https://github.com/brunocalza/sharedcounter) - Various implementations of a go-routine safe counter
 - [weaveworks/ignite](https://github.com/weaveworks/ignite) - Ignite a Firecracker microVM
-- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network.
@@ -494,7 +492,7 @@
 - [github/certstore](https://github.com/github/certstore) - Go library for using system certificate stores on macOS/Windows
 - [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Go Backend Development Engine helping developers escape the maze of complexity.
+- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Engine helping developers escape the maze of complexity.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [digitalocean/doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
 - [securitybunker/databunker](https://github.com/securitybunker/databunker) - A secure user directory built for developers to comply with the GDPR
@@ -874,7 +872,7 @@
 - [amesar/mlflow-export-import](https://github.com/amesar/mlflow-export-import) - Export and import MLflow experiments, runs or registered models
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat 🐐  is a "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security 🔐
+- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [badicsalex/torvenyek](https://github.com/badicsalex/torvenyek) - Magyar törvények git repo
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
@@ -1074,6 +1072,7 @@
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [FortAwesome/react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome React component
+- [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 - [algolia/gatsby-plugin-algolia](https://github.com/algolia/gatsby-plugin-algolia) - A plugin to push to Algolia based on graphQl queries
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
@@ -2001,6 +2000,7 @@
 - [crdoconnor/strictyaml](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [mitsuhiko/speaklater](https://github.com/mitsuhiko/speaklater) - Lazy strings for Python
 - [dex4er/upstart-dummy](https://github.com/dex4er/upstart-dummy) - Replacement for /sbin/initctl for systems without upstart
+- [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [facebookincubator/pystemd](https://github.com/facebookincubator/pystemd) - A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [buriy/python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
@@ -2278,7 +2278,7 @@
 - [amandasaurus/apache-log-parser](https://github.com/amandasaurus/apache-log-parser) - Parses log lines from an apache log
 - [Yipit/parsible](https://github.com/Yipit/parsible) - Log Tailing and Parsing Framework
 - [django-mptt/django-mptt](https://github.com/django-mptt/django-mptt) - Utilities for implementing a modified pre-order traversal tree in django.
-- [alejandroautalan/pygubu](https://github.com/alejandroautalan/pygubu) - A simple GUI designer for the python tkinter module
+- [alejandroautalan/pygubu](https://github.com/alejandroautalan/pygubu) - A simple GUI builder for the python tkinter module
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [jstacoder/flask-xxl](https://github.com/jstacoder/flask-xxl) - A best practices approach to creating large web apps, which gives the ease and power of django to your flask app
 - [PyCQA/prospector](https://github.com/PyCQA/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
@@ -2392,7 +2392,7 @@
 - [not-kennethreitz/envoy](https://github.com/not-kennethreitz/envoy) - Python Subprocesses for Humans™.
 - [jazzband/django-taggit](https://github.com/jazzband/django-taggit) - Simple tagging for django
 - [stephenmcd/django-socketio](https://github.com/stephenmcd/django-socketio) - WebSockets for Django
-- [heroku-python/flask-sockets](https://github.com/heroku-python/flask-sockets) - [DEPRECATED] Elegant WebSockets for your Flask apps.
+- [heroku-python/flask-sockets](https://github.com/heroku-python/flask-sockets) - [DEPRECATED] Alternative: https://github.com/miguelgrinberg/flask-sock
 - [caesar0301/treelib](https://github.com/caesar0301/treelib) - An efficient implementation of tree data structure in python 2/3.
 - [evandrix/Splat](https://github.com/evandrix/Splat) - FYP
 - [mitsuhiko/sqlalchemy](https://github.com/mitsuhiko/sqlalchemy) - Mirror of SQLAlchemy
@@ -2812,7 +2812,7 @@
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [sighupio/permission-manager](https://github.com/sighupio/permission-manager) - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
 - [deerawan/vscode-dash](https://github.com/deerawan/vscode-dash) - Dash, Zeal and Velocity documentation integration in Visual Studio Code 🔎📖
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - Open source editor that brings visual editing into React websites. A developer-centric CMS to build contextual and intuitive editing experience without sacrificing code quality.
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - Date picker component for React.
 - [lovasoa/react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents
