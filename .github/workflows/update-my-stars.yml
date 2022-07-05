@@ -17,7 +17,7 @@ jobs:
           key: pipx-cache
 
       - name: Re-generate README
-        run: pipx run starred --username kissgyorgy --sort > README.md
+        run: pipx run --spec "starred==3.2" starred --username kissgyorgy --sort > README.md
 
       - name: Check for modified files
         id: git-check
