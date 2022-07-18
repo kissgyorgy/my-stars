@@ -126,6 +126,7 @@
 - [DualCoder/vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
+- [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation.
 - [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
 - [kevinconway/remouseable](https://github.com/kevinconway/remouseable) - Use a reMarkable tablet as a mouse.
 - [tree-sitter/py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) - Python bindings to the Tree-sitter parsing library
@@ -486,7 +487,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
-- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast cryptocurrency platform for trading bot in Go.
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - Trading bot framework for cryptocurrency at Binance in Go
 - [BlackReloaded/wsl2-ssh-pageant](https://github.com/BlackReloaded/wsl2-ssh-pageant) - bridge between windows pageant and wsl2
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -683,7 +684,7 @@
 - [lilic/kube-start-stop](https://github.com/lilic/kube-start-stop) - Schedule Scaling of Kubernetes Resources
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes
 - [kubernetes-sigs/kubefed](https://github.com/kubernetes-sigs/kubefed) - Kubernetes Cluster Federation
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
@@ -1334,6 +1335,7 @@
 - [crev-dev/crev](https://github.com/crev-dev/crev) - Socially scalable Code REView and recommendation system that we desperately need. See http://github.com/crev-dev/cargo-crev for real implemenation.
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
 - [binance-exchange/binance-official-api-docs](https://github.com/binance-exchange/binance-official-api-docs) - Official Documentation for the Binance APIs and Streams
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [burggraf/awesome-cosmo](https://github.com/burggraf/awesome-cosmo) - 
 - [Vinnl/feeds](https://github.com/Vinnl/feeds) - Example repository for creating your own RSS feeds using Feed me up, Scotty!
 - [pypa/advisory-database](https://github.com/pypa/advisory-database) - Advisory database for Python packages published on pypi.org
@@ -1539,6 +1541,7 @@
 
 ## Python 
 
+- [aio-libs/aiomonitor](https://github.com/aio-libs/aiomonitor) - aiomonitor is module that adds monitor and python REPL capabilities for asyncio application
 - [untitaker/python-atomicwrites](https://github.com/untitaker/python-atomicwrites) - Powerful Python library for atomic file writes.
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [ktosiek/pytest-vcr](https://github.com/ktosiek/pytest-vcr) - Py.test integration with VCR.py
@@ -1574,7 +1577,7 @@
 - [JordanMilne/romfsck2](https://github.com/JordanMilne/romfsck2) - Analysis tools for RomFS
 - [markokr/rarfile](https://github.com/markokr/rarfile) - Python module for RAR archive reading
 - [miurahr/py7zr](https://github.com/miurahr/py7zr) - 7zip in python3 with ZStandard, PPMd, LZMA2, LZMA1, Delta, BCJ, BZip2, and Deflate compressions, and AES encryption.
-- [fox-it/dissect.cstruct](https://github.com/fox-it/dissect.cstruct) - A no-nonsense c-like structure parsing library for Python
+- [fox-it/dissect.cstruct_legacy](https://github.com/fox-it/dissect.cstruct_legacy) - A no-nonsense c-like structure parsing library for Python
 - [sandes/zipfly](https://github.com/sandes/zipfly) - Writing large ZIP archives without memory inflation
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [python-trio/trustme](https://github.com/python-trio/trustme) - #1 quality TLS certs while you wait, for the discerning tester
@@ -1619,7 +1622,6 @@
 - [tonybaloney/ants-azure-demos](https://github.com/tonybaloney/ants-azure-demos) - Collection of PoCs and Azure Demos
 - [binance/binance-connector-python](https://github.com/binance/binance-connector-python) - a simple connector to Binance Public API
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [MrMino/wheelfile](https://github.com/MrMino/wheelfile) - 🔪🧀  API for creating and inspecting Python .whl files (wheels).
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
@@ -2544,6 +2546,8 @@
 
 ## Rust 
 
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime
+- [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -2636,7 +2640,6 @@
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [Evidlo/remarkable_entware](https://github.com/Evidlo/remarkable_entware) - Entware installer modified for reMarkable Tablet
 - [firmadyne/firmadyne](https://github.com/firmadyne/firmadyne) - Platform for emulation and dynamic analysis of Linux-based firmware
-- [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation.
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
 - [pascalw/kindle-dash](https://github.com/pascalw/kindle-dash) - Power efficient dashboard for Kindle 4 NT devices
 - [associatedpress/verify-dkim](https://github.com/associatedpress/verify-dkim) - Tool to verify DKIM signatures on an mbox of emails
