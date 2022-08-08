@@ -90,6 +90,7 @@
 
 ## C 
 
+- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 - [VanillaPlusPlus/VPP-Admin-Tools](https://github.com/VanillaPlusPlus/VPP-Admin-Tools) - The complete DayZ Vanilla Plus Plus experience. This repository holds both client, and server side files.
@@ -387,7 +388,7 @@
 ## Dockerfile 
 
 - [ssashir06/DayZDockerServer](https://github.com/ssashir06/DayZDockerServer) - DayZ Server on Windows Docker
-- [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~200KB) to run any static website
+- [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~154KB) to run any static website
 - [jfloff/alpine-python](https://github.com/jfloff/alpine-python) - A small, more complete, Python Docker image based on Alpine Linux.
 - [odoo/docker](https://github.com/odoo/docker) - 
 - [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node) - Distroless Node.js Docker Images
@@ -488,7 +489,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
-- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go
+- [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
 - [BlackReloaded/wsl2-ssh-pageant](https://github.com/BlackReloaded/wsl2-ssh-pageant) - bridge between windows pageant and wsl2
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -891,7 +892,6 @@
 - [synesthesiam/rhasspy](https://github.com/synesthesiam/rhasspy) - Rhasspy voice assistant for offline home automation
 - [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
-- [OCA/web](https://github.com/OCA/web) - Odoo web client UI related addons
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [rhettinger/rhettinger.github.io](https://github.com/rhettinger/rhettinger.github.io) - Public web pages from talks
@@ -925,7 +925,7 @@
 - [joshuapekera/animate](https://github.com/joshuapekera/animate) - A library of CSS3 keyframe animations authored using LESS
 - [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 - [hakimel/stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
-- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
+- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 
 ## Hack 
@@ -1093,6 +1093,7 @@
 - [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. :poop:
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [nextcloud/maps](https://github.com/nextcloud/maps) - 🌍🌏🌎 The whole world fits inside your cloud!
+- [OCA/web](https://github.com/OCA/web) - Odoo web client UI related addons
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [coinbase/coinbase-pro-node](https://github.com/coinbase/coinbase-pro-node) - DEPRECATED — The official Node.js library for Coinbase Pro
 - [boyney123/mockit](https://github.com/boyney123/mockit) - A tool to quickly mock out end points, setup delays and more...
@@ -1325,6 +1326,7 @@
 
 ## Others 
 
+- [sqlsite/awesome-sqlite](https://github.com/sqlsite/awesome-sqlite) - A curated list of awesome things related to SQLite
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -1542,6 +1544,11 @@
 
 ## Python 
 
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
+- [stefanfoulis/django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - A django model and form field for normalised phone numbers using python-phonenumbers
+- [SmileyChris/django-countries](https://github.com/SmileyChris/django-countries) - A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
+- [ubernostrum/django-registration](https://github.com/ubernostrum/django-registration) - An extensible user-registration app for Django.
+- [alertot/cpematcher](https://github.com/alertot/cpematcher) - 
 - [pgjones/quart-schema](https://github.com/pgjones/quart-schema) - Quart-Schema is a Quart extension that provides schema validation and auto-generated API documentation.
 - [boardpack/reforms](https://github.com/boardpack/reforms) - Reforms is a fresh pydantic-based forms validation and rendering library for Python 3.6+.
 - [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
@@ -2802,7 +2809,7 @@
 - [uetchy/namae](https://github.com/uetchy/namae) - ☕️ Grab a slick name for your new project
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
 - [zackify/react-calendar](https://github.com/zackify/react-calendar) - Simple and flexible events calendar written in React
-- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
