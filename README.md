@@ -369,7 +369,7 @@
 
 ## CodeQL 
 
-- [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
+- [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 
 ## CoffeeScript 
 
@@ -832,7 +832,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
@@ -974,6 +974,8 @@
 
 ## JavaScript 
 
+- [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [Defaultinator/defaultinator-etl](https://github.com/Defaultinator/defaultinator-etl) - Repository for the loading of data into the backend
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡
 - [codedgar/Puppertino](https://github.com/codedgar/Puppertino) - A CSS framework based on Human Guidelines from apple
@@ -1107,7 +1109,7 @@
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [coinbase/coinbase-pro-node](https://github.com/coinbase/coinbase-pro-node) - DEPRECATED — The official Node.js library for Coinbase Pro
 - [boyney123/mockit](https://github.com/boyney123/mockit) - A tool to quickly mock out end points, setup delays and more...
-- [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
+- [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [blueimp/wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox on Linux, mobile versions of Chrome and Firefox on Android as well as Safari on iOS, Safari on macOS and Edge on Windows.
 - [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
@@ -1269,7 +1271,7 @@
 
 ## Jupyter Notebook 
 
-- [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - 
+- [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - Optimized Stable Diffusion modified to run on lower GPU VRAM
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
@@ -1299,6 +1301,7 @@
 ## Markdown 
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -1307,6 +1310,7 @@
 
 ## Nix 
 
+- [vlaci/nixos-config](https://github.com/vlaci/nixos-config) - 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
@@ -1379,7 +1383,6 @@
 - [markshannon/faster-cpython](https://github.com/markshannon/faster-cpython) - How to make CPython faster.
 - [SteelSeries/gamesense-sdk](https://github.com/SteelSeries/gamesense-sdk) - 
 - [QSFT/bldr](https://github.com/QSFT/bldr) - Build debian packages in a clean docker environment
-- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
@@ -1556,6 +1559,7 @@
 
 ## Python 
 
+- [jazzband/django-pipeline](https://github.com/jazzband/django-pipeline) - Pipeline is an asset packaging library for Django.
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) - OFRAK: unpack, modify, and repack binaries.
 - [saxix/django-admin-extra-buttons](https://github.com/saxix/django-admin-extra-buttons) - 
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
@@ -1593,7 +1597,7 @@
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [aaugustin/notion2pg](https://github.com/aaugustin/notion2pg) - Import Notion databases to PostgreSQL tables
 - [tvst/plost](https://github.com/tvst/plost) - A deceptively simple plotting library for Streamlit
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
 - [google/atheris](https://github.com/google/atheris) - 
 - [verigak/progress](https://github.com/verigak/progress) - Easy to use progress bars for Python
@@ -1950,7 +1954,7 @@
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [awesometoolbox/ormantic](https://github.com/awesometoolbox/ormantic) - Async ORM + Pydantic = Ormantic ❤️
-- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Ariadne is a Python library for implementing GraphQL servers using schema-first approach.
+- [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
 - [akej74/grid-control](https://github.com/akej74/grid-control) - Grid Control is a free and open source alternative to the CAM application from NZXT
 - [allanlei/python-zipstream](https://github.com/allanlei/python-zipstream) - Like Python's ZipFile module, except it works as a generator that provides the file in many small chunks.
 - [sslh/sslh](https://github.com/sslh/sslh) - 
@@ -2578,6 +2582,7 @@
 
 ## Rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
@@ -2795,6 +2800,7 @@
 
 ## TypeScript 
 
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
@@ -2879,7 +2885,7 @@
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [outline/rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - The open source React and Prosemirror based markdown editor that powers Outline. Want to try it out? Create an account:
 - [rrebase/knboard](https://github.com/rrebase/knboard) - Kanban boards with React & Django.
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [opentrace-community/opentrace-cloud-functions](https://github.com/opentrace-community/opentrace-cloud-functions) - OpenTrace Cloud Functions. Reference implementation of the BlueTrace protocol.
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
@@ -2895,7 +2901,7 @@
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [microsoft/vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
