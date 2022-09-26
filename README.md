@@ -7,8 +7,10 @@
 
   - [AppleScript](#applescript)
   - [Assembly](#assembly)
+  - [Astro](#astro)
   - [AutoIt](#autoit)
   - [Batchfile](#batchfile)
+  - [Bikeshed](#bikeshed)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -79,6 +81,10 @@
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 
+## Astro 
+
+- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
+
 ## AutoIt 
 
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
@@ -88,6 +94,10 @@
 - [troytse/wsl-autostart](https://github.com/troytse/wsl-autostart) - Support for starting the Linux services in Windows Subsystem for Linux (WSL) on Windows startup
 - [DannyDorito/DayZ-Startup-and-Restart-Script](https://github.com/DannyDorito/DayZ-Startup-and-Restart-Script) - Batch file for all your DayZ Server startup needs!
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
+
+## Bikeshed 
+
+- [w3c/webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
 
 ## C 
 
@@ -296,7 +306,7 @@
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
-- [wereturtle/ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
+- [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 - [chris2511/xca](https://github.com/chris2511/xca) - X Certificate and Key management
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [Habbie/hello-dns](https://github.com/Habbie/hello-dns) - Hello and welcome to DNS!
@@ -381,7 +391,6 @@
 ## Cython 
 
 - [pyimgui/pyimgui](https://github.com/pyimgui/pyimgui) - Cython-based Python bindings for dear imgui
-- [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) - ﻿﻿Pythonic bindings for FFmpeg's libraries.
@@ -834,7 +843,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
@@ -1196,7 +1205,6 @@
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [zedshaw/jzed](https://github.com/zedshaw/jzed) - Functional Javascript alternative to JQuery.
-- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 - [tmbb/image-occlusion-2](https://github.com/tmbb/image-occlusion-2) - Image Occlusion addon for Anki
 - [marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The sources for the Eloquent JavaScript book
 - [flask-debugtoolbar/flask-debugtoolbar](https://github.com/flask-debugtoolbar/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
@@ -1299,12 +1307,11 @@
 
 - [moonrhythm/go-scratch](https://github.com/moonrhythm/go-scratch) - Scratch Go Docker Image
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [w3c/webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
 
 ## Markdown 
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
-- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
+- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mustache 
@@ -1610,6 +1617,7 @@
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 100 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with a list of components and versions.
 - [JJJados/lzwfile](https://github.com/JJJados/lzwfile) - Python module for decompressing lzw files.
+- [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [sviehb/binwalk](https://github.com/sviehb/binwalk) - Firmware Analysis Tool
 - [rogerbinns/apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
 - [mikeckennedy/pythons-gc-and-orms](https://github.com/mikeckennedy/pythons-gc-and-orms) - A simple project to explore the number of GCs when doing basic ORM work.
@@ -1694,7 +1702,7 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [python-poetry/poetry-plugin-export](https://github.com/python-poetry/poetry-plugin-export) - Poetry plugin to export the dependencies to various formats
 - [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
-- [skontar/cvss](https://github.com/skontar/cvss) - CVSS2/3 library with interactive calculator for Python 2 and Python 3
+- [RedHatProductSecurity/cvss](https://github.com/RedHatProductSecurity/cvss) - CVSS2/3 library with interactive calculator for Python 2 and Python 3
 - [nyu-mlab/iot-inspector-client](https://github.com/nyu-mlab/iot-inspector-client) - IoT Inspector Client
 - [tlocke/pg8000](https://github.com/tlocke/pg8000) - A Pure-Python PostgreSQL Driver
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -2269,7 +2277,7 @@
 - [mitsuhiko/python-regex-scanner](https://github.com/mitsuhiko/python-regex-scanner) - Demo of how to use the underlying SRE engine to build a regex scanner
 - [morepath/morepath](https://github.com/morepath/morepath) - Python web microframework with superpowers
 - [jazzband/django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered.
-- [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text 3.
+- [timbrel/GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text
 - [bbangert/velruse](https://github.com/bbangert/velruse) - Simplifying third-party authentication for web applications.
 - [mitsuhiko/python-geoip](https://github.com/mitsuhiko/python-geoip) - GeoIP database access for Python under a BSD license.
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
@@ -2588,6 +2596,7 @@
 
 ## Rust 
 
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [bennofs/nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files
@@ -2806,6 +2815,7 @@
 
 ## TypeScript 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
