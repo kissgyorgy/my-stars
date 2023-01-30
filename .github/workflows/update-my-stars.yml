@@ -2,7 +2,7 @@ name: Update my stars
 on:
   workflow_dispatch:
   schedule:
-     - cron:  '12 3 * * 1'
+    - cron: "12 3 * * 1"
 
 jobs:
   Update-my-stars:
@@ -11,13 +11,17 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.8"
+
       - uses: actions/cache@v2
         with:
           path: ~/.local/pipx
           key: pipx-cache
 
       - name: Re-generate README
-        run: pipx run --spec "starred==3.2" starred --username kissgyorgy --sort > README.md
+        run: pipx run --python python3.8 --spec "starred==3.2" starred --username kissgyorgy --sort > README.md
 
       - name: Check for modified files
         id: git-check
