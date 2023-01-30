@@ -30,7 +30,7 @@ jobs:
       - name: Push changes
         if: steps.git-check.outputs.modified == 'true'
         run: |
-          git config --global user.name 'Kiss György'
+          git config --global user.name 'György Kiss'
           git config --global user.email 'kissgyorgy@me.com'
           git add README.md
           git commit -m "Automatic update"
