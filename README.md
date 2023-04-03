@@ -443,6 +443,7 @@
 
 ## Go 
 
+- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [benbjohnson/hashfs](https://github.com/benbjohnson/hashfs) - Implementation of io/fs.FS that appends SHA256 hashes to filenames to allow for aggressive HTTP caching.
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
@@ -496,7 +497,7 @@
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
-- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [arianvp/webauthn-minimal](https://github.com/arianvp/webauthn-minimal) - Minimal go implementation of a Webauthn L2 relying party
 - [jsimonetti/rtnetlink](https://github.com/jsimonetti/rtnetlink) - Package rtnetlink provides low-level access to the Linux rtnetlink API. MIT Licensed.
@@ -827,7 +828,7 @@
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [cloudflare/redoctober](https://github.com/cloudflare/redoctober) - Go server for two-man rule style file encryption and decryption.
 - [cloudflare/cfssl_trust](https://github.com/cloudflare/cfssl_trust) - CFSSL's CA trust store repository
 - [cloudflare/certmgr](https://github.com/cloudflare/certmgr) - Automated certificate management using a CFSSL CA.
@@ -1006,7 +1007,6 @@
 - [Netflix/mantis](https://github.com/Netflix/mantis) - A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [pwm-project/pwm](https://github.com/pwm-project/pwm) - pwm
-- [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
@@ -1022,6 +1022,7 @@
 ## JavaScript 
 
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
@@ -1089,7 +1090,7 @@
 - [Schmavery/facebook-chat-api](https://github.com/Schmavery/facebook-chat-api) - Unofficial Facebook Chat API for Nodejs
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [tailwindlabs/heroicons.com](https://github.com/tailwindlabs/heroicons.com) - 
-- [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
+- [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 - [hswolff/ghost-to-md](https://github.com/hswolff/ghost-to-md) - A tool to export your Ghost export file to a collection of markdown files.
 - [franleplant/inline-react-package-example](https://github.com/franleplant/inline-react-package-example) - This is an example of how to create an "inline-all" React package
 - [csb324/holyfucktheelectionistomorrow](https://github.com/csb324/holyfucktheelectionistomorrow) - holy fuck
@@ -1604,6 +1605,7 @@
 
 ## Python 
 
+- [fox-it/dissect.cstruct](https://github.com/fox-it/dissect.cstruct) - A Dissect module implementing a parser for C-like structures.
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time runtime type-checking in pure Python.
 - [healeycodes/jar](https://github.com/healeycodes/jar) - 🫙 A server-side web framework that deploys to Vercel.
@@ -1748,7 +1750,6 @@
 - [groove-x/pura](https://github.com/groove-x/pura) - the little async embedded visualization framework that could (Python)
 - [lonelyenvoy/python-memoization](https://github.com/lonelyenvoy/python-memoization) - A powerful caching library for Python, with TTL support and multiple algorithm options.
 - [davidlatwe/montydb](https://github.com/davidlatwe/montydb) - Monty, Mongo tinified. MongoDB implemented in Python !
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [python-poetry/poetry-plugin-export](https://github.com/python-poetry/poetry-plugin-export) - Poetry plugin to export the dependencies to various formats
 - [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
 - [RedHatProductSecurity/cvss](https://github.com/RedHatProductSecurity/cvss) - CVSS2/3 library with interactive calculator for Python 2 and Python 3
@@ -2675,7 +2676,7 @@
 - [losfair/mvsqlite](https://github.com/losfair/mvsqlite) - Distributed, MVCC SQLite that runs on FoundationDB.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [woodruffw/pyrage](https://github.com/woodruffw/pyrage) - Python bindings for rage (age in Rust)
-- [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -2876,7 +2877,6 @@
 
 ## Svelte 
 
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 
@@ -2907,11 +2907,11 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
-- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+- [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
@@ -2947,6 +2947,7 @@
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [lgarron/clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - :clipboard: Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
