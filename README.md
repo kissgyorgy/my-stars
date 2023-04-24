@@ -357,6 +357,7 @@
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [app-generator/django-datta-able](https://github.com/app-generator/django-datta-able) - Datta Able - Open-Source Django Dashboard | AppSeed
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - "The Grand Unified Theory of Documentation" (David Laing) - a popular and transformative documentation authoring framework
+- [app-generator/django-material-dashboard](https://github.com/app-generator/django-material-dashboard) - Django Dashboard - Material Design | AppSeed
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
 - [zmxv/everydaycalendar](https://github.com/zmxv/everydaycalendar) - An HTML5 rendition of Simone Giertz's Every Day Calendar gadget
@@ -754,7 +755,7 @@
 - [containers/storage](https://github.com/containers/storage) - Container Storage Library
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [emersion/neutron](https://github.com/emersion/neutron) - Self-hosted server for the ProtonMail client
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [digitalocean/do-agent](https://github.com/digitalocean/do-agent) - Collects system metrics from DigitalOcean Droplets
@@ -1040,7 +1041,6 @@
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Accessible360/accessible-slick](https://github.com/Accessible360/accessible-slick) - the last (accessible) carousel you'll ever need.
-- [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
 - [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
@@ -1607,7 +1607,7 @@
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time runtime type-checking in pure Python.
 - [healeycodes/jar](https://github.com/healeycodes/jar) - 🫙 A server-side web framework that deploys to Vercel.
 - [andrewgodwin/django-hatchway](https://github.com/andrewgodwin/django-hatchway) - An unsurprising Django API framework
-- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game engine/apps.
+- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python interpreter in 1 file
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
@@ -1880,7 +1880,6 @@
 - [kushalvyas/Python-Multiple-Image-Stitching](https://github.com/kushalvyas/Python-Multiple-Image-Stitching) - Implementation of multiple image stitching
 - [nficano/humps](https://github.com/nficano/humps) - Convert strings (and dictionary keys) between snake case, camel case and pascal case in Python. Inspired by Humps for Node
 - [giannitedesco/minotaur](https://github.com/giannitedesco/minotaur) - A pythonic, asynchronous, inotify interface
-- [app-generator/django-material-dashboard](https://github.com/app-generator/django-material-dashboard) - Django Dashboard - Material Design | AppSeed
 - [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
 - [datadvance/DjangoChannelsGraphqlWs](https://github.com/datadvance/DjangoChannelsGraphqlWs) - Django Channels based WebSocket GraphQL server with Graphene-like subscriptions
 - [osquery/osquery-python](https://github.com/osquery/osquery-python) - Python bindings for osquery's Thrift API
@@ -2652,13 +2651,14 @@
 
 ## Rust 
 
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [tweedegolf/mailcrab](https://github.com/tweedegolf/mailcrab) - Email test server for development, written in Rust
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [bodil/typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging for Rust
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-- [kenbyte/rbloom](https://github.com/kenbyte/rbloom) - A fast, simple and lightweight Bloom filter library for Python, implemented in Rust.
+- [KenanHanke/rbloom](https://github.com/KenanHanke/rbloom) - A fast, simple and lightweight Bloom filter library for Python, implemented in Rust.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [vlaci/pyperscan](https://github.com/vlaci/pyperscan) - 
 - [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
@@ -2927,6 +2927,7 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [pmndrs/suspend-react](https://github.com/pmndrs/suspend-react) - 🚥 Async/await for React components
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
+- [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
