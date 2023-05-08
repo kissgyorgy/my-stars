@@ -308,7 +308,7 @@
 - [nmrugg/stockfish.js](https://github.com/nmrugg/stockfish.js) - The Stockfish chess engine in Javascript
 - [TheCherno/Hazel](https://github.com/TheCherno/Hazel) - Hazel Engine
 - [rmkit-dev/rmkit](https://github.com/rmkit-dev/rmkit) - | remarkable app framework | https://rmkit.dev
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -346,7 +346,7 @@
 
 ## CSS 
 
-- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
+- [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards) - A growing collection of text/image cards you can use/copy-paste in your tailwind css projects
 - [alex-oleshkevich/starception](https://github.com/alex-oleshkevich/starception) - Beautiful exception page for Starlette apps.
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, flexible Hugo theme
@@ -464,6 +464,7 @@
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [insomniacslk/dhcp](https://github.com/insomniacslk/dhcp) - DHCPv6 and DHCPv4 packet library, client and server written in Go
+- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [cloudentity/oauth2c](https://github.com/cloudentity/oauth2c) - User-friendly OAuth2 CLI
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
@@ -955,7 +956,7 @@
 - [mattes/chromecast-office-dashboard](https://github.com/mattes/chromecast-office-dashboard) - Use Google Chromecast to display dashboards or any other URL on your TV.
 - [portier/portier.github.io](https://github.com/portier/portier.github.io) - Website for Portier, an email-based, passwordless authentication that you can host yourself.
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [w3c/html](https://github.com/w3c/html) - Deliverables of the HTML Working Group until October 2018
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [xevrem/paws](https://github.com/xevrem/paws) - Python Async Web Server
@@ -1171,7 +1172,7 @@
 - [eleweek/inside_python_dict](https://github.com/eleweek/inside_python_dict) - An explorable explanation of python dictionaries
 - [derrickstolee/bdfl](https://github.com/derrickstolee/bdfl) - BFDL: A 100% accurate simulation of OSS maintenance
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [ghuser-io/ghuser.io](https://github.com/ghuser-io/ghuser.io) - :octocat: Better GitHub profiles
 - [goldfire/pokersolver](https://github.com/goldfire/pokersolver) - Javascript poker hand solver.
@@ -1387,7 +1388,6 @@
 ## Others 
 
 - [hueyy/awesome-mastodon](https://github.com/hueyy/awesome-mastodon) - Up-to-date and curated list of awesome Mastodon-related stuff!
-- [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
 - [shmup/awesome-cosmopolitan](https://github.com/shmup/awesome-cosmopolitan) - List of Cosmopolitan Libc related resources and projects
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
@@ -1566,7 +1566,7 @@
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [pawelrojek/nextcloud-drawio](https://github.com/pawelrojek/nextcloud-drawio) - Draw.io intergration app
 - [gallery/gallery3](https://github.com/gallery/gallery3) - The simplest, most intuitive way to host your photos on your website.
-- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. https://github.com/nextcloud-releases/groupfolders
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [radicand/phpki](https://github.com/radicand/phpki) - Fork of PHPki (Sourceforge)
 - [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
@@ -2187,7 +2187,7 @@
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
-- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
+- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration.
 - [Netflix/lemur-docker](https://github.com/Netflix/lemur-docker) - Docker files for the Lemur certificate orchestration tool
 - [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
 - [ericvsmith/dataclasses](https://github.com/ericvsmith/dataclasses) - 
@@ -2439,7 +2439,7 @@
 - [philippotto/Sublime-MultiEditUtils](https://github.com/philippotto/Sublime-MultiEditUtils) - A Sublime Text Plugin which adds various features for editing multiple selections.
 - [uralbash/sqlalchemy_mptt](https://github.com/uralbash/sqlalchemy_mptt) - SQLAlchemy nested sets mixin (MPTT)
 - [summernote/django-summernote](https://github.com/summernote/django-summernote) - Simply integrate Summernote editor with Django project.
-- [fengsp/flask-session](https://github.com/fengsp/flask-session) - Server side session extension for Flask
+- [pallets-eco/flask-session](https://github.com/pallets-eco/flask-session) - Server side session extension for Flask
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [certifi/certifi.io](https://github.com/certifi/certifi.io) - Public website for the Certifi Project.
 - [jaredks/rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
@@ -2507,7 +2507,6 @@
 - [ChazDazzle/fpdb-chaz](https://github.com/ChazDazzle/fpdb-chaz) - chaz's new fpdb repo
 - [rpkilby/jsonfield](https://github.com/rpkilby/jsonfield) - A reusable Django model field for storing ad-hoc JSON data
 - [wolever/parameterized](https://github.com/wolever/parameterized) - Parameterized testing with any Python test framework
-- [heroku-examples/python-websockets-chat](https://github.com/heroku-examples/python-websockets-chat) - An example implementation of WebSockets in Flask.
 - [not-kennethreitz/envoy](https://github.com/not-kennethreitz/envoy) - Python Subprocesses for Humans™.
 - [jazzband/django-taggit](https://github.com/jazzband/django-taggit) - Simple tagging for django
 - [stephenmcd/django-socketio](https://github.com/stephenmcd/django-socketio) - WebSockets for Django
@@ -2891,7 +2890,7 @@
 ## TypeScript 
 
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [natemoo-re/ultramatter](https://github.com/natemoo-re/ultramatter) - &lt;1kB frontmatter parser that supports a reasonable subset of YAML
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
@@ -2913,7 +2912,7 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
