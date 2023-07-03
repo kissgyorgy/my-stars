@@ -36,9 +36,9 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
+  - [MDX](#mdx)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
-  - [Mustache](#mustache)
   - [Nix](#nix)
   - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
@@ -60,6 +60,7 @@
   - [SVG](#svg)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [Starlark](#starlark)
   - [Svelte](#svelte)
   - [Swift](#swift)
@@ -802,7 +803,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [jessfraz/morningpaper2remarkable](https://github.com/jessfraz/morningpaper2remarkable) - A bot to sync the morning paper to a remarkable tablet.
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [ehazlett/stellar](https://github.com/ehazlett/stellar) - Simplified Container System
 - [davidscholberg/goblocks](https://github.com/davidscholberg/goblocks) - Fast, lightweight i3status replacement written in Go
@@ -955,7 +956,6 @@
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [rhettinger/rhettinger.github.io](https://github.com/rhettinger/rhettinger.github.io) - Public web pages from talks
 - [vsoch/watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
-- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 5, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [rampatra/wedding-website](https://github.com/rampatra/wedding-website) - Our Wedding Website 👫
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
@@ -1168,6 +1168,7 @@
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [coinbase/coinbase-pro-node](https://github.com/coinbase/coinbase-pro-node) - DEPRECATED — The official Node.js library for Coinbase Pro
 - [boyney123/mockit](https://github.com/boyney123/mockit) - A tool to quickly mock out end points, setup delays and more...
+- [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [blueimp/wdio](https://github.com/blueimp/wdio) - Docker setup for WebdriverIO with automatic screenshots, image diffing and screen recording support for containerized versions of Chrome and Firefox on Linux, mobile versions of Chrome and Firefox on Android as well as Safari on iOS, Safari on macOS and Edge on Windows.
 - [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
@@ -1346,6 +1347,10 @@
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 
+## MDX 
+
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems
+
 ## Makefile 
 
 - [moonrhythm/go-scratch](https://github.com/moonrhythm/go-scratch) - Scratch Go Docker Image
@@ -1358,10 +1363,6 @@
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-
-## Mustache 
-
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Nix 
 
@@ -1615,6 +1616,8 @@
 
 ## Python 
 
+- [cuu508/cronsim](https://github.com/cuu508/cronsim) - Cron expression parser and evaluator.
+- [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
 - [dusty-phillips/match-variant](https://github.com/dusty-phillips/match-variant) - Python variant types that work with match
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
@@ -1995,7 +1998,7 @@
 - [snoack/python-goto](https://github.com/snoack/python-goto) - A function decorator, that rewrites the bytecode, to enable goto in Python
 - [odoomates/odooapps](https://github.com/odoomates/odooapps) - 
 - [OCA/account-financial-tools](https://github.com/OCA/account-financial-tools) - Odoo Accountant Financial Tools and Utils
-- [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - A goal, task & habit tracker + personal dashboard to focus on what matters
+- [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - [UNMAINTAINED] A goal, task & habit tracker + personal dashboard to focus on what matters
 - [major/ansible-mailgun](https://github.com/major/ansible-mailgun) - Ansible role for configuring Mailgun SMTP relaying with Postfix
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [W360S/Projects](https://github.com/W360S/Projects) - Odoo Projects
@@ -2666,6 +2669,10 @@
 
 ## Rust 
 
+- [CloudCannon/pagebreak](https://github.com/CloudCannon/pagebreak) - 📃 Open-source CLI tool for implementing pagination on any static website.
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
+- [orhun/cargo-nocode](https://github.com/orhun/cargo-nocode) - Cargo subcommand to easily bootstrap nocode applications. Write nothing; deploy nowhere.
+- [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
@@ -2680,7 +2687,7 @@
 - [KenanHanke/rbloom](https://github.com/KenanHanke/rbloom) - A fast, simple and lightweight Bloom filter library for Python, implemented in Rust.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [vlaci/pyperscan](https://github.com/vlaci/pyperscan) - 
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Instant GraphQL APIs for your data
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
@@ -2781,7 +2788,7 @@
 
 ## Shell 
 
-- [binpash/try](https://github.com/binpash/try) - "Do, or do not. There is no try."  We're setting out to change that: `try cmd` and commit---or not.
+- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [wbond/pi-github-runner](https://github.com/wbond/pi-github-runner) - Docker config to easily enable arm and arm64 GitHub Actions via the self-hosted runner mechanism
@@ -2886,6 +2893,10 @@
 - [godlygeek/todo.txt-cli](https://github.com/godlygeek/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+
+## Smarty 
+
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Starlark 
 
@@ -3086,7 +3097,6 @@
 
 ## Vue 
 
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@nixos) from Determinate Systems
 - [Dashibase/dashibase](https://github.com/Dashibase/dashibase) - Super simple user dashboards for Supabase users.
 - [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy.  Available for Windows, Mac, Linux or online.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
