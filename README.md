@@ -148,7 +148,7 @@
 - [DualCoder/vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
-- [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation.
+- [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
 - [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
 - [kevinconway/remouseable](https://github.com/kevinconway/remouseable) - Use a reMarkable tablet as a mouse.
 - [tree-sitter/py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) - Python bindings to the Tree-sitter parsing library
@@ -240,7 +240,7 @@
 - [unbit/uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 - [pyca/pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
 - [iankronquist/beeswax](https://github.com/iankronquist/beeswax) - A Next Generation Honeypot for a 2016 Oregon State Senior Project
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [ardagnir/athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
@@ -445,6 +445,7 @@
 
 ## Go 
 
+- [Foxboron/age-plugin-tpm](https://github.com/Foxboron/age-plugin-tpm) - :key: TPM 2.0 plugin for age
 - [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
 - [superfly/ltx](https://github.com/superfly/ltx) - Go library for the LTX file format
 - [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go
@@ -623,6 +624,7 @@
 - [betty200744/ultimate-go](https://github.com/betty200744/ultimate-go) - This repo contains my notes on working with Go and computer systems.
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.
+- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
@@ -1399,6 +1401,8 @@
 
 ## Others 
 
+- [simonw/awesome-sqlite-1](https://github.com/simonw/awesome-sqlite-1) - A curated list of awesome things related to SQLite
+- [planetopendata/awesome-sqlite](https://github.com/planetopendata/awesome-sqlite) - A collection of awesome sqlite tools, scripts, books, etc
 - [sfermigier/awesome-python-web-frameworks](https://github.com/sfermigier/awesome-python-web-frameworks) - A curated list of awesome Python Web Frameworks (micro, full-stack, REST, etc.)
 - [hueyy/awesome-mastodon](https://github.com/hueyy/awesome-mastodon) - Up-to-date and curated list of awesome Mastodon-related stuff!
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
@@ -1601,7 +1605,7 @@
 - [zonemaster/zonemaster](https://github.com/zonemaster/zonemaster) - The Zonemaster Project
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
-- [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
+- [ddclient/ddclient](https://github.com/ddclient/ddclient) - Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [shadeslayer/pkg-kde-tools](https://github.com/shadeslayer/pkg-kde-tools) - 
 - [xyb3rt/urxvt-perls](https://github.com/xyb3rt/urxvt-perls) - Perl extensions for the rxvt-unicode terminal emulator
 - [x0rz/EQGRP](https://github.com/x0rz/EQGRP) - Decrypted content of eqgrp-auction-file.tar.xz
@@ -1618,6 +1622,8 @@
 
 ## Python 
 
+- [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
+- [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [cuu508/cronsim](https://github.com/cuu508/cronsim) - Cron expression parser and evaluator.
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
@@ -2919,6 +2925,7 @@
 
 ## TypeScript 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [pingcap/ossinsight-lite](https://github.com/pingcap/ossinsight-lite) - 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
@@ -2927,7 +2934,7 @@
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
 - [natemoo-re/ultramatter](https://github.com/natemoo-re/ultramatter) - &lt;1kB frontmatter parser that supports a reasonable subset of YAML
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
-- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [1Password/op-vscode](https://github.com/1Password/op-vscode) - 1Password for VS Code
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2
 - [rohit-gohri/redocusaurus](https://github.com/rohit-gohri/redocusaurus) - OpenAPI for Docusaurus v2 with Redoc
@@ -3026,7 +3033,6 @@
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [cfe84/screenr](https://github.com/cfe84/screenr) - Screening emails workflow
