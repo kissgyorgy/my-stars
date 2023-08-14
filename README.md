@@ -635,7 +635,7 @@
 - [munnerz/kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [sethvargo/go-retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs
@@ -987,7 +987,6 @@
 - [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 - [django-admin-bootstrapped/django-admin-bootstrapped](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped) - A Django admin theme using Twitter Bootstrap. It doesn't need any kind of modification on your side, just add it to the installed apps.
 - [brazzy/floating-point-gui.de](https://github.com/brazzy/floating-point-gui.de) - Website that provides concise  answers to common questions about floating-point numbers.
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [joshuapekera/animate](https://github.com/joshuapekera/animate) - A library of CSS3 keyframe animations authored using LESS
 - [daylerees/colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 - [hakimel/stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
@@ -1581,7 +1580,7 @@
 - [getgrav/grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [panique/huge](https://github.com/panique/huge) - Simple user-authentication solution, embedded into a small framework.
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [j0k3r/graby](https://github.com/j0k3r/graby) - Graby helps you extract article content from web pages
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
@@ -1969,7 +1968,7 @@
 - [tremc/tremc](https://github.com/tremc/tremc) - Curses interface for transmission
 - [liquidctl/liquidctl](https://github.com/liquidctl/liquidctl) - Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher 🇺🇦
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [upekkha/enpass6-encryption-details](https://github.com/upekkha/enpass6-encryption-details) - 
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [python-attrs/cattrs](https://github.com/python-attrs/cattrs) - Complex custom class converters for attrs.
@@ -2354,7 +2353,7 @@
 - [jieter/django-tables2](https://github.com/jieter/django-tables2) - django-tables2 - An app for creating HTML tables
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [dellis23/ispy](https://github.com/dellis23/ispy) - Monitor the output of terminals and processes.
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [google/python-subprocess32](https://github.com/google/python-subprocess32) - A backport of the Python 3 subprocess module for use on Python 2.
 - [GoogleCloudPlatform/flask-talisman](https://github.com/GoogleCloudPlatform/flask-talisman) - HTTP security headers for Flask
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
@@ -2706,7 +2705,7 @@
 - [KenanHanke/rbloom](https://github.com/KenanHanke/rbloom) - A fast, simple and lightweight Bloom filter library for Python, implemented in Rust.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [vlaci/pyperscan](https://github.com/vlaci/pyperscan) - 
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Instant GraphQL APIs
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The unified data layer
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
@@ -2862,7 +2861,7 @@
 - [getwarped/warpdrive](https://github.com/getwarped/warpdrive) - Build and deployment system for Python web applications.
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [gliderlabs/herokuish](https://github.com/gliderlabs/herokuish) - Utility for emulating Heroku build and runtime tasks in containers
-- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
+- [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
 - [kward/shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
 - [simonswine/docker-gallery3](https://github.com/simonswine/docker-gallery3) - a docker for gallery3
 - [cloudlinux/kd_gallery3](https://github.com/cloudlinux/kd_gallery3) - a docker for gallery3
@@ -2936,6 +2935,7 @@
 
 ## TypeScript 
 
+- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno.
 - [neondatabase/yc-idea-matcher](https://github.com/neondatabase/yc-idea-matcher) - Submit your idea and get a list of similar ideas that YCombinator has invested in in the past.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
@@ -3084,7 +3084,7 @@
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -3094,6 +3094,7 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 
 ## Vala 
