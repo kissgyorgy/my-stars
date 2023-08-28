@@ -445,6 +445,10 @@
 
 ## Go 
 
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
+- [fyne-io/systray](https://github.com/fyne-io/systray) - a cross platfrom Go library to place an icon and menu in the notification area
+- [frain-dev/convoy](https://github.com/frain-dev/convoy) - Open Source Webhooks Gateway; For both incoming & outgoing events.
 - [tailscale/libtailscale](https://github.com/tailscale/libtailscale) - Tailscale C library
 - [nalgeon/sqlpkg-cli](https://github.com/nalgeon/sqlpkg-cli) - SQLite package manager
 - [Foxboron/age-plugin-tpm](https://github.com/Foxboron/age-plugin-tpm) - :key: TPM 2.0 plugin for age
@@ -492,7 +496,7 @@
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [benbjohnson/postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy.
-- [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) - Caddy-SSH is a general-purpose, extensible, modular, memory-safe SSH server built in Go
+- [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) - Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
 - [bradenaw/juniper](https://github.com/bradenaw/juniper) - Juniper is an extension to the Go standard library using generics, including containers, iterators, and streams.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [jstarks/npiperelay](https://github.com/jstarks/npiperelay) - npiperelay allows you to access Windows named pipes from WSL
@@ -558,7 +562,7 @@
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [yeqown/go-qrcode](https://github.com/yeqown/go-qrcode) - To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT and security teams with thousands of computers. (Linux, macOS, Windows, ChromeOS, AWS, Google Cloud, Azure, data center, containers, IoT)
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT and security teams with thousands of computers. (Linux, macOS, Windows, Chromebooks, AWS, Google Cloud, Azure, data center, containers, IoT)
 - [storj/drpc](https://github.com/storj/drpc) - drpc is a lightweight, drop-in replacement for gRPC
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
 - [github/certstore](https://github.com/github/certstore) - Go library for using system certificate stores on macOS/Windows
@@ -619,7 +623,7 @@
 - [maxence-charriere/lofimusic](https://github.com/maxence-charriere/lofimusic) - Lofimusic.app is an installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios.
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
-- [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/GraphQL API Framework for Golang with OpenAPI 3
+- [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3
 - [Kagami/go-face](https://github.com/Kagami/go-face) - :mag: Face recognition with Go
 - [mgit-at/restic](https://github.com/mgit-at/restic) - Fast, secure, efficient backup program (with support for WORM backups, write once/read many)
 - [willscott/go-nfs](https://github.com/willscott/go-nfs) - golang NFSv3 server
@@ -981,7 +985,6 @@
 - [chrisalbon/code_py](https://github.com/chrisalbon/code_py) - A collection of well-commented code snippets for data science
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [s16h/py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [Eonasdan/tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - A powerful Date/time picker widget.
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
@@ -1035,6 +1038,7 @@
 
 ## JavaScript 
 
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
@@ -1078,7 +1082,6 @@
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [beyondcode/tailwind-jit-api](https://github.com/beyondcode/tailwind-jit-api) - Use the full power of Tailwind CSS' new JIT compiler by including one script tag to your HTML.
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [viktronix/chiliapp](https://github.com/viktronix/chiliapp) - 
 - [radareorg/radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe) - Access radare2 via pipe from any programming language!
@@ -1162,7 +1165,6 @@
 - [GoogleChromeLabs/google-sign-in](https://github.com/GoogleChromeLabs/google-sign-in) - Google Sign-In for Websites sample code.
 - [jaredhanson/passport-local](https://github.com/jaredhanson/passport-local) - Username and password authentication strategy for Passport and Node.js.
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
-- [marktext/muya](https://github.com/marktext/muya) - Future markdown editor for web browser applications development
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [TryGhost/gatsby-source-ghost](https://github.com/TryGhost/gatsby-source-ghost) - Source plugin for pulling data into Gatsby.js from the Ghost Public API.
 - [TryGhost/gatsby-starter-ghost](https://github.com/TryGhost/gatsby-starter-ghost) - A starter template to build lightning fast websites with Ghost & Gatsby
@@ -1356,14 +1358,13 @@
 ## MDX 
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 
 ## Makefile 
 
 - [moonrhythm/go-scratch](https://github.com/moonrhythm/go-scratch) - Scratch Go Docker Image
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
 
@@ -1492,6 +1493,7 @@
 - [teesloane/Auth-Boss](https://github.com/teesloane/Auth-Boss) - 🔒 Become an Auth Boss. Learn about different authentication methodologies on the web.
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [tobiaszwaszak/i3wm](https://github.com/tobiaszwaszak/i3wm) - solarized dark i3 theme
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -1627,6 +1629,9 @@
 
 ## Python 
 
+- [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
+- [innovatorved/whisper.api](https://github.com/innovatorved/whisper.api) - This project provides an API with user level access support to transcribe speech to text using a finetuned and processed Whisper ASR model.
+- [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [django-auth-ldap/django-auth-ldap](https://github.com/django-auth-ldap/django-auth-ldap) - Django authentication backend that authenticates against an LDAP service.
 - [tjwalch/django-livereload-server](https://github.com/tjwalch/django-livereload-server) - Livereload functionality integrated with your Django development environment.
 - [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) - Reusable named inline partials for the Django Template Language.
@@ -1800,6 +1805,7 @@
 - [sybrenstuvel/python-rsa](https://github.com/sybrenstuvel/python-rsa) - Python-RSA is a pure-Python RSA implementation.
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
 - [pycrypto/pycrypto](https://github.com/pycrypto/pycrypto) - The Python Cryptography Toolkit
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [pypa/wheel](https://github.com/pypa/wheel) - The official binary distribution format for Python
 - [JulienPalard/po-language-server](https://github.com/JulienPalard/po-language-server) - Language server for po files (only for completion).
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
@@ -2183,7 +2189,6 @@
 - [kocsob/python27-tricks-examples](https://github.com/kocsob/python27-tricks-examples) - Tricks and examples, that works fine in Python 2.7.
 - [Fewbytes/rubber-docker](https://github.com/Fewbytes/rubber-docker) - A workshop on Linux containers: Rebuild Docker from Scratch
 - [rhettinger/modernpython](https://github.com/rhettinger/modernpython) - Sample code for the video course: Modern Python: Big Ideas, Little Code
-- [taigaio/taiga-back](https://github.com/taigaio/taiga-back) - Agile project management platform. Built on top of Django and AngularJS
 - [redmine-gitlab-migrator/redmine-gitlab-migrator](https://github.com/redmine-gitlab-migrator/redmine-gitlab-migrator) - LOOKING FOR MAINTAINER Migrate code projects from Redmine to Gitlab, keeping issues/milestones/metadata
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
 - [pypa/setuptools_scm](https://github.com/pypa/setuptools_scm) - the blessed package to manage your versions by scm tags
@@ -2508,6 +2513,7 @@
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [rpicard/explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 - [mbr/flask-kvsession](https://github.com/mbr/flask-kvsession) - A drop-in replacement for Flask's session handling using server-side sessions.
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [mbr/simplekv](https://github.com/mbr/simplekv) - A simple key-value store for binary data.
 - [mitsuhiko/flask-oauth](https://github.com/mitsuhiko/flask-oauth) - OAuth Support for Flask
 - [mattupstate/overholt](https://github.com/mattupstate/overholt) - Example Flask application illustrating some of my common practices
@@ -2687,6 +2693,7 @@
 
 ## Rust 
 
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [CloudCannon/pagebreak](https://github.com/CloudCannon/pagebreak) - 📃 Open-source CLI tool for implementing pagination on any static website.
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [orhun/cargo-nocode](https://github.com/orhun/cargo-nocode) - Cargo subcommand to easily bootstrap nocode applications. Write nothing; deploy nowhere.
@@ -2935,6 +2942,9 @@
 
 ## TypeScript 
 
+- [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
+- [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 - [aanckar/react-pdf-tailwind](https://github.com/aanckar/react-pdf-tailwind) - Use Tailwind CSS to style PDFs created with react-pdf
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno.
 - [neondatabase/yc-idea-matcher](https://github.com/neondatabase/yc-idea-matcher) - Submit your idea and get a list of similar ideas that YCombinator has invested in in the past.
@@ -3071,6 +3081,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [microsoft/vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
+- [marktext/muya](https://github.com/marktext/muya) - 📄 Future markdown editor for web browser applications development
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
