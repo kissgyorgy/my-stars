@@ -491,7 +491,7 @@
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [robinovitch61/wander](https://github.com/robinovitch61/wander) - A terminal app/TUI for HashiCorp Nomad
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
@@ -940,6 +940,7 @@
 
 ## HTML 
 
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
 - [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks
 - [ronv/sidey](https://github.com/ronv/sidey) - Sidey is a simple and minimalistic jekyll blogging theme.
@@ -1214,7 +1215,7 @@
 - [nextcloud/passman](https://github.com/nextcloud/passman) - 🔐 Open source password manager with Nextcloud integration
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [collective/jquery.recurrenceinput.js](https://github.com/collective/jquery.recurrenceinput.js) - jQuery recurrence widget based on the icalendar RFC5545 standard
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [skygear-demo/skypad](https://github.com/skygear-demo/skypad) - Skypad
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -1629,6 +1630,7 @@
 
 ## Python 
 
+- [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [innovatorved/whisper.api](https://github.com/innovatorved/whisper.api) - This project provides an API with user level access support to transcribe speech to text using a finetuned and processed Whisper ASR model.
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
@@ -2693,6 +2695,7 @@
 
 ## Rust 
 
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [CloudCannon/pagebreak](https://github.com/CloudCannon/pagebreak) - 📃 Open-source CLI tool for implementing pagination on any static website.
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
