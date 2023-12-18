@@ -277,6 +277,7 @@
 
 ## C++ 
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
@@ -454,6 +455,8 @@
 
 ## Go 
 
+- [cvilsmeier/go-sqlite-bench](https://github.com/cvilsmeier/go-sqlite-bench) - Benchmarks for Golang SQLite Drivers
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) - An alternative to stack traces for your Go errors
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
@@ -471,7 +474,7 @@
 - [superfly/ltx](https://github.com/superfly/ltx) - Go library for the LTX file format
 - [tidwall/btree](https://github.com/tidwall/btree) - B-tree implementation for Go
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [facebook/dns](https://github.com/facebook/dns) - Collection of Meta's DNS Libraries
@@ -1062,7 +1065,7 @@
 ## JavaScript 
 
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
-- [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
+- [nuejs/nue](https://github.com/nuejs/nue) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
@@ -1124,7 +1127,6 @@
 - [nextcloud/integration_discourse](https://github.com/nextcloud/integration_discourse) - 🗨️ Discourse integration into Nextcloud
 - [zillow/react-slider](https://github.com/zillow/react-slider) - Accessible, CSS agnostic, slider component for React.
 - [tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [ShizukuIchi/winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.
 - [nextcloud/integration_google](https://github.com/nextcloud/integration_google) - 🇬 Google integration into Nextcloud
 - [hunterjm/fifa-autobuyer](https://github.com/hunterjm/fifa-autobuyer) - FIFA 17 Autobuyer
@@ -1426,7 +1428,8 @@
 
 ## Others 
 
-- [openbao/openbao](https://github.com/openbao/openbao) - 
+- [gregsadetsky/make-a-graph-with-your-voice](https://github.com/gregsadetsky/make-a-graph-with-your-voice) - 
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
 - [TfTHacker/DashboardPlusPlus](https://github.com/TfTHacker/DashboardPlusPlus) - Demonstrating the Dashboard++ method of organizing a vault in Obsidian
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -1653,6 +1656,7 @@
 
 ## Python 
 
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
 - [Unleash/unleash-client-python](https://github.com/Unleash/unleash-client-python) - Unleash client SDK for Python 💡💡💡
 - [pycompiled/compiled](https://github.com/pycompiled/compiled) - Compiled variants of the Python standard library.
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
@@ -2811,7 +2815,7 @@
 - [tailscale/pam](https://github.com/tailscale/pam) - An experimental, work-in-progress PAM module for Tailscale
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [jpeddicord/askalono](https://github.com/jpeddicord/askalono) - A tool & library to detect open source licenses from texts
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
@@ -3050,7 +3054,7 @@
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Build customized Admin Panel for your App and Website. Supports multi-person collaboration. Significantly reduce development time
 - [29ki/29k](https://github.com/29ki/29k) - This is the repository of the free, non-profit, open-source and co-created mental health app Aware.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
@@ -3119,6 +3123,7 @@
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
 - [LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop) - :postbox: A simple and customizable React notifications system
 - [webprofusion/dojo3d](https://github.com/webprofusion/dojo3d) - A javascript library for simple 3D interactive story telling,
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [nhost/hasura-backend-plus](https://github.com/nhost/hasura-backend-plus) - 🔑Auth and 📦Storage for Hasura. The quickest way to get Auth and Storage working for your next app based on Hasura.
 - [fymmot/inclusive-dates](https://github.com/fymmot/inclusive-dates) - A human-friendly datepicker – now as a Web Component! Supports natural language input through Chrono.js. Fully accessible with keyboard and screen reader. Contributions welcome!
 - [awendland/readable-web-extractor-comparison](https://github.com/awendland/readable-web-extractor-comparison) - Manually compare various readable web extractor libraries against different websites
