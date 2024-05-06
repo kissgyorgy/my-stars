@@ -36,7 +36,6 @@
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
-  - [Just](#just)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [MDX](#mdx)
@@ -111,6 +110,7 @@
 
 ## C 
 
+- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
@@ -150,7 +150,7 @@
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
-- [fangfufu/httpdirfs](https://github.com/fangfufu/httpdirfs) - A filesystem which allows you to mount HTTP directory listings, with a permanent cache. Now with Airsonic / Subsonic support!
+- [fangfufu/httpdirfs](https://github.com/fangfufu/httpdirfs) - A filesystem which allows you to mount HTTP directory listings or a single file, with a permanent cache. Now with Airsonic / Subsonic support!
 - [nenadmarkus/pico](https://github.com/nenadmarkus/pico) - A minimalistic framework for real-time object detection (with a pre-trained face detector)
 - [DualCoder/vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
@@ -380,6 +380,7 @@
 - [google/google-api-javascript-client](https://github.com/google/google-api-javascript-client) - Google APIs Client Library for browser JavaScript, aka gapi.
 - [countable-web/cryptsend](https://github.com/countable-web/cryptsend) - Send files anywhere-&gt;anywhere securely
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
 - [evnix/boltdbweb](https://github.com/evnix/boltdbweb) - A web based GUI for BoltDB files
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
@@ -431,7 +432,7 @@
 ## Dockerfile 
 
 - [ssashir06/DayZDockerServer](https://github.com/ssashir06/DayZDockerServer) - DayZ Server on Windows Docker
-- [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~154KB) to run any static website
+- [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~80KB) to run any static website
 - [jfloff/alpine-python](https://github.com/jfloff/alpine-python) - A small, more complete, Python Docker image based on Alpine Linux.
 - [odoo/docker](https://github.com/odoo/docker) - 
 - [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node) - Distroless Node.js Docker Images
@@ -740,7 +741,7 @@
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [xordataexchange/crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
+- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [antifuchs/htpasswd-login](https://github.com/antifuchs/htpasswd-login) - A RESTful authentication service combining .htpasswd and nginx's auth_request
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [sbinet/go-python](https://github.com/sbinet/go-python) - naive go bindings to the CPython2 C-API
@@ -1358,7 +1359,6 @@
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [endtwist/AjaxIM](https://github.com/endtwist/AjaxIM) - instant messaging framework
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [jquery/jquery-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library.
 - [endor/kettu](https://github.com/endor/kettu) - Rewrite of the Transmission Web Client with jQuery, Sammy and Mustache
 - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
@@ -1386,10 +1386,6 @@
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [devill/keras_playground](https://github.com/devill/keras_playground) - 
 - [rasbt/python_reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
-
-## Just 
-
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 
 ## Kotlin 
 
@@ -1683,7 +1679,8 @@
 
 ## Python 
 
-- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT is an open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics in a single application 🔥 🖥 . 👉 Open source GenAI and LLM Application Performance Monitoring (APM) & Observability tool
+- [snok/django-guid](https://github.com/snok/django-guid) - Inject an ID into every log message from a Django request. ASGI compatible, integrates with Sentry, and works with Celery
+- [openlit/openlit](https://github.com/openlit/openlit) - OpenLIT is an open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics in a single application 🔥 🖥 . Open source GenAI and LLM Application Performance Monitoring (APM) & Observability tool
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
 - [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
@@ -1858,7 +1855,7 @@
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
 - [kyrus/python-junit-xml](https://github.com/kyrus/python-junit-xml) - A Python module for creating JUnit XML test result documents that can be read by tools such as Jenkins. If you are ever working with test tool or test suite written in Python and want to take advantage of Jenkins' pretty graphs and test reporting capabilities, this module will let you generate the XML test reports.
-- [roman-right/beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB
+- [BeanieODM/beanie](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB
 - [h2non/filetype.py](https://github.com/h2non/filetype.py) - Small, dependency-free, fast Python package to infer binary file types checking the magic numbers signature
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -2936,7 +2933,6 @@
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [otto-torino/django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5 - https://otto-torino.github.io/tag/baton/
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [balabit/coderegation](https://github.com/balabit/coderegation) - We congregate spontaneously to watch nerdy videos.
 - [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) - The mqtt.org website
 
@@ -2952,6 +2948,7 @@
 
 ## Shell 
 
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
@@ -3092,7 +3089,7 @@
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian plugin that adds banners to your notes
 - [davidohlin/instapaper-to-omnivore-import](https://github.com/davidohlin/instapaper-to-omnivore-import) - 📖 Import Instapaper content to Omnivore
