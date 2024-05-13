@@ -36,6 +36,7 @@
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Just](#just)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [MDX](#mdx)
@@ -137,6 +138,7 @@
 - [BohemiaInteractive/DayZ-Central-Economy](https://github.com/BohemiaInteractive/DayZ-Central-Economy) - DayZ Central Economy configuration
 - [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password.
 - [tangentforks/XPokerEval](https://github.com/tangentforks/XPokerEval) - XPokerEval from the old codingthewheel.com blog
+- [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [gsliepen/tinc](https://github.com/gsliepen/tinc) - a VPN daemon
 - [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) - remarkable2 framebuffer reversing
 - [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language.
@@ -427,6 +429,7 @@
 
 ## Dart 
 
+- [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
@@ -464,6 +467,7 @@
 
 ## Go 
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [adrianbrad/queue](https://github.com/adrianbrad/queue) - ⏪️ Go package providing multiple queue implementations. Developed in a thread-safe generic way.
 - [cvilsmeier/go-sqlite-bench](https://github.com/cvilsmeier/go-sqlite-bench) - Benchmarks for Golang SQLite Drivers
@@ -833,7 +837,7 @@
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [martinraison/ascii-tv](https://github.com/martinraison/ascii-tv) - Stream ASCII movies over HTTP
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
@@ -892,7 +896,7 @@
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
+- [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go, originally by @nlopes; Maintainers needed, contact @parsley42
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [gomatcha/matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
@@ -1108,7 +1112,6 @@
 - [Accessible360/accessible-slick](https://github.com/Accessible360/accessible-slick) - the last (accessible) carousel you'll ever need.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions
-- [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [attilammagyar/teams-wysimd](https://github.com/attilammagyar/teams-wysimd) - Turn the WYSIWYG editor in MS Teams into a Slack-inspired Markdown editor
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
@@ -1370,7 +1373,7 @@
 
 ## Jupyter Notebook 
 
-- [superlinked/superlinked](https://github.com/superlinked/superlinked) - A compute framework for turning complex data into vectors.
+- [superlinked/superlinked](https://github.com/superlinked/superlinked) - A compute framework for turning complex data into vectors. Build multimodal vectors with ease and define weights at query time so you don't need a custom reranking algorithm to get good results. Go straight from notebook to production with the same SDK.
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [cfahlgren1/natural-sql](https://github.com/cfahlgren1/natural-sql) - A series of top performing Text to SQL LLMs
@@ -1386,6 +1389,10 @@
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [devill/keras_playground](https://github.com/devill/keras_playground) - 
 - [rasbt/python_reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
+
+## Just 
+
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 
 ## Kotlin 
 
@@ -1685,7 +1692,7 @@
 - [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
 - [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
 - [kissgyorgy/compone](https://github.com/kissgyorgy/compone) - Component framework for Python
-- [RedisVentures/redisvl](https://github.com/RedisVentures/redisvl) - Redis Vector Library (RedisVL) enables Redis as a realtime vector database for LLM Applications.
+- [redis/redis-vl-python](https://github.com/redis/redis-vl-python) - Redis Vector Library (RedisVL) interfaces with Redis' vector database for realtime semantic search, RAG, and recommendation systems.
 - [assem-ch/django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) - Legacy Django jet rebooted to support Django 3 and Django 4, and latest python releases
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
@@ -1881,7 +1888,7 @@
 - [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv
 - [RobertCraigie/pyright-python](https://github.com/RobertCraigie/pyright-python) - Python command line wrapper for pyright, a static type checker
 - [tonybaloney/ants-azure-demos](https://github.com/tonybaloney/ants-azure-demos) - Collection of PoCs and Azure Demos
-- [binance/binance-connector-python](https://github.com/binance/binance-connector-python) - a simple connector to Binance Public API
+- [binance/binance-connector-python](https://github.com/binance/binance-connector-python) - Simple connector to Binance Public API
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [MrMino/wheelfile](https://github.com/MrMino/wheelfile) - 🔪🧀  API for creating and inspecting Python .whl files (wheels).
@@ -2104,7 +2111,6 @@
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [python-poetry/tomlkit](https://github.com/python-poetry/tomlkit) - Style-preserving TOML library for Python
 - [anthonywritescode/aoc2019](https://github.com/anthonywritescode/aoc2019) - https://adventofcode.com/2019
-- [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [algolia/docsearch-scraper](https://github.com/algolia/docsearch-scraper) - DocSearch - Scraper
 - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
@@ -2812,6 +2818,7 @@
 
 ## Rust 
 
+- [kxxt/tracexec](https://github.com/kxxt/tracexec) - A small utility for tracing execve{,at} and pre-exec behavior.
 - [soywod/neverest](https://github.com/soywod/neverest) - CLI to synchronize, backup and restore emails
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
@@ -2948,7 +2955,6 @@
 
 ## Shell 
 
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [Naunter/BT_BlockLists](https://github.com/Naunter/BT_BlockLists) - Transmission block list
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
@@ -3088,7 +3094,7 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian plugin that adds banners to your notes
@@ -3161,7 +3167,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
-- [zbnauj/next-csrf](https://github.com/zbnauj/next-csrf) - CSRF mitigation for Next.js
+- [juanbzpy/next-csrf](https://github.com/juanbzpy/next-csrf) - CSRF mitigation for Next.js
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [sniptt-official/snip](https://github.com/sniptt-official/snip) - 🔐 A simple developer-friendly CLI for managing secrets
 - [edmundhung/maildog](https://github.com/edmundhung/maildog) - 🐶 Hosting your own email forwarding service on AWS and managing it with Github Actions
