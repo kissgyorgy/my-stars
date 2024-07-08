@@ -673,7 +673,6 @@
 - [betty200744/ultimate-go](https://github.com/betty200744/ultimate-go) - This repo contains my notes on working with Go and computer systems.
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used as an embedded Go library and a language-independent service.
-- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
@@ -751,7 +750,7 @@
 - [fishi0x01/vsh](https://github.com/fishi0x01/vsh) - vsh - HashiCorp Vault interactive shell and cli tool
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [xordataexchange/crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [antifuchs/htpasswd-login](https://github.com/antifuchs/htpasswd-login) - A RESTful authentication service combining .htpasswd and nginx's auth_request
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
@@ -836,7 +835,7 @@
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [evenh/intercert](https://github.com/evenh/intercert) - Use Let's Encrypt on private (LAN) servers using DNS validation
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [barnybug/go-cast](https://github.com/barnybug/go-cast) - A command line tool to control Google Chromecast devices.
 - [gravitational/gravity](https://github.com/gravitational/gravity) - Kubernetes application deployments for restricted, regulated, or remote environments
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -852,7 +851,7 @@
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
-- [micro/micro](https://github.com/micro/micro) - A Go service development platform
+- [micro/micro](https://github.com/micro/micro) - An API first development platform
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [jessfraz/morningpaper2remarkable](https://github.com/jessfraz/morningpaper2remarkable) - A bot to sync the morning paper to a remarkable tablet.
@@ -1091,7 +1090,6 @@
 
 ## JavaScript 
 
-- [theCalcaholic/nextcloud-secrets](https://github.com/theCalcaholic/nextcloud-secrets) - The secrets app allows Nextcloud users to securely transmit e2e encrypted secrets (like passwords) to anyone
 - [con-dog/serverless-architecture](https://github.com/con-dog/serverless-architecture) - 
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
@@ -1620,7 +1618,6 @@
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
 - [djangoadvent/djangoadvent-articles](https://github.com/djangoadvent/djangoadvent-articles) - Articles from djangoadvent.com.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
-- [samsquire/ideas](https://github.com/samsquire/ideas) - a hundred ideas for computing - a record of ideas - https://samsquire.github.io/ideas/
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [Dixens/sublime-text-pyrocms-snippets](https://github.com/Dixens/sublime-text-pyrocms-snippets) - A list of PyroCMS snippets for Sublime Text 2
 - [forensix/BBSettings](https://github.com/forensix/BBSettings) - A powerful iOS 5.0 Notification Center Widget
@@ -1804,7 +1801,6 @@
 - [litements/s3sqlite](https://github.com/litements/s3sqlite) - Query SQLite files in S3 using s3fs
 - [eliben/pyelftools](https://github.com/eliben/pyelftools) - Parsing ELF and DWARF in Python
 - [jazzband/django-pipeline](https://github.com/jazzband/django-pipeline) - Pipeline is an asset packaging library for Django.
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) - OFRAK: unpack, modify, and repack binaries.
 - [saxix/django-admin-extra-buttons](https://github.com/saxix/django-admin-extra-buttons) - 
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
@@ -3107,7 +3103,8 @@
 
 ## TypeScript 
 
-- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notions.
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notion.
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
@@ -3158,6 +3155,7 @@
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -3239,6 +3237,7 @@
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
+- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [cfe84/screenr](https://github.com/cfe84/screenr) - Screening emails workflow
@@ -3261,7 +3260,7 @@
 - [jayphelps/nofux](https://github.com/jayphelps/nofux) - Unpredictable state container for JavaScript apps.
 - [trevorblades/gatsby-remark-check-links](https://github.com/trevorblades/gatsby-remark-check-links) - 🕵️‍♀️ Detects broken links and heading hashes in markdown
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [microsoft/vscode-go](https://github.com/microsoft/vscode-go) - An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
@@ -3317,6 +3316,7 @@
 
 ## Vue 
 
+- [theCalcaholic/nextcloud-secrets](https://github.com/theCalcaholic/nextcloud-secrets) - The secrets app allows Nextcloud users to securely transmit e2e encrypted secrets (like passwords) to anyone
 - [Dashibase/dashibase](https://github.com/Dashibase/dashibase) - Super simple user dashboards for Supabase users.
 - [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy.  Available for Windows, Mac, Linux or online.
 - [falcon78/Vusic](https://github.com/falcon78/Vusic) - Vusic - Apple Music Web Player made with VueJS
