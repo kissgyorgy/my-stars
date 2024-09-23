@@ -268,6 +268,7 @@
 
 ## C# # 
 
+- [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 - [RatScanner/RatScanner](https://github.com/RatScanner/RatScanner) - Rat Scanner a helpful tool for Escape from Tarkov.
 - [akon47/ScreenRecorder](https://github.com/akon47/ScreenRecorder) - ⏺️ A simple recording program with the ability to record screens and audio on your computer.
@@ -282,6 +283,7 @@
 
 ## C++ 
 
+- [mmatyas/pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [XapaJIaMnu/translateLocally](https://github.com/XapaJIaMnu/translateLocally) - Fast and secure translation on your local machine, powered by marian and Bergamot.
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!
@@ -475,6 +477,8 @@
 
 ## Go 
 
+- [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
+- [twistlock/authz](https://github.com/twistlock/authz) - Docker Authorization Plugin
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches
 - [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) - An improved drop-in replacement for SQS
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
@@ -520,7 +524,7 @@
 - [hashicorp/damon](https://github.com/hashicorp/damon) - A terminal UI (TUI) for HashiCorp Nomad
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [mxpv/patreon-go](https://github.com/mxpv/patreon-go) - Patreon Go API client
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
+- [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
 - [1Password/srp](https://github.com/1Password/srp) - A set of Go functions for Secure Remote Password protocol implementation in 1Password Teams
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [ory/go-acc](https://github.com/ory/go-acc) - Accurate Code Coverage reporting for Golang (Go)
@@ -677,7 +681,7 @@
 - [willscott/go-nfs](https://github.com/willscott/go-nfs) - golang NFSv3 server
 - [betty200744/ultimate-go](https://github.com/betty200744/ultimate-go) - This repo contains my notes on working with Go and computer systems.
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
-- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used as an embedded Go library and a language-independent service.
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
@@ -996,7 +1000,7 @@
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [codazoda/neatcss](https://github.com/codazoda/neatcss) - Rapidly build efficient sites with Neat, the minimalist css framework.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [ronv/sidey](https://github.com/ronv/sidey) - Sidey is a simple and minimalistic jekyll blogging theme.
 - [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js
@@ -1084,7 +1088,7 @@
 - [pwm-project/pwm](https://github.com/pwm-project/pwm) - pwm
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [openairplay/open-airplay](https://github.com/openairplay/open-airplay) - A collection of libraries for Apple's AirPlay protocol
 - [jenkinsci/gitea-plugin](https://github.com/jenkinsci/gitea-plugin) - This plugin provides the Jenkins integration for Gitea.
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
@@ -1705,6 +1709,7 @@
 
 ## Python 
 
+- [yigitkonur/swift-ocr-llm-powered-pdf-to-markdown](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown) - An open-source OCR API that leverages OpenAI's powerful language models with optimized performance techniques like parallel processing and batching to deliver high-quality text extraction from complex PDF documents. Ideal for businesses seeking efficient document digitization and data extraction solutions.
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 - [armijnhemel/binaryanalysis-ng](https://github.com/armijnhemel/binaryanalysis-ng) - Binary Analysis Next Generation (BANG)
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
@@ -2887,7 +2892,7 @@
 - [KenanHanke/rbloom](https://github.com/KenanHanke/rbloom) - A fast, simple and lightweight Bloom filter library for Python, implemented in Rust.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [vlaci/pyperscan](https://github.com/vlaci/pyperscan) - 
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The future of APIs
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The GraphQL Federation platform
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
@@ -3125,6 +3130,7 @@
 
 ## TypeScript 
 
+- [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
@@ -3219,7 +3225,7 @@
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [lgarron/clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - :clipboard: Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
