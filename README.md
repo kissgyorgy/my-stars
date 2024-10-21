@@ -38,6 +38,7 @@
   - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [Less](#less)
   - [Lua](#lua)
   - [MDX](#mdx)
   - [Makefile](#makefile)
@@ -111,6 +112,7 @@
 
 ## C 
 
+- [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
@@ -139,6 +141,7 @@
 - [BohemiaInteractive/DayZ-Central-Economy](https://github.com/BohemiaInteractive/DayZ-Central-Economy) - DayZ Central Economy configuration
 - [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password.
 - [tangentforks/XPokerEval](https://github.com/tangentforks/XPokerEval) - XPokerEval from the old codingthewheel.com blog
+- [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [gsliepen/tinc](https://github.com/gsliepen/tinc) - a VPN daemon
 - [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) - remarkable2 framebuffer reversing
 - [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language.
@@ -477,7 +480,7 @@
 
 ## Go 
 
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [twistlock/authz](https://github.com/twistlock/authz) - Docker Authorization Plugin
@@ -996,6 +999,7 @@
 
 ## HTML 
 
+- [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -1138,7 +1142,6 @@
 - [Accessible360/accessible-slick](https://github.com/Accessible360/accessible-slick) - the last (accessible) carousel you'll ever need.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
-- [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [attilammagyar/teams-wysimd](https://github.com/attilammagyar/teams-wysimd) - Turn the WYSIWYG editor in MS Teams into a Slack-inspired Markdown editor
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
@@ -1425,6 +1428,10 @@
 ## Kotlin 
 
 - [tonybaloney/pycharm-security](https://github.com/tonybaloney/pycharm-security) - Finds security holes in your Python projects from PyCharm and GitHub
+
+## Less 
+
+- [praveenjuge/mynaui-icons](https://github.com/praveenjuge/mynaui-icons) - Beautifully crafted open source icons from Myna UI.
 
 ## Lua 
 
@@ -1717,6 +1724,7 @@
 
 ## Python 
 
+- [sparckles/starfyre](https://github.com/sparckles/starfyre) - A reactive, WASM based SSR Python Web Framework for Front-End Applications
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [click-contrib/click-option-group](https://github.com/click-contrib/click-option-group) - Option groups missing in Click
 - [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack) - Model components of the Llama Stack APIs
@@ -1753,7 +1761,7 @@
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests
 - [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python) - pgvector support for Python
-- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation library for your LLM Applications
+- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [ahornyai/ecc_cryptanalysis](https://github.com/ahornyai/ecc_cryptanalysis) - Automated cryptanalysis tool for elliptic curve cryptography
 - [j4mie/hotmetal](https://github.com/j4mie/hotmetal) - A tiny HTML generator 🔥🤘
 - [getludic/ludic](https://github.com/getludic/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
@@ -1864,7 +1872,7 @@
 - [trailofbits/polyfile](https://github.com/trailofbits/polyfile) - A pure Python cleanroom implementation of libmagic, with instrumented parsing from Kaitai struct and an interactive hex viewer
 - [tonybaloney/anti-patterns](https://github.com/tonybaloney/anti-patterns) - 
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [aio-libs/yarl](https://github.com/aio-libs/yarl) - Yet another URL library
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [P1sec/pycrate](https://github.com/P1sec/pycrate) - A Python library to ease the development of encoders and decoders for various protocols and file formats; contains ASN.1 and CSN.1 compilers.
@@ -2068,7 +2076,6 @@
 - [sqlalchemy/dogpile.cache](https://github.com/sqlalchemy/dogpile.cache) - dogpile.cache is a Python caching API which provides a generic interface to caching backends of any variety
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [P403n1x87/austin-web](https://github.com/P403n1x87/austin-web) - An Austin web interface for remote profiling
-- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [akdor1154/python-csql](https://github.com/akdor1154/python-csql) - 
 - [Evidlo/remarkable_mouse](https://github.com/Evidlo/remarkable_mouse) - use your reMarkable as a graphics tablet
 - [bordaigorl/rmview](https://github.com/bordaigorl/rmview) - A live viewer for reMarkable written in PyQt5
@@ -2861,6 +2868,7 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [beac0n/ruroco](https://github.com/beac0n/ruroco) - Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands.
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
@@ -2959,6 +2967,7 @@
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [rien/reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
 - [LinusCDE/chessmarkable](https://github.com/LinusCDE/chessmarkable) - Chess for the reMarkable using the rust pleco lib
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
@@ -3147,7 +3156,7 @@
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
