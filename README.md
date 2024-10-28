@@ -245,7 +245,7 @@
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
+- [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [P-H-C/phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
 - [unbit/uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 - [pyca/pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
@@ -480,6 +480,8 @@
 
 ## Go 
 
+- [dim0x69/mdx](https://github.com/dim0x69/mdx) - 
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
@@ -1100,7 +1102,6 @@
 - [openairplay/open-airplay](https://github.com/openairplay/open-airplay) - A collection of libraries for Apple's AirPlay protocol
 - [jenkinsci/gitea-plugin](https://github.com/jenkinsci/gitea-plugin) - This plugin provides the Jenkins integration for Gitea.
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
-- [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
 - [RaiMan/SikuliX-2014](https://github.com/RaiMan/SikuliX-2014) - SikuliX version 1.1.2 (until February 2018)
 - [combinatorial/AppCodeDashSearch](https://github.com/combinatorial/AppCodeDashSearch) - Integrates Dash search into AppCode (and other IntellijIDEA apps)
@@ -1445,6 +1446,7 @@
 
 ## Makefile 
 
+- [aboutcode-org/scancode-licensedb](https://github.com/aboutcode-org/scancode-licensedb) - A free and open database of all the licenses, in particular all the open source software licenses
 - [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) - wrap autotools configure scripts to build with Cosmopolitan Libc
 - [moonrhythm/go-scratch](https://github.com/moonrhythm/go-scratch) - Scratch Go Docker Image
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
@@ -1464,6 +1466,8 @@
 
 ## Nix 
 
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
+- [cachix/nixpkgs-python](https://github.com/cachix/nixpkgs-python) - All Python versions, kept up-to-date on hourly basis using Nix.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [antithesishq/madness](https://github.com/antithesishq/madness) - Madness enables you to easily run the same binary on NixOS and non-NixOS systems
 - [vlaci/nixos-config](https://github.com/vlaci/nixos-config) - 
@@ -1724,6 +1728,7 @@
 
 ## Python 
 
+- [aboutcode-org/license-expression](https://github.com/aboutcode-org/license-expression) - Utility library  to parse, normalize and compare License expressions for Python using a boolean logic engine. For expressions using SPDX or any other license id scheme.
 - [sparckles/starfyre](https://github.com/sparckles/starfyre) - A reactive, WASM based SSR Python Web Framework for Front-End Applications
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [click-contrib/click-option-group](https://github.com/click-contrib/click-option-group) - Option groups missing in Click
@@ -2783,7 +2788,7 @@
 - [honzakral/django-threadedcomments](https://github.com/honzakral/django-threadedcomments) - django-threadedcomments is a simple yet flexible threaded commenting system for Django.
 - [pinax/pinax-blog](https://github.com/pinax/pinax-blog) - a blog app for Django
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
-- [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
+- [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [jazzband/tablib](https://github.com/jazzband/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.
 - [ASKBOT/askbot-devel](https://github.com/ASKBOT/askbot-devel) - Askbot is a Django/Python Q&A forum. **Contributors README**: https://github.com/ASKBOT/askbot-devel#how-to-contribute. Commercial hosting of Askbot and support are available at https://askbot.com
 - [Mysterie/uncompyle2](https://github.com/Mysterie/uncompyle2) - uncompyle2
@@ -2868,6 +2873,7 @@
 
 ## Rust 
 
+- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [beac0n/ruroco](https://github.com/beac0n/ruroco) - Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands.
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
@@ -3024,7 +3030,7 @@
 - [wbond/pi-github-runner](https://github.com/wbond/pi-github-runner) - Docker config to easily enable arm and arm64 GitHub Actions via the self-hosted runner mechanism
 - [fly-apps/redis-geo-cache](https://github.com/fly-apps/redis-geo-cache) - A global Redis cache
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
-- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [Evidlo/remarkable_entware](https://github.com/Evidlo/remarkable_entware) - Entware installer modified for reMarkable Tablet
 - [firmadyne/firmadyne](https://github.com/firmadyne/firmadyne) - Platform for emulation and dynamic analysis of Linux-based firmware
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
@@ -3104,6 +3110,7 @@
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [ZZROTDesign/docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
+- [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
@@ -3149,6 +3156,7 @@
 
 ## TypeScript 
 
+- [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
 - [lachholden/obsidian-recipe-view](https://github.com/lachholden/obsidian-recipe-view) - View your Obsidian notes as interactive recipe cards while you cook.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
