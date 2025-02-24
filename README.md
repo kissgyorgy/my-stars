@@ -87,7 +87,7 @@
 
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
-- [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
+- [briansmith/ring](https://github.com/briansmith/ring) - An experiment.
 - [nemasu/asmttpd](https://github.com/nemasu/asmttpd) - Web server for Linux written in amd64 assembly.
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
@@ -255,7 +255,7 @@
 - [unbit/uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 - [pyca/pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
 - [iankronquist/beeswax](https://github.com/iankronquist/beeswax) - A Next Generation Honeypot for a 2016 Oregon State Senior Project
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [ardagnir/athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
@@ -292,7 +292,6 @@
 
 ## C++ 
 
-- [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [mmatyas/pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
@@ -444,7 +443,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -1179,7 +1178,6 @@
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [beyondcode/tailwind-jit-api](https://github.com/beyondcode/tailwind-jit-api) - Use the full power of Tailwind CSS' new JIT compiler by including one script tag to your HTML.
-- [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [viktronix/chiliapp](https://github.com/viktronix/chiliapp) - 
 - [radareorg/radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe) - Access radare2 via pipe from any programming language!
 - [vercel-solutions/nextjs-web-authn](https://github.com/vercel-solutions/nextjs-web-authn) - Login with Yubikey or TouchID on your Chrome browser.
@@ -1518,9 +1516,10 @@
 
 ## Others 
 
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [gardengim/keepwsl](https://github.com/gardengim/keepwsl) - A simple service to keep WSL alive
-- [KingMenes/awesome-launch](https://github.com/KingMenes/awesome-launch) - A directory for free and friendly communities to get eyes on your side projects! Contributors are welcome!
+- [soGeneri/awesome-launch](https://github.com/soGeneri/awesome-launch) - A curated directory of free and friendly communities to showcase your side projects!
 - [popcar2/BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist) - A filter that blocks spam & misleading websites from appearing in search results via uBlocklist
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [sp-tarkov/build](https://github.com/sp-tarkov/build) - 
@@ -1755,6 +1754,7 @@
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [Z-Gort/Reservoirs-Lab](https://github.com/Z-Gort/Reservoirs-Lab) - 
+- [gi0baro/rloop](https://github.com/gi0baro/rloop) - An AsyncIO event loop implemented in Rust
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish
 - [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Admin – No-code Business App builder
@@ -1794,7 +1794,6 @@
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [django-treebeard/django-treebeard](https://github.com/django-treebeard/django-treebeard) - Efficient tree implementations for Django
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 - [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests
@@ -1923,7 +1922,7 @@
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [aaugustin/notion2pg](https://github.com/aaugustin/notion2pg) - Import Notion databases to PostgreSQL tables
 - [tvst/plost](https://github.com/tvst/plost) - A deceptively simple plotting library for Streamlit
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
 - [google/atheris](https://github.com/google/atheris) - 
 - [verigak/progress](https://github.com/verigak/progress) - Easy to use progress bars for Python
@@ -2067,7 +2066,7 @@
 - [chaudum/pytest-crate](https://github.com/chaudum/pytest-crate) - A pytest plugin for CrateDB
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [skelsec/jackdaw](https://github.com/skelsec/jackdaw) - gather gather gather
-- [edeng23/binance-trade-bot](https://github.com/edeng23/binance-trade-bot) - Automated cryptocurrency trading bot
+- [ccxt/binance-trade-bot](https://github.com/ccxt/binance-trade-bot) - Automated cryptocurrency trading bot
 - [binaryornot/binaryornot](https://github.com/binaryornot/binaryornot) - Ultra-lightweight pure Python package to check if a file is binary or text.
 - [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 - [pallets/itsdangerous](https://github.com/pallets/itsdangerous) - Safely pass trusted data to untrusted environments and back.
@@ -2916,14 +2915,13 @@
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
-- [gi0baro/rloop](https://github.com/gi0baro/rloop) - An AsyncIO event loop implemented in Rust
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [beac0n/ruroco](https://github.com/beac0n/ruroco) - Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands.
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
-- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
+- [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
 - [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) - Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
@@ -3201,6 +3199,7 @@
 
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [my-badges/my-badges](https://github.com/my-badges/my-badges) - Google's Moma Badges for GitHub
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
@@ -3220,6 +3219,7 @@
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -3317,6 +3317,7 @@
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Hosting read-only SQLite databases on static file hosters like Github Pages
 - [zackify/react-calendar](https://github.com/zackify/react-calendar) - Simple and flexible events calendar written in React
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+- [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
