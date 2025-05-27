@@ -17,8 +17,13 @@ jobs:
 
       - uses: actions/cache@v4
         with:
-          path: ~/.cache/uv
+          path: |
+            ~/.cache/uv
+            ~/.local/share/uv
           key: uv-cache
+
+      - name: Install uv
+        run: curl -LsSf https://astral.sh/uv/install.sh | sh
 
       - name: Re-generate README
         run: uvx -p python3.8 --from "starred==3.2" -- starred --username kissgyorgy --sort > README.md
