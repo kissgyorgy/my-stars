@@ -402,7 +402,7 @@
 - [countable-web/cryptsend](https://github.com/countable-web/cryptsend) - Send files anywhere-&gt;anywhere securely
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
+- [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI. （该项目不再维护。）
 - [evnix/boltdbweb](https://github.com/evnix/boltdbweb) - A web based GUI for BoltDB files
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [ageitgey/amplify](https://github.com/ageitgey/amplify) - A Jekyll html theme in the vague style of Medium.com built using Google AMP
@@ -491,6 +491,7 @@
 
 ## Go 
 
+- [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
@@ -1076,7 +1077,6 @@
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [s16h/py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Eonasdan/tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - A powerful Date/time picker widget.
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [google/gumbo-parser](https://github.com/google/gumbo-parser) - An HTML5 parsing library in pure C99
@@ -1132,7 +1132,6 @@
 ## JavaScript 
 
 - [btw-so/btw](https://github.com/btw-so/btw) - Open source Medium alternative- set up your personal blog in minutes.
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
@@ -1434,7 +1433,6 @@
 - [Stability-AI/StableCascade](https://github.com/Stability-AI/StableCascade) - Official Code for Stable Cascade
 - [cfahlgren1/natural-sql](https://github.com/cfahlgren1/natural-sql) - A series of top performing Text to SQL LLMs
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
-- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - Optimized Stable Diffusion modified to run on lower GPU VRAM
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
@@ -1493,6 +1491,7 @@
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
 - [tfc/nspawn-nixos](https://github.com/tfc/nspawn-nixos) - Accompanying Code for Nixcademy.com Blog Article
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [cachix/nixpkgs-python](https://github.com/cachix/nixpkgs-python) - All Python versions, kept up-to-date on hourly basis using Nix.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [antithesishq/madness](https://github.com/antithesishq/madness) - Madness enables you to easily run the same binary on NixOS and non-NixOS systems
@@ -1543,6 +1542,7 @@
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
 - [BossChow/ultimate-submit-list](https://github.com/BossChow/ultimate-submit-list) - This repository is dedicated to collecting a directory of resources for submitting startup projects, including websites, communities, newsletters, and more. It aims to help solo makers save time and effortlessly find the right platforms to promote their startups.
 - [gregsadetsky/make-a-graph-with-your-voice](https://github.com/gregsadetsky/make-a-graph-with-your-voice) - 
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [TfTHacker/DashboardPlusPlus](https://github.com/TfTHacker/DashboardPlusPlus) - Demonstrating the Dashboard++ method of organizing a vault in Obsidian
 - [rubiojr/awesome-restic](https://github.com/rubiojr/awesome-restic) - Awesome Restic related projects
 - [simonw/awesome-sqlite-1](https://github.com/simonw/awesome-sqlite-1) - A curated list of awesome things related to SQLite
@@ -1760,6 +1760,7 @@
 
 ## Python 
 
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation.
 - [kordless/gnosis-evolve](https://github.com/kordless/gnosis-evolve) - Your appetite for code + Claude's capabilities = Limitless creation. No experience required - just pure hunger! 🧠⚡💻
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
 - [salty-horse/ibus-uniemoji](https://github.com/salty-horse/ibus-uniemoji) - Input method (ibus) for entering unicode symbols and emoji by name
@@ -1769,6 +1770,7 @@
 - [OmniSVG/OmniSVG](https://github.com/OmniSVG/OmniSVG) - OmniSVG is the first family of end-to-end multimodal SVG generators that leverage pre-trained Vision-Language Models (VLMs), capable of generating complex and detailed SVGs, from simple icons to intricate anime characters.
 - [tekknolagi/manual-nix](https://github.com/tekknolagi/manual-nix) - 
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [isislovecruft/pyrsync](https://github.com/isislovecruft/pyrsync) - A pure Python module which implements the rsync algorithm.
 - [zobweyt/textcase](https://github.com/zobweyt/textcase) - Python library for text case conversions
 - [geldata/gel-python](https://github.com/geldata/gel-python) - The official Python client library for Gel
@@ -1787,7 +1789,6 @@
 - [spdx/tools-python](https://github.com/spdx/tools-python) - A Python library to parse, validate and create SPDX documents.
 - [Hwoahwoa/pydise](https://github.com/Hwoahwoa/pydise) - Detector of import side effects
 - [aboutcode-org/license-expression](https://github.com/aboutcode-org/license-expression) - Utility library  to parse, normalize and compare License expressions for Python using a boolean logic engine. For expressions using SPDX or any other license id scheme.
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [sparckles/starfyre](https://github.com/sparckles/starfyre) - A reactive, WASM based SSR Python Web Framework for Front-End Applications
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [click-contrib/click-option-group](https://github.com/click-contrib/click-option-group) - Option groups missing in Click
@@ -2753,6 +2754,7 @@
 - [mbr/simplekv](https://github.com/mbr/simplekv) - A simple key-value store for binary data.
 - [mitsuhiko/flask-oauth](https://github.com/mitsuhiko/flask-oauth) - OAuth Support for Flask
 - [mattupstate/overholt](https://github.com/mattupstate/overholt) - Example Flask application illustrating some of my common practices
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [akprasad/flask-forum](https://github.com/akprasad/flask-forum) - A forum app made with multiple Flask extensions
 - [andrewgodwin/south2](https://github.com/andrewgodwin/south2) - South 2: Backported django.db.migrations for older Django versions
 - [django-inplaceedit/django-inplaceedit](https://github.com/django-inplaceedit/django-inplaceedit) - Django application that allows you to inline edition of some data from the database.
@@ -2933,6 +2935,8 @@
 
 ## Rust 
 
+- [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
@@ -3225,6 +3229,7 @@
 
 ## TypeScript 
 
+- [tesseral-labs/tesseral](https://github.com/tesseral-labs/tesseral) - Open source auth infrastructure for B2B SaaS
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
@@ -3248,7 +3253,7 @@
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀 A fast Rsbuild-based static site generator.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Open-Source Visual Vibecoding Editor – Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
