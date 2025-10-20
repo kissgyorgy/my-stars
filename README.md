@@ -88,7 +88,7 @@
 
 ## Assembly 
 
-- [ebitengine/purego](https://github.com/ebitengine/purego) - 
+- [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [briansmith/ring](https://github.com/briansmith/ring) - An experiment.
@@ -906,7 +906,6 @@
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
-- [micro/micro](https://github.com/micro/micro) - A microservices toolkit
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [jessfraz/morningpaper2remarkable](https://github.com/jessfraz/morningpaper2remarkable) - A bot to sync the morning paper to a remarkable tablet.
@@ -1322,7 +1321,6 @@
 - [RockstarLang/rockstar](https://github.com/RockstarLang/rockstar) - Home of the Rockstar programming language
 - [googlecast/CastVideos-chrome](https://github.com/googlecast/CastVideos-chrome) - Reference Chrome Sender w/ Framework API: CastVideos-chrome application shows how to cast videos from Chrome browser that is fully compliant with the Cast Design Checklist.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-- [getgrav/grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
 - [Widen/cloudfront-auth](https://github.com/Widen/cloudfront-auth) - An AWS CloudFront Lambda@Edge function to authenticate requests using Google Apps, Microsoft, Auth0, OKTA, and GitHub login
@@ -1504,7 +1502,7 @@
 ## Markdown 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1554,7 +1552,8 @@
 
 ## Others 
 
-- [ananddtyagi/claude-code-marketplace](https://github.com/ananddtyagi/claude-code-marketplace) - Marketplace repo for Claude Code Plugins
+- [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
+- [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
 - [marckrenn/cc-mvp-prompts](https://github.com/marckrenn/cc-mvp-prompts) - 
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Frontier Open-Source Text-to-Speech
@@ -1742,6 +1741,7 @@
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
 - [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail) - Simple, modern & fast web-based email client
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
+- [getgrav/grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [panique/huge](https://github.com/panique/huge) - Simple user-authentication solution, embedded into a small framework.
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
@@ -1792,7 +1792,9 @@
 
 ## Python 
 
-- [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
+- [ananddtyagi/claude-code-marketplace](https://github.com/ananddtyagi/claude-code-marketplace) - Marketplace repo for Claude Code Plugins
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [pycountry/pycountry](https://github.com/pycountry/pycountry) - A Python library to access ISO country, subdivision, language, currency and script definitions and their translations.
@@ -1906,7 +1908,7 @@
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [pgjones/hypercorn](https://github.com/pgjones/hypercorn) - Hypercorn is an ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
 - [jointakahe/taktivitypub](https://github.com/jointakahe/taktivitypub) - A Python library for parsing and creating ActivityPub messages
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [mirumee/ariadne-codegen](https://github.com/mirumee/ariadne-codegen) - Generate fully typed Python client for any GraphQL API from schema, queries and mutations
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [Cicada-Software/cicada](https://github.com/Cicada-Software/cicada) - A FOSS, cross-platform version of GitHub Actions and Gitlab CI
@@ -2110,7 +2112,7 @@
 - [1Password/connect-sdk-python](https://github.com/1Password/connect-sdk-python) - Python SDK for 1Password Connect
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 - [emartech/escher-python](https://github.com/emartech/escher-python) - Library for HTTP request signing (Python implementation)
-- [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
+- [baserow/baserow](https://github.com/baserow/baserow) - Open-source no-code platform and the best alternative to Airtable. Build databases, applications, automations, and dashboards — all in one secure, self-hostable environment. Empower your team to create powerful tools without writing a single line of code.
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [Colin-b/httpx_auth](https://github.com/Colin-b/httpx_auth) - Authentication classes to be used with httpx
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
@@ -2218,7 +2220,7 @@
 - [osquery/osquery-python](https://github.com/osquery/osquery-python) - Python bindings for osquery's Thrift API
 - [otto-torino/django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5 that brings AI to the Django admin - https://baton.sqrt64.it/
 - [python-hyper/hpack](https://github.com/python-hyper/hpack) - Pure-Python HTTP/2 header encoding
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [florimondmanca/proxyx](https://github.com/florimondmanca/proxyx) - [No maintenance intended] Proof of concept lightweight HTTP/1.1 proxy service built with ASGI and HTTPX.
 - [oremanj/greenback](https://github.com/oremanj/greenback) - Reenter an asyncio or Trio event loop from synchronous code
@@ -2983,6 +2985,7 @@
 
 ## Rust 
 
+- [lumen-oss/lux](https://github.com/lumen-oss/lux) - A luxurious package manager for Lua
 - [losfair/bake](https://github.com/losfair/bake) - Bake microVMs into standalone executables
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
@@ -3277,7 +3280,7 @@
 ## Svelte 
 
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
-- [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
+- [obsmd-projects/obsidian-projects](https://github.com/obsmd-projects/obsidian-projects) - Plain text project planning in Obsidian
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
@@ -3517,9 +3520,9 @@
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
-- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
