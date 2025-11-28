@@ -1154,8 +1154,6 @@
 ## JavaScript 
 
 - [maxnowack/anthropic-proxy](https://github.com/maxnowack/anthropic-proxy) - Proxy server that converts Anthropic API requests to OpenAI format and sends it to OpenRouter. It's used to use Claude Code with OpenRouter instead of the Anthropic API
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
-- [ananddtyagi/claude-code-marketplace](https://github.com/ananddtyagi/claude-code-marketplace) - Marketplace repo for Claude Code Plugins
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
@@ -1169,7 +1167,6 @@
 - [anvilco/spectaql](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation
 - [wesbos/Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
 - [theCalcaholic/nextcloud-secrets](https://github.com/theCalcaholic/nextcloud-secrets) - The secrets app allows Nextcloud users to securely transmit e2e encrypted secrets (like passwords) to anyone
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [con-dog/serverless-architecture](https://github.com/con-dog/serverless-architecture) - 
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
@@ -1566,7 +1563,7 @@
 - [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
 - [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
 - [marckrenn/cc-mvp-prompts](https://github.com/marckrenn/cc-mvp-prompts) - 
-- [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
+- [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Frontier Open-Source Text-to-Speech
 - [iuliaturc/gguf-docs](https://github.com/iuliaturc/gguf-docs) - Docs for GGUF quantization (unofficial)
 - [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
@@ -1803,12 +1800,14 @@
 
 ## Python 
 
-- [Whamp/chirp](https://github.com/Whamp/chirp) - 
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files
+- [Whamp/chirp-stt](https://github.com/Whamp/chirp-stt) - 
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
+- [ananddtyagi/claude-code-marketplace](https://github.com/ananddtyagi/claude-code-marketplace) - Marketplace repo for Claude Code Plugins
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [pycountry/pycountry](https://github.com/pycountry/pycountry) - A Python library to access ISO country, subdivision, language, currency and script definitions and their translations.
@@ -1890,7 +1889,7 @@
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-allauth/
 - [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests
 - [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python) - pgvector support for Python
-- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
+- [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [ahornyai/ecc_cryptanalysis](https://github.com/ahornyai/ecc_cryptanalysis) - Automated cryptanalysis tool for elliptic curve cryptography
 - [j4mie/hotmetal](https://github.com/j4mie/hotmetal) - A tiny HTML generator 🔥🤘
 - [getludic/ludic](https://github.com/getludic/ludic) - 🌳 A type-safe HTML template engine for Python. Build dynamic web pages using Python components with a React-like approach.
@@ -2164,7 +2163,7 @@
 - [Contrast-Security-OSS/DjanGoat](https://github.com/Contrast-Security-OSS/DjanGoat) - Python and Django implementation of the OWASP RailsGoat project
 - [blackghost1987/Hungarian-Metadata-Agents-for-Plex](https://github.com/blackghost1987/Hungarian-Metadata-Agents-for-Plex) - A Metadata Agent for Plex Media Server to get movie titles and summaries from Port.hu hungarian movie database
 - [mathiasertl/django-ca](https://github.com/mathiasertl/django-ca) - Django app providing a Certificate Authority
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
 - [andrewleech/aioeasywebdav](https://github.com/andrewleech/aioeasywebdav) - An asyncio WebDAV Client in Python
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
 - [john-kurkowski/tldextract](https://github.com/john-kurkowski/tldextract) - Accurately separates a URL’s subdomain, domain, and public suffix, using the Public Suffix List (PSL).
@@ -3174,6 +3173,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [gardengim/keepwsl](https://github.com/gardengim/keepwsl) - A simple service to keep WSL alive
@@ -3298,6 +3298,7 @@
 ## Svelte 
 
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [obsmd-projects/obsidian-projects](https://github.com/obsmd-projects/obsidian-projects) - Plain text project planning in Obsidian
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -3602,7 +3603,7 @@
 - [kristoff-it/zig-okredis](https://github.com/kristoff-it/zig-okredis) - Zero-allocation Client for all the various Redis forks
 - [ducdetronquito/requestz](https://github.com/ducdetronquito/requestz) - HTTP client for Zig 🦎
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 ## reStructuredText 
 
