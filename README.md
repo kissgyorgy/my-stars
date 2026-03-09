@@ -116,6 +116,7 @@
 
 ## C 
 
+- [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [supabase/pg_crdt](https://github.com/supabase/pg_crdt) - CRDT support in Postgres (experimental)
@@ -149,6 +150,7 @@
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [rogerbinns/apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
 - [google/AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
+- [tailscale/sqlite](https://github.com/tailscale/sqlite) - work in progress
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
 - [planetbeing/libdmg-hfsplus](https://github.com/planetbeing/libdmg-hfsplus) - Portable libraries and utilities that manipulate HFS+ volumes and Apple's DMG images
 - [SumrakDZN/Namalsk-Server](https://github.com/SumrakDZN/Namalsk-Server) - All necessary information and files for any Namalsk server hoster.
@@ -339,7 +341,7 @@
 - [jloughry/BANCStar](https://github.com/jloughry/BANCStar) - BANCStar source code
 - [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
 - [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion) - Pyjion - A JIT for Python based upon CoreCLR
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
 - [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -533,7 +535,7 @@
 - [bomfather/minefield](https://github.com/bomfather/minefield) - Graphing SBOM's Fast.
 - [dim0x69/mdx](https://github.com/dim0x69/mdx) - 
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [twistlock/authz](https://github.com/twistlock/authz) - Docker Authorization Plugin
@@ -612,7 +614,6 @@
 - [tailscale/tscert](https://github.com/tailscale/tscert) - Minimal package for just the HTTPS cert fetching part of the Tailscale client API
 - [nix-community/go-nix](https://github.com/nix-community/go-nix) - Elements of Nix re-implemented as Go libraries [maintainer=@flokli]
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-- [tailscale/sqlite](https://github.com/tailscale/sqlite) - work in progress
 - [earthboundkid/requests](https://github.com/earthboundkid/requests) - HTTP requests for Gophers
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [kevinburke/nacl](https://github.com/kevinburke/nacl) - Pure Go implementation of the NaCL set of API's
@@ -631,6 +632,7 @@
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [inbucket/inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.
 - [reactive-tech/kubegres](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [tmaxmax/go-sse](https://github.com/tmaxmax/go-sse) - Fully featured, spec-compliant HTML5 server-sent events library
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
@@ -1163,6 +1165,7 @@
 
 ## JavaScript 
 
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [mitsuhiko/mini-presenter](https://github.com/mitsuhiko/mini-presenter) - 
@@ -1807,6 +1810,7 @@
 
 ## Python 
 
+- [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [rcarmo/vibes](https://github.com/rcarmo/vibes) - A simple mobile-focused chat app to talk to an agent via the ACP protocol
 - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic's original performance take-home, now open for you to try!
@@ -1874,7 +1878,7 @@
 - [aboutcode-org/license-expression](https://github.com/aboutcode-org/license-expression) - Utility library  to parse, normalize and compare License expressions for Python using a boolean logic engine. For expressions using SPDX or any other license id scheme.
 - [cachix/nixpkgs-python](https://github.com/cachix/nixpkgs-python) - All Python versions, kept up-to-date on hourly basis using Nix.
 - [sparckles/starfyre](https://github.com/sparckles/starfyre) - A reactive, WASM based SSR Python Web Framework for Front-End Applications
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
 - [click-contrib/click-option-group](https://github.com/click-contrib/click-option-group) - Option groups missing in Click
 - [llamastack/llama-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build LLM Apps
 - [cle-b/httpdbg](https://github.com/cle-b/httpdbg) - A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program.
@@ -2018,7 +2022,7 @@
 - [microsoft/picologging](https://github.com/microsoft/picologging) - An optimized logging library for Python
 - [trailofbits/polyfile](https://github.com/trailofbits/polyfile) - A pure Python cleanroom implementation of libmagic, with instrumented parsing from Kaitai struct and an interactive hex viewer
 - [tonybaloney/anti-patterns](https://github.com/tonybaloney/anti-patterns) - 
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [aio-libs/yarl](https://github.com/aio-libs/yarl) - Yet another URL library
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [P1sec/pycrate](https://github.com/P1sec/pycrate) - A Python library to ease the development of encoders and decoders for various protocols and file formats; contains ASN.1 and CSN.1 compilers.
@@ -2175,7 +2179,7 @@
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [skelsec/jackdaw](https://github.com/skelsec/jackdaw) - gather gather gather
 - [ccxt/binance-trade-bot](https://github.com/ccxt/binance-trade-bot) - Automated cryptocurrency trading bot
-- [binaryornot/binaryornot](https://github.com/binaryornot/binaryornot) - Ultra-lightweight pure Python package to check if a file is binary or text.
+- [binaryornot/binaryornot](https://github.com/binaryornot/binaryornot) - Binary file detection that actually works. 131 extensions, 55 magic-byte signatures, a trained decision tree, and zero dependencies.
 - [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 - [pallets/itsdangerous](https://github.com/pallets/itsdangerous) - Safely pass trusted data to untrusted environments and back.
 - [hoh/reloadr](https://github.com/hoh/reloadr) - Hot code reloading tool for Python
@@ -2243,7 +2247,7 @@
 - [Kludex/uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [kushalvyas/Python-Multiple-Image-Stitching](https://github.com/kushalvyas/Python-Multiple-Image-Stitching) - Implementation of multiple image stitching
-- [nficano/humps](https://github.com/nficano/humps) - Convert strings (and dictionary keys) between snake case, camel case and pascal case in Python. Inspired by Humps for Node
+- [nficano/humps](https://github.com/nficano/humps) - Convert strings and dict keys between snake_case, camelCase, PascalCase, and kebab-case in Python.
 - [giannitedesco/minotaur](https://github.com/giannitedesco/minotaur) - A pythonic, asynchronous, inotify interface
 - [mbraak/django-mptt-admin](https://github.com/mbraak/django-mptt-admin) - Django-mptt-admin provides a nice Django Admin interface for Mptt models
 - [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
@@ -3001,7 +3005,7 @@
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [jiripospisil/bickle](https://github.com/jiripospisil/bickle) - Bickle is a tool to display Travis CI build status from terminal
 - [pyrocms/vagrant-pyrocms](https://github.com/pyrocms/vagrant-pyrocms) - Configuration for vagrant and puppet systems, allowing you to build a PyroCMS-friendly environment in next to no-time.
-- [jubos/fake-s3](https://github.com/jubos/fake-s3) - A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies
+- [curtis0x/fake-s3](https://github.com/curtis0x/fake-s3) - A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies
 - [westbaer/SiriProxy](https://github.com/westbaer/SiriProxy) - A (tampering) proxy server for Apple's Siri
 - [plamoni/SiriProxy](https://github.com/plamoni/SiriProxy) - A (tampering) proxy server for Apple's Siri
 - [cforce/redmine_vote](https://github.com/cforce/redmine_vote) - Redmine Issues Vote Plugin
@@ -3019,6 +3023,7 @@
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [bellini666/pytest-language-server](https://github.com/bellini666/pytest-language-server) - 🔥 Pytest Language Server
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
@@ -3334,7 +3339,8 @@
 
 ## TypeScript 
 
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [badlogic/cchistory](https://github.com/badlogic/cchistory) - Extract and compare system prompts and tools from different Claude Code versions
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
@@ -3342,7 +3348,6 @@
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Code, Codex)
 - [gaearon/woodshed](https://github.com/gaearon/woodshed) - Create, run, rate, and iterate on your Claude Skills
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans visually, share with your team, send feedback to agents with one click.
@@ -3425,7 +3430,7 @@
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [natemoo-re/ultramatter](https://github.com/natemoo-re/ultramatter) - &lt;1kB frontmatter parser that supports a reasonable subset of YAML
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
