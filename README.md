@@ -174,7 +174,7 @@
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [microsoft/ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - A Linux version of the Procmon Sysinternals tool
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [fangfufu/httpdirfs](https://github.com/fangfufu/httpdirfs) - A filesystem which allows you to mount HTTP directory listings or a single file, with a permanent cache. Now with Airsonic / Subsonic support!
 - [nenadmarkus/pico](https://github.com/nenadmarkus/pico) - A minimalistic framework for real-time object detection (with a pre-trained face detector)
 - [DualCoder/vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs.
@@ -528,7 +528,7 @@
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
-- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted customer support desk. Single binary app.
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box. Supporting Docker Compose, Docker Swarm and Helm based applications.
 - [cloudwego/goref](https://github.com/cloudwego/goref) - Go heap object reference analysis tool
@@ -551,8 +551,9 @@
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [bracesdev/errtrace](https://github.com/bracesdev/errtrace) - An alternative to stack traces for your Go errors
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [Danlock/gogosseract](https://github.com/Danlock/gogosseract) - A reimplementation of https://github.com/otiai10/gosseract without CGo, running Tesseract compiled to WASM with Wazero
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -1812,11 +1813,13 @@
 
 ## Python 
 
+- [davidbrochart/tdiff](https://github.com/davidbrochart/tdiff) - Textual diff application
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [sadhgurutech/mailtrim](https://github.com/sadhgurutech/mailtrim) - Delete years of Gmail clutter in minutes. Free, open-source, privacy-first.
 - [mr-fatalyst/oxyde](https://github.com/mr-fatalyst/oxyde) - Oxyde ORM is a type-safe, Pydantic-centric asynchronous ORM with a high-performance Rust core designed for clarity, speed, and reliability.
-- [htdt/godogen](https://github.com/htdt/godogen) - Claude Code skills that build complete Godot 4 projects from a game description
+- [htdt/godogen](https://github.com/htdt/godogen) - Claude Code & Codex skills that build complete Godot projects from a game description
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
@@ -1834,7 +1837,7 @@
 - [Whamp/chirp-stt](https://github.com/Whamp/chirp-stt) - 
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [ananddtyagi/cc-marketplace](https://github.com/ananddtyagi/cc-marketplace) - Marketplace repo for Claude Code Plugins
@@ -1886,7 +1889,7 @@
 - [aboutcode-org/license-expression](https://github.com/aboutcode-org/license-expression) - Utility library  to parse, normalize and compare License expressions for Python using a boolean logic engine. For expressions using SPDX or any other license id scheme.
 - [cachix/nixpkgs-python](https://github.com/cachix/nixpkgs-python) - All Python versions, kept up-to-date on hourly basis using Nix.
 - [sparckles/starfyre](https://github.com/sparckles/starfyre) - A reactive, WASM based SSR Python Web Framework for Front-End Applications
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
 - [click-contrib/click-option-group](https://github.com/click-contrib/click-option-group) - Option groups missing in Click
 - [llamastack/llama-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build LLM Apps
 - [cle-b/httpdbg](https://github.com/cle-b/httpdbg) - A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program.
@@ -1907,7 +1910,6 @@
 - [windelbouwman/ppci](https://github.com/windelbouwman/ppci) - A compiler for ARM, X86, MSP430, xtensa and more implemented in pure Python
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [snok/django-guid](https://github.com/snok/django-guid) - Inject an ID into every log message from a Django request. ASGI compatible, integrates with Sentry, and works with Celery
-- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
 - [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
@@ -3280,7 +3282,7 @@
 - [simonswine/docker-gallery3](https://github.com/simonswine/docker-gallery3) - a docker for gallery3
 - [cloudlinux/kd_gallery3](https://github.com/cloudlinux/kd_gallery3) - a docker for gallery3
 - [rhinoceraptor/dotfiles](https://github.com/rhinoceraptor/dotfiles) - Jack's dotfiles
-- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
+- [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [zfsonlinux/zfs-auto-snapshot](https://github.com/zfsonlinux/zfs-auto-snapshot) - ZFS Automatic Snapshot Service for Linux
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [solita/docker-systemd](https://github.com/solita/docker-systemd) - systemd-enabled versions of Docker base images
@@ -3372,7 +3374,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere!
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) - An open-source coding helper. Very friendly!
@@ -3399,7 +3401,7 @@
 - [my-badges/my-badges](https://github.com/my-badges/my-badges) - Google's Moma Badges for GitHub
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account.
 - [lachsh/obsidian-recipe-view](https://github.com/lachsh/obsidian-recipe-view) - View your Obsidian notes as interactive recipe cards while you cook.
@@ -3413,6 +3415,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
@@ -3428,7 +3431,6 @@
 - [noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners) - An Obsidian plugin that adds banners to your notes
 - [davidohlin/instapaper-to-omnivore-import](https://github.com/davidohlin/instapaper-to-omnivore-import) - 📖 Import Instapaper content to Omnivore
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
